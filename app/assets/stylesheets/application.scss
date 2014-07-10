@@ -14,3 +14,25 @@
  *= require_self
  *= require_tree .
  *= require foundation */
+
+body{
+	background-image:url('/serve_image/treefall');
+	background-size:cover;
+	}
+
+div{
+	background:white
+	}
+
+div#innie{
+	background:transparent
+}
+
+div#pagebutt{
+	background-image:url('/serve_image/mountains');
+	background-size:cover;
+}
+
+div#first{
+	margin-top:5%
+}

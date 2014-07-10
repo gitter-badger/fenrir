@@ -3,7 +3,7 @@ class PagesController < ApplicationController
 		@article = Array.new
 	end
 
-	def singletons
+	def loki
 
 	end
 
