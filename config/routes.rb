@@ -1,5 +1,8 @@
 Fenrir::Application.routes.draw do
   root 'welcome#index'
+  get '/singletons' => 'pages#singletons'
+  get '/heatmaps' => 'pages#heatmaps'
+  get '/test' => 'pages#test'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
