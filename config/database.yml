@@ -50,7 +50,7 @@ test:
   database: fenrir_test
   pool: 5
   username: fenrir
-  password:
+  password: fenrir
 
 production:
   adapter: postgresql
