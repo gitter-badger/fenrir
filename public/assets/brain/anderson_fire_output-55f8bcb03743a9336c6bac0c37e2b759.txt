@@ -1,0 +1,141 @@
+count(incident_description)	incident_description
+1299	ems call, excluding vehicle accident with injury
+313	sick person
+201	person injured in a fall
+172	trouble breathing
+122	chest pain
+106	person unconscious / unresponsve
+105	medical emergency
+88	auto accident / person injured
+73	alarm system activation, no fire - unintentional
+70	motor vehicle accident with injuries
+64	assist back to bed
+58	abdominal pain
+57	diabetic emergency
+53	dispatched & cancelled en route
+50	person injured
+43	stroke
+42	person in seizures
+39	medical alarm
+33	alarm system sounded due to malfunction
+32	no incident found on arrival at dispatch address
+31	head injury
+31	carbon monoxide detector activation, no co
+29	non-breather / cardiac arrest
+28	attempted / threatening suicide
+28	power line down
+27	gas leak (natural gas or lpg)
+25	smoke detector activation, no fire - unintentional
+24	water or steam leak
+24	back pain
+23	building fire
+19	co detector activation due to malfunction
+17	cooking fire, confined to container
+17	possible heart attack
+17	smoke or odor removal
+17	smoke detector activation due to malfunction
+16	unauthorized burning
+16	smoke scare, odor of smoke
+16	unintentional transmission of alarm, other
+16	passenger vehicle fire
+14	assist invalid
+14	person assaulted
+14	public service
+13	outside rubbish, trash or waste fire
+13	overheated motor
+12	arcing, shorted electrical equipment
+12	detector activation, no fire - unintentional
+12	good intent call, other
+11	person with a laceration
+10	brush or brush-and-grass mixture fire
+10	motor vehicle accident with no injuries
+10	allergic reaction
+9	water evacuation
+9	false alarm or false call, other
+9	mulch fire
+9	poisoning
+9	carbon monoxide incident
+8	assist police or other governmental agency
+8	steam, vapor, fog or dust thought to be smoke
+8	gasoline or other flammable liquid spill
+7	hyperthermic emergency
+7	electrical wiring/equipment problem, other
+6	transfer/interfacility/palliative care
+6	chimney or flue fire, confined to chimney or flue
+6	person with a high fever
+5	person choking
+5	person with a headache
+5	outside rubbish fire, other
+5	sprinkler activation, no fire - unintentional
+4	bomb scare - no bomb
+4	service call, other
+4	lightning strike (no fire)
+4	oil or other combustible liquid spill
+4	water problem, other
+4	motor vehicle/pedestrian accident (mv ped)
+4	heat from short circuit (wiring), defective/worn
+4	medical alarm activation - unintentional
+4	animal rescue
+4	excessive heat, scorch burns with no ignition
+3	breakdown of light ballast
+3	eye injury
+3	malicious, mischievous false call, other
+3	extrication of victim(s) from vehicle
+3	cover assignment, standby, moveup
+3	system malfunction, other
+3	search for person in water
+3	watercraft rescue
+2	natural vegetation fire, other
+2	overpressure rupture, explosion, overheat other
+2	combustible/flammable gas/liquid condition, other
+2	auto accident - entrapment
+2	animal bite
+2	authorized controlled burning
+2	hazmat release investigation w/no hazmat
+2	removal of victim(s) from stalled elevator
+2	building or structure weakened or collapsed
+2	wind storm, tornado/hurricane assessment
+2	local alarm system, malicious false alarm
+2	sprinkler activation due to malfunction
+2	severe weather or natural disaster, other
+2	forest, woods or wildland fire
+2	ring or jewelry removal
+1	auto acc - vehicle fire / fuel leak
+1	extinguishing system activation
+1	maternity
+1	steam, other gas mistaken for smoke, other
+1	special outside fire, other
+1	munitions or bomb explosion (no fire)
+1	outside storage fire
+1	auto accident / person struck
+1	person stabbed
+1	trash or rubbish fire, contained
+1	person burned
+1	wrong location
+1	central station, malicious false alarm
+1	investigation
+1	vehicle fire
+1	drowning / water related injury
+1	wire down - arcing or on fire
+1	overpressure rupture of boiler from air or gas
+1	self-propelled motor home or recreational vehicle
+1	police matter
+1	extrication of victim(s) from machinery
+1	fuel burner/boiler malfunction, fire confined
+1	hypothermic emergency
+1	public service assistance, other
+1	rescue or ems standby
+1	biological hazard investigation
+1	outside stationary compactor/compacted trash fire
+1	dumpster or other outside trash receptacle fire
+1	accident, potential accident, other
+1	person shot
+1	hazardous condition, other
+1	emergency to property
+1	inci_descript
+1	fires in structure other than in a building
+1	fire in motor home, camper, recreational vehicle
+1	overpressure rupture of steam boiler
+1	smell of gas
+1	explosion (no fire), other
+1	lock-out

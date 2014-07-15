@@ -1,0 +1,1494 @@
+\baccess\b  an access route
+    \bcamera\b  camera and access
+    \b(handicap(|pe?d)|ada)\b  handicapped access
+    \bstairs?\b  an access stairway
+    \bwater\s*-?\s*front\b  waterfront access
+        \bsteps?\b  waterfront access steps
+            \breplac(e|ement|ing|ed)\b  waterfront access steps replacement
+            \brepair\b  waterfront access steps repair
+    \bsoftware\b  access software
+        \bupgrade\b  upgrade access software
+        \bconvert\b  convert access software
+\badd.*nozzles?\b  nozzle installation
+\baddi?ti?o?ns?\b  additions
+    \bbath(|rooms?)\b  bathroom additions
+    \bfloor\b  insufficient
+        \b(above|2nd)\b  second floor additions
+            \bbathroom\b  a second floor addition with a bathroom
+    \baccess\b  access route addition
+        \bstair(s?|way)\b  access stairway addition
+    \bbedroom\b  bedroom additions
+    \bductwork\b  ductwork additions
+    \bplumbing\b  plumbing additions
+    \brewire\b  electrical wiring
+    \boutlet\b  addition electrical wiring
+    \baccessory\b  accessory additions
+    \bdeck\b  deck additions
+    \bporch\b  porch additions
+    \bgarage\b  garage additions
+    \brestaurant\b  restaurant additions
+    \bstorage\b  storage additions
+    \bwater.*conditioner\b  water conditioner installation
+    \bstorm\s*-?\s*catch\b  storm catch basin additions
+\baddition\s*of\b  additions
+    \baccess\b  access route addition
+        \bstair(s?|way)\b  access stairway addition
+    \bdemolition\b  addition demolition
+\badditions?\s*alterations?\b  additions or alterations
+\badjust.*nozzles\b  nozzle adjustment
+^\s*ag\s*$  agricultural building
+\bala?l?rms?\b  alarm installation
+    \bpanel\b  alarm panel installation
+        \breplac(e|ement|ing|ed)\b  alarm panel replacement
+    \b(fire|suppress(|ion))\b  fire alarm installation
+        \badd(|itions?)\b  fire alarm additions
+        \bupgrad(e|ing|ed)\b  fire alarm upgrade
+        \bpanel\b  fire alarm panel installation
+            \brepairs?(|ing|ed)\b  fire alarm panel repairs
+            \breplac(e|ement|ing|ed)\b  fire alarm panel replacement
+        \balterations?\b  fire alarm alterations
+        \belevator.*recall\b  elevator fire recall system installation
+        \bextension\b  fire alarm system extension
+        \b(modif(y|ication)|remodel|re-?configure)\b  fire alarm modification
+        \breplace?(|ment|ing|ed)\b  fire alarm replacement
+    \bburglar\b  burglar alarm installation
+\b(alterations?|alter)\b  alterations
+    \bfinishi?n?g?\b  finishing alteration
+    \b(hotel|motel)\b  hotel or motel alterations
+    \bspa\b  hot tub or spa alteration
+    \bchurch\b  church alteration
+    \bdeck\b  deck alteration
+    \b(miscellaneous|misc)\b  miscellaneous alterations
+    \binterior\b  alterations
+    \bpier\b  pier alterations
+    \bbuilding\b  building alterations
+        \bamusement\b  amusement building alterations
+    \bporch\b  porch alterations
+    \bfamily\b  residential alterations
+    \bschool\b  school alterations
+    \brestaurant\b  restaurant alterations
+    \bapartment\b  apartment alterations
+    \btenant\b  tenant alterations
+        \bspri?nkle?r\b  sprinkler alteration
+            \bfire\b  fire sprinkler alteration
+        \bala?rm\b  alarm alteration
+            \bfire\b  fire alarm alteration
+    \b(offi?ce?|OFF\.?)\b  office alterations
+    (1|\bsingle)\s*\-?\s*family\b  single-family residence alterations
+    (2|\bmulti)\s*\-?\s*family\b  multi-family residence alterations
+    \b(electric(|a?l|le|i?ty)|ELEC)\b  electrical wiring alterations
+\bansul\b  Ansul fire suppression system installation
+\bantenn?ae?s?\b  antenna installation
+    \breplac(e|ement|ing|ed)\b  antenna replacement
+    \brepair(s?|ing|ed)\b  antenna repair
+    \bremove\b  antenna removal
+        \binstall\b  antenna replacement
+\bapartment\b  apartment construction
+    \badditions?\b  apartment additions
+    \balterations?\b  apartment alterations
+    \bcommon.*\barea\b  apartment common area construction
+    \bimprovements?\b  apartment improvements
+    \brepair\b  apartment repairs
+    \breplac(e|ement|ing|ed)\b  apartment replacement
+\barcha?eo?logical\b  an archaeological site
+\basphalt\b  asphalt laying
+    \brepairs?(|ing|ed)\b  asphalt repair
+    \breplace?(|ment|ing|ed)\b  asphalt replacement
+\bawnings?\b  awning installation
+    \bmodif(y|ying|ication)\b  awning modification
+    \brepairs?(|ing|ed)\b  awning repairs
+    \breplac(e|ement|ing|ed)\b  awning replacement
+\b(back\s*-?\s*flow|rpz)\b  backflow preventer installation
+    \brepair(s?|ing|ed)\b  backflow preventer repair
+    \breplac(e|ement|ing|ed)\b  backflow preventer replacement
+\bbanners?\b  a banner
+\bbarbeq?c?ue.*portable\b  a portable barbeque
+\bbarn\b  a barn
+    \brenovations?\b  barn renovation
+    \brepair\b  barn repair
+    \breplac(e|ement|ing|ed)\b  barn replacement
+    \badditions?\b  barn additions
+    \bimprovements?\b  barn improvements
+    \balterations?\b  barn alterations
+\bbasement\b  a basement
+    \badditions?\b  basement additions
+    \balterations?\b  basement alterations
+    \bfinish(ing|)\b  basement finishing
+    \bimprovements?\b  basement improvements
+    \bremodel(|ing|ed)\b  basement remodeling
+    \brenovations?\b  basement renovation
+        \b(bathroom|baths?)\b  basement and bathroom renovation
+    \brepair\b  basement repair
+    \breplac(e|ement|ing|ed)\b  basement replacement
+        \bwindows?\b  basement window replacement
+    \bwine\b  basement wine storage construction
+    \b(install|installation)\b  basement installation
+\b(bathrooms?|bath)\b  a bathroom
+    \bsewer\b  sewer work
+        \brepairs?\b  sewer repairs
+        \breplac(e|ement|ing|ed)\b  sewer replacement
+    \bshower\b  shower installation
+    \bdoor\b  a bathroom door
+    \bremodel\b  bathroom remodeling
+    \brenovat(e|ion|ing|ed)  bathroom renovation
+    \bkitchens?\b  kitchen and bathroom work
+        \brenovations?\b  kitchen and bathroom renovations
+        \breplac(e|ement|ing|ed)\b  kitchen and bathroom replacement
+        \bremodel(|ing|ed)\b  kitchen and bathroom remodeling
+    \bdemolition\b  bathroom demolition
+    \badditions?\b  bathroom addition
+    \bfinish(|ing)\b  bathroom finishing
+    \brenovation\b  bathroom renovation
+        \bbasement\b  basement and bathroom renovation
+    \b(construction|create)\b  bathroom construction
+    \bconsultations?\b  bathroom consultation
+    \balterations?\b  bathroom alterations
+\bboilers?\b  a boiler
+    \binstall(|ation|ing|ed)\b  boiler installation
+    \breplac(es?|ement|ing|ed)\b  boiler replacement
+    \brelocat(es?|ion|ing|ed)\b  boiler relocation
+\bbracing\b  bracing
+    \bearthquake.*resist  earthquake resistant bracing
+\b(building|bldg)\b  a building
+    \bbuilding\s*mounted\b  a sign
+    \boffice\b  office building
+        \balterations?\b  office building alterations
+        \badditions?\b  office building additions
+        \breplac(e|ement|ing|ed)\b  office building replacement
+        \brepair\b  office building repair
+        \bwhite\s*-?\s*box\b  office building whitebox
+    \bstructure\b  structure
+        \breplac(e|ement|ing|ed)\b  structure replacement
+        \brepair\b  structure repair
+        \bacce?sso?ry\b  accessory structure
+        \badditions?\b  structure additions
+        \balterations?\b  structure alterations
+        \bimprovements?\b  structure improvements
+    \b(roof|roofing)\b  roofing
+    \b(demoli?ti?o?n|demo?)\b  building demolition
+    \bdetached\b  detached building construction
+    \baccessory\b  accessory building construction
+    \bamusement\b  recreational building construction
+        \breplac(e|ement|ing|ed)\b  recreational building replacement
+        \brepair\b  recreational building repair
+        \balterations?\b  recreational building alterations
+        \badditions?\b  recreational building additions
+    \bmount.*freestand.*awning\b  a sign
+    \butility\b  utility building
+        \balterations?\b  utility building alterations
+        \brepairs?\b  utility building repair
+    \brenovations?\b  building renovations
+    \breplac(e|ement|ing|ed)\b  building replacement
+    \brepair(s?|ing|ed)\b  building repair
+\bbu?i?ld\s*-?\s*out\b  buildout
+    \btenant\b  tenant buildout
+\bbulkheads?\b  bulkhead
+    \breplac(e|ement|ing|ed)\b  bulkhead replacement
+    \brepair\b  bulkhead repair
+\bburner\b  burner installation
+    \bconver(t(|ing)|sion)\b  burner conversion
+    \brelocat(es?|ion|ing|ed)\b  burner relocation
+    \brepair(s?|ing|ed)\b  burner repair
+\bcables?\b  cable
+    \bserv(|ice)\s*ent(|rance)\b  service entrance cable
+    \breplac(e|ement|ing|ed)\b  cable replacement
+    \btv\b  cable TV installation
+\bcanopy\b  canopy installation
+\bcar\s*-?\s*po?rt\b  a carport
+    \badditions?\b  carport additions
+    \balterations?\b  carport alterations
+    \bimprovements?\b  carport improvements
+    \brepair\b  carport repair
+    \breplac(e|ement|ing|ed)\b  carport replacement
+\bcert(|ificat(ion|e))\b  certificate issued
+    \boccupancy\b  a certificate of occupancy
+\bchange\b(?!\s*out)  INSUFFICIENT
+    \b(occupant|occupancy)\b  change of occupant
+    \b(sign)\b  sign change
+    \bchange\s*-?\s*of\s*-?\s*use\b  change of use
+    \bservice\b  service change
+    \btenant\b  a change of tenant
+\bchannel.*letters?\b  signage
+\bchase\b  chase construction
+    \bhvac\b  chase construction and HVAC installation
+\bchiller\b  a chiller
+    \breplac(e|eme?nt|ing|ed)\b  chiller replacement
+    \brepair(s?|ing|ed)\b  chiller repair
+    \bswitch\b  a chiller switch
+\bchimney\b  chimney
+    \bremov(e|al)\b  chimney removal
+\b(church|mosque|religio(n|us))\b  religious building construction
+    \brepair\b  religious building repair
+    \balterations?\b  religious building alterations
+    \badditions?\b  religious building additions
+    \bdemo?(|li?ti?o?n)\b  religious building demolition
+    \breplac(e|ement|ing|ed)\b  religious building replacement
+    \brebuild\b  rebuild a religious building
+\bclub\s*-?\s*house  clubhouse
+\bcoach\b  a coach
+\b(comnew)\b  new commercial construction
+^\s*commercial\s*$  construction
+^\s*commercial\s*new\s*$  construction
+^\s*complaint\b  -BLANK-
+\bcomadd\b  commercial additions
+\bcomalt\b  commercial alteration
+\bcomfin\b  commercial finishing
+\bcomrem\b  commercial remodeling
+\bconcrete\b  concrete pouring
+    \bsteps?\b  concrete steps
+        \bremov(e|al)\b  concrete step removal
+\bcondenso?e?rs?\b  condenser installation
+    \breplac(e|ement|ing|ed)\b  condenser replacement
+    \brepair(s?|ing|ed)\b  condenser repair
+\b(condition(er?r|ing)|cool(|ing)|a\s*\/?\s*cs?|\ba\.?c\b\.?|air.*condensors?)\b  air conditioning installation
+    \bair\b  air conditioning installation
+        \b(replac(e|ement|ed|ing)|change\s*out)\b  air conditioning replacement
+        \bfu?i?rnace\b  furnace and air conditioning installation
+        \bducts?\b  air conditioning duct
+        \bheat(|ing)\b  heating and air conditioning installation
+    \bheat(|ing)\b  heating and air conditioning
+    (?<!w\/)(?<!with\s)\bhvac\b  heating, ventilation or air conditioning work
+    \b(replac(e|ement|ing|ed)|change\s*out)\b  air conditioning replacement
+\bcond(i?o?miniums?|os?)\b  condominium construction
+    \bremodel(|ing|ed)\b  condominium remodeling
+    \brenovat(ions?|ing|ed)\b  condominium renovations
+\bconduit\b  conduit installation
+    \btie\b  electrical work
+\bconstr?(|uction)\b  construction
+\bconsult(|ation)\b  a consultation
+    \bbathrooms?\b  a bathroom consultation
+    \bplumbing\b  a plumbing consultation
+\bcontrol\b  control
+\bcook(|ed|ing)  INSUFFICIENT
+    \barea\b  cooking area
+\bcooler\b  a cooler
+    \blines?\b  cooler line installation
+\bcreate.*opening\b  wall demolition
+\bcreate.*floor\b  construction
+\bct cabinet\b  a current transformer cabinet
+    \brepair(s?|ed|ing)\b  current transformer cabinet repair
+    \breplac(e|ement|int|ed)\b  current transformer cabinet replacement
+\bdisconnect(|ing|ion|ed)  disconnection
+    \butility\b  utility disconnection
+    \bservice\b  service disconnection
+\b(deck(s?|ing)|patios?)\b  deck or patio construction
+    \bcover\b  a deck or patio cover
+    \balterations?\b  deck or patio alterations
+    \bdemo?(|li?ti?o?n)\b  deck or patio demolition
+    \bpool\b  a pool deck
+        \bbonding\b  pool deck bonding
+    \brepairs?\b  deck or patio repair
+        \broof(|ing|ed)\b  deck or patio roof repair
+    \bfence\b  deck or patio fence construction
+    \bdata\b  deck or patio electrical or data wiring
+    \bwall\b  deck or patio wall construction
+        \bseat\b  deck or patio seat-wall construction
+    \breplac(e|ement|ing|ed)\b  deck or patio replacement
+        \bwindows?\b  deck or patio window replacement
+    \broof(|ing)\b  deck or patio roofing
+    \bsunroom\b  sunroom construction
+    \benclos(e|ure|ing)\b  deck or patio enclosure
+        \bscreen\b  deck or patio screen enclosure
+\bdemi?(|o(|li?ti?o?n|lish))\b  demolition
+    \bgarage\b  garage demolition
+    \bstruct(|ure)\b  structure demolition
+    \bpool\b  swimming pool demolition
+    \b(religious|church|temple|mosque)\b  religious building demolition
+    \brenovation\b  demolition and renovation
+    \brestaurant\b  restaurant demolition
+        \brenovations?\b  restaurant demolition and renovation
+    \btrailer\b  trailer demolition
+    \bwarehouse\b  warehouse demolition
+    \b(residence|dwelling|house)\b  residence demolition
+        \bmulti\b  multi-family residence demolition
+        \bsingle\b  single-family residence demolition
+\bdemores\b  residential demolition
+\bdevelopment\b  development
+    \bsite.*development\b  site development
+\bdevices?\b  device installation
+    \breplac(e|ement|ing|ed)\b  device replacement
+    \bentrance\b  a service entrance cable device
+    \brepair\b  device repair
+    \bvoltage\b  voltage device
+        \blow\b  low voltage device
+\bdoors?\b  a door
+    \breplac(e|ement|ing|ed)\b  door replacement
+    \b(handicap|ada)\b  handicapped access installation
+    \bwindows?\b  a door or window
+\bdrain(|age)\b  drainage
+    \bgrad(e|ing)\b  drainage and grading
+\bdrilled.*pears\b  drilled pears
+\b(dri?vi?eways?|drives?)\b  driveway
+    \b(slab|patio|deck)\b  paving or foundation work
+\bdry\s*-?\s*wall\b  drywall installation
+    \bfireblocking\b  drywall fireblocking
+    \brepair(s?|ing|ed)\b  drywall repair
+    \brelocat(e|ion|ing|ed)\b  drywall relocation
+    \breplac(e|ement|ing|ed)\b  drywall replacement
+    \b(demo|demolish|demolition)\b  drywall demolition
+\b(duct\s*-?\s*work|duct)\b  ductwork
+    \bsmoke\s*detect(ors?|ion)\b  a ductwork smoke detector
+    \baddition\b  ductwork for an addition
+    \bheat\s*-?\s*pump\b  ductwork and heatpump
+\b(dumpster|trash)\b  a dumpster
+    \benclosure\b  a dumpster enclosure
+\bduplex\b  duplex construction
+    \badditions?\b  duplex additions
+    \balterations?\b  duplex alterations
+    \brenovat(e|ion|ing|ed)\b  duplex renovation
+    \brepair(s?|ing|ed)\b  duplex repair
+\b(dwelling|residence|house|s\.?f\.?d|m\.?f\.?d|homes|single\s*-?\s*wide|double\s*-?\s*wide)\b  residence construction
+    \balter(|ations?)\b  home alterations
+    \bdry\s*-?\s*wall\b  drywall installation
+        \breplac(e|ement|ing|ed)\b  drywall replacement
+        \brepairs?\b  drywall repair
+    (?<!w\/)(?<!with\s)\bhvac\b  heating, ventilation or air conditioning work
+    \bfoundation\b  foundation construction
+    \baccessory\b  accessory structure construction
+        \badditions?\b  accessory structure additions
+        \balterations?\b  accessory structure alterations
+        \bimprovements?\b  accessory structure improvements
+        \brepair\b  accessory structure repair
+        \breplac(e|ement|ing|ed)\b  accessory structure replacement
+    \badditions?\b  residential additions
+    \bamp\b  electrical work for a residence
+    \b(multi\s*-?\s*family|2 family|or\s*more\s*\bfamily)\b  multi-family residence construction
+        \bamp\b  electrical work for a multi-family residence
+        \bheat\s*-?\s*pump\b  multi-family residence heat pump installation
+        \bmechanical\b  mechanical device installation
+        \bfixtures\b  multi-family residence fixture installation
+        \b(replac(e|ement|ing|ed)|rebuild)\b  multi-family residence replacement
+            \battach(ed|ment)\b  multi-family residence attachment replacement
+        \brepair\b  multi-family residence repair
+        \balterations?\b  multi-family residence alterations
+        \badditions?\b  multi-family residence additions
+        \bimprovements?\b  multi-family residence improvements
+    \bremodel(|l?ing|l?ed)\b  residential remodeling
+    \bsingle\s*-?\s*family\b  single-family residence construction
+        \bamp\b  electrical work for a single-family residence
+        \bheat\s*-?\s*pump\b  single-family residence heat pump installation
+        \bmechanical\b  single-family residence mechanical device installation
+        \bfixtures\b  single-family residence fixture installation
+        \b(replac(e|ement|ing|ed)|rebuild)\b  single-family residence replacement
+            \battach(ed|ment)\b  single-family residence attachment replacement
+        \brepair\b  single-family residence repair
+        \balterations?\b  single-family residence alterations
+        \badditions?\b  single-family residence additions
+        \bimprovements?\b  single-family residence improvements
+        \bpole.*service\b  single-family residence pole-service
+    \bfire\s*-?\s*place\b  a fireplace
+        \btank\b  a fireplace gas tank
+            \bline\b  fireplace gas tank and line installation
+    \bmech(|anical)\b  mechanical device installation
+    \bfixtures\b  fixture installation
+        \b(move|relocat(e|ion|ing|ed))\b  fixture relocation
+    \breplace.*wiring.*utility.*pole\b  utility pole wiring replacement
+    \brenovat(e|ion|ing|ed)\b  residence renovation
+    \brewir(e|ing|ed)\b  home rewiring
+    \bservice\b  residence service installation
+        \bamp\b  residencial electrical work
+    \b(demo|demolish|demolition)\b  residence demolition
+        \bsingle\b  single-family residence demolition
+\bdye\s*-?\s*test\b  a dyetest
+    \bpublic.*works?\b  public works dyetest
+\b(electri?c(|ity|al)|amp|(re)?-?circuit|outlets?|elec|power)\b  electrical work
+    \bmeter\b  an electrical meter
+        \b(replac(e|ement|ing|ed)|change\s*out)\b  electrical meter replacement
+        \bupgrade\b  an electrical meter upgrade
+        \breset\b  an electrical meter reset
+    \b(deck|patio)\b  deck or patio electrical work
+        \b(w\/|with).*electric(al)?\b  deck or patio construction (with electric)
+    \bmech(|anical)\b  electrical and mechanical work
+        \bupgrades?\b  electrical and mechanical upgrades
+    \bstorm.*damage\b  storm damage repair
+    \bsign\b  electrical sign
+    \bpool\b  swimming pool electrical work
+    \b(tub|spa)\b  hot tub or spa electrical work
+    \bbasement\b  basement electrical work
+    \belectric go cart\b  INSUFFICIENT
+        \balterations?\b  alterations
+        \badditions?\b  additions
+        \bimprovements?\b  improvements
+            \btenant\b  tenant improvement
+        \brepairs?\b  repairs
+\belevators?\b  an elevator
+    \bfire.*recall\b  elevator fire recall system installation
+    \bfire.*alarm\b  elevator fire alarm installation
+\bep\b  an entrance
+    \bsubdivision\b  a subdivision entrance
+        \bcomm(ercial)?\b  a subdivision or commercial area entrance
+    \bcommercial\b  a commercial entrance
+        \bsubdivision\b  a subdivision or commercial area entrance
+\bequipment\b  equipment
+\bescall?ators?\b  an escalator
+    \b(two|2|\d+|three|four|five|six|seven)\b  escalators
+\bevent\b  an event
+    \bspecial\b  a special event
+    \btents?\b  an event tent
+    \bstage\b  an event stage
+\bexpansion\b  expansion
+    \boffices?\b  office expansion
+    \bstudios?\b  studio expansion
+\bextension\b  an extension
+    \bpermit\b  an extension
+\banimal\b  INSUFFICIENT
+    \benclosure\b  animal enclosure
+\bFACSOFT\b  fascia and soffit installation
+\bfactory\b  factory construction
+    \badditions?\b  factory additions
+    \balterations?\b  factory alterations
+    \bimprovements?\b  factory improvements
+    \brepair\b  factory repair
+    \breplac(e|ement|ing|ed)\b  factory replacement
+\bfamily\b  residence construction
+    \badditions?\b  residential additions
+    \balterations?\b  residential alterations
+    \bimprovements?\b  residential improvements
+    \brepair\b  residence repair
+    \breplac(e|ement|ing|ed)  residence replacement
+\bfences?\b  fence construction
+    \brepair\b  fence repair
+    \breplac(e|ement|ing|ed)\b  fence replacement
+    \bpool\b  pool enclosure construction
+    \bdog\b  dog-run fence construction
+    \bdem(|o(|li?ti?o?n))\b  demolition fence installation
+\bfinal.*only\b  final remission of contract payment
+\bfinbas\b  basement finishing
+\bfinish(|ing)\b  finishing
+    \btenant\b  tenant finishing
+    \bbasement\b  basement finishing
+\bfire?alm\b  a fire alarm
+\bfire\s+protection\b  a fire protection
+\b(fire\s*damage|fire\s*repair)\b  fire damage repair
+\bfire.*dep.*connection\b  a fire department connection
+    \bremov(e|al|ing|ed)\b  fire department connection removal
+\bfire?hood\b  a fire suppression hood
+\brestore.*fire\b  fire damage repair
+\bfireplace\b  a fireplace
+    \btank\b  a fireplace gas tank
+        \b(line|lines)\b  fireplace gas tank and lines installation
+            \b(stove|heater|range)\b  appliance gas tank and lines installation
+        \b(stove|heater|range)\b  appliance gas tank installation
+\bfire.*services\b  fire services
+\bfiresupp\b  a fire suppression system
+    \bkitchen\b  a kitchen fire suppression system
+\bfixtures?\b  fixture installation
+    \b(move|relocat(e|ion|ing|ed))\b  fixture relocation
+    \breplac(es?|ement|ing|ed)\b  fixture replacement
+    \brepair(s?|ing|ed)\b  fixture repair
+\bflat\s*-?\s*work\b  flatwork
+\bflood\b  flood damage repair
+    \bdamage\b  flood damage repair
+    \bcontrol\b  flood control
+\b(flooring|floor)\b  flooring installation
+    \bupdate\b  a flooring update
+    \brepairs?(|ing|ed)\b  flooring repair
+    \badd\b  construction of second floor
+    \bcreate\b  general construction
+\bfollow\s*-?\s*up\b  -BLANK-
+\bfood\b  food-related
+\b(footer|footings?)\b  footing
+    \bfoundation\b  foundation footing
+\bfoundation\b  foundation pouring
+    \brepair(s?|ing|ed)\b  foundation repair
+    \bwaterproof(|ing)\b  foundation waterproofing
+    \bscaffolding\b  scaffolding on public pavement
+\bfountain\b  a fountain
+    \bspa\b  a spa or fountain
+        \bportable\b  a portable spa or fountain
+    \bportable\b  a portable fountain
+        \bspa\b  a portable spa or fountain
+\bfront\s*-?\s*steps?\b  front steps
+    \breplac(e|ement|ing|ed)\b  front step replacement
+    \brepair\b  front step repair
+\bfuel.*pumps?\b  fuel-pump installation
+    \breplac(es?|ement|ing|ed)\b  fuel-pump replacement
+\bfu?i?rnaces?\b  furnace installation
+    \b(condition(er|ing)|a\/?c)\b  furnace and air conditioning installations
+        \breplac(es?|ement|ing|ed)\b  furnace and air conditioning replacement
+    \brelocat(es?|ion|ing|ed)\b  furnace relocation
+    \brepla?c?(|es?|ement|ing|ed)\b  furnace replacement
+    \boutlets?\b  furnace outlet installation
+\bfurniture\b  furniture
+    \breplac(e|ement|ing|ed)\b  furniture replacement
+    \bsystem\b  system furniture
+        \blayout\b  system furniture layout
+\bFURRPL\b  replace existing furniture
+\b(?<!w\/)garage\b  garage construction
+    \b(residence|dwelling|home|house).*(w\/|with).*garage\b  residence construction
+    \badditions?\b  garage additions
+    \balterations?\b  garage alterations
+    \bdrains?\b  a garage drain
+    \bparking\b  parking garage construction
+        \bpublic\b  public parking garage construction
+    \bconversion\b  garage conversion
+        \bden\b  convert garage to den
+    \b(add|addition)\b  garage additions
+        \bbed\s*-?\s*room\b  add bedroom to existing garage
+            \b(above|over)\b  add bedroom above existing garage
+    \bdetach(|ed)\b  detached garage construction
+        \b(amp|wiring)\b  detached garage electrical wiring
+    \bdem(|o(|li?ti?o?n))\b  garage demolition
+    \brepair\b  garage repair
+    \breplac(e|ement|ing|ed)|rebuild\b  garage replacement
+        \b(re)?\s*-?\s*roof(|ing)\b  garage reroofing
+    \broof(|ing)\b  garage roofing
+    \bslab\b  garage slab pouring
+    \bpole.*service\b  garage pole-service
+\bgaragedet\b  a detached garage
+\bgas\b  gas
+    \baccessory\b  accessory structure gas
+        \bdwelling\b  accessory dwelling unit gas
+    \bboiler\b  a gas boiler
+        \bline\b  gas boiler line installation
+        \boutlets?\b  a gas boiler outlet
+        \breplac(es?|ement|ing|ed)\b  gas boiler replacement
+        \brepair(s?|ing|ed)\b  gas boiler repair
+        \binstall(|ation|ing|ed)\b  gas boiler installation
+    \b(church|religious)\b  religious building gas
+    \bdryer\b  a gas dryer
+        \binstall(|ation|ing|ed)\b  gas dryer installation
+        \brepair(s?|ing|ed)\b  gas dryer repair
+        \breplac(e|ement|ing|ed)\b  gas dryer replacement
+    \bfactory\b  factory gas
+    \bfamily\b  residential gas
+    \bfireplace\b  fireplace gas
+    \bgarage\b  garage gas
+        \bpublic\b  public garage gas
+            \bparking\b  public parking garage gas
+    \bapartment\b  apartment gas
+    \b(education(|al)|school)\b  school gas
+    \bgenerator\b  a gas generator
+        \bline\b  a generator gas line
+        \boutlets?\b  generator gas outlet installation
+        \brepair(s?|ing|ed)\b  gas generator repair
+        \breplac(e|ement|ing|ed)  gas generator replacement
+    \bmain\b  a gas main
+        \b(move|relocat(es?|ion|ing|ed))\b  gas main relocation
+        \brepair(s?|ing|ed)\b  gas main repair
+        \bgas\s*installation\b  gas
+    \bmobile.*home\b  mobile home gas
+    \boutlets?\b  gas outlets
+    \bpool\b  swimming pool gas
+    \brestaurant\b  restaurant gas
+    \broof\s*-?\s*top\s*units?\b  gas rooftop unit installation
+        \brepairs?(|ing|ed)\b  gas rooftop unit repair
+        \breplace?(|ment|ing|ed)\b  gas rooftop unit replacement
+    \bshed\b  shed gas
+    \bsplit.*system\b  gas split system installation
+        \brepairs?(|ing|ed)  gas split system repair
+        \breplace?(|ment|ing|ed)\b  gas split system replacement
+    \bstove\b  a gas stove
+        \binstall(|ation|ing|ed)\b  gas stove installation
+        \breplac(e|ement|ing|ed)\b  gas stove replacement
+        \brepair(s?|ing|ed)\b  gas stove repair
+        \boutlets?\b  gas stove outlets
+    \btank\b  a gas tank
+        \bconcrete.*pad\b  a gas tank concrete pad
+        \bremov(e|al)\b  gas tank removal
+    \bline\b  gas line installation
+        \brepair(s?|ed|ing)\b  gas line repair
+    \blogs?\b  gas log installation
+        \breplac(es?|ement|ing|ed)\b  gas log replacement
+    \bheater\b  gas heater installation
+        \bwater\b  gas water heater installation
+            \b(replac(e|ement|ing|ed)|changeout)\b  gas water heater replacement
+    \bremodeling\s*\bonly\b  remodeling
+    \bwarehouse\b  warehouse gas
+\b(gas\s*-?\s*pack?|combo\s*-?\s*unit)\b  a gas pack combo unit
+    \breplac(es?|ement|ing|ed)\b  gas pack combo unit replacement
+    \binstall(|ation)\b  gas pack combo unit installation
+    \brepair(s?|ed|ing)\b  gas pack combo unit repair
+\bgazebo\b  gazebo construction
+    \brepair\b  gazebo repair
+    \breplac(e|ement|ing|ed)\b  gazebo replacement
+\bgenerators?\b  a generator
+    \boutlet\b  a generator outlet installation
+    \bevent\b  a generator for an event
+    \bgas\b  a gas generator
+        \boutlets?\b  a generator gas outlet
+        \blines?\b  a gas generator line
+    \brepair(|ed|ing)\b  generator repair
+    \breplac(e|ement|ing|ed)\b  generator replacement
+    \bswitch\b  generator switch installation
+        \btransfer\b  generator transfer switch installation
+\bglazing\b  glazing
+    \brepairs?(|ing|ed)\b  glazing repair
+    \breplace?(|ment|ing|ed)\b  glazing replacement
+\bgrading\b  grading
+    \bdra?i?na?ge\b  drainage and grading
+\bgrinder.*pump\b  a grinder pump
+    \brepair(s?|ing|ed)\b  grinder pump repair
+    \breplac(e|ement|ing|ed)\b  grinder pump replacement
+\bguest\s*quarter  guest quarters
+\bgutters?\b  a gutter
+    \breplac(e|ement|ing|ed)\b  gutter replacement
+    \bsoffit\b  gutters, soffit and fascia
+\bh-frame\b  an H-frame
+\bhandler\b  a handler
+\bheat(|er|ing)\b  heater installation
+    \bhydronic\b  hydronic heater installation
+        \breplac(e|ement|ing|ed)\b  hydronic heater replacement
+        \brepair(s?|ing|ed)\b  hydronic heater repair
+    \bpump|heat\s*-?\s*pump\b  heat pump installation
+        \brelocat(es?|ion|ing|ed)\b  heat pump relocation
+        \breplac(e|ement|ing|ed)\b  heat pump replacement
+        \brepair(s?|ed|ing)\b  heat pump repair
+    \bwater\b  water heater installation
+        \brepair(s?|ing|ed)\b  water heater repair
+        \b(replac(e|ement|ing|ed)|changeout)\b  water heater replacement
+    \btank\b  gas tank for a heater
+        \blines\b  gas tank and lines for a heater
+    \b(cool|air)\b  heating and air conditioning installation
+    \breplac(e|ement|ing|ed)\b  heater replacement
+    \brepair(s?|ing|ed)\b  heater repair
+\bhoods?\b  duct hood installation
+    \b(fire|suppress(|ion))\b  fire suppression hood installation
+        \brepairs?(|ing|ed)\b  fire suppression hood repair
+        \breplac(e|ement|ing|ed)\b  fire suppression hood replacement
+    \bcontrols?\b  a hood control system
+    \bducts?\b  hood and duct installation
+    \bkitchen\b  kitchen hood installation
+    \b(wet|chem(|ical))\b  a wet chemical fire suppression system installation
+        \brepairs?(|ing|ed)\b  wet chemical fire suppression system repairs
+        \breplac(e|ement|ing|ed)\b  wet chemical fire suppression system replacement
+\bhospital\b  a hospital
+    \bmeeting @  a meeting
+    \bremodel(|ing|ed)\b  hospital remodeling
+    \brenovat(e|ions?|ing|ed)\b  hospital renovations
+    \bsystem\b  system installation
+    \bcommercial\b  system installation
+\b(hotel|motel)\b  hotel or motel construction
+    \balterations?\b  hotel or motel alterations
+    \badditions?\b  hotel or motel additions
+    \breplac(e|ement|ing|ed)\b  hotel or motel replacement
+    \brenovations?\b  hotel or motel renovations
+    \brepairs?\b  hotel or motel repair
+(?<!w\/)(?<!with\s)\bhvac\b  heating, ventilation or air conditioning work
+    \btenant.*finish\b  tenant finishing
+    \badditions?.*w(\/|ith\b)  additions
+    \bdrywall\s*partition\b  a drywall partition
+    \bfinish.*basement\b  basement finishing
+    \bremodel(|ing)\b  remodeling
+\bhvacrepla?c?e?m?e?n?t?\b  heating, ventilation or air conditioning replacement
+\bhydrant\b  a hydrant
+    \binstall(|ation|ing|ed)\b  hydrant installation
+    \brepair(s?|ing|ed)\b  hydrant repair
+    \brelocat(e|ion|ing|ed)\b  hydrant relocation
+\bimprovements?\b  improvements
+    \bsingle\s*-?\s*family\b  single-family residence improvement
+    \bmulti\s*-?\s*family\b  multi-family residence improvement
+    \bsite work\b  site work improvements
+    \btenant\b  tenant improvement
+\bindustrial\b  industrial building
+(?<!for )inspect(ion|ing|)\b  an inspection
+    \brental\b  rental unit inspection
+\binstall(|ing|ation)\b  installation
+    \bcircuits?\b  electrical work
+        \blights?\b  lighting electrical work
+    \bcontroller\b  controller installation
+    \bdevices?\b  device installation
+    \bfixtures?\b  fixture installation
+    \bline\b  line installation
+    \bshowers?\b  shower installation
+        \bwalk\s*-?\s*in\b  walk-in shower installation
+            \bbath\s*-?\s*tub\b  walk-in bathtub installation
+    \bsink\b  sink installation
+    \btell?ecommunication\s*rooms?\b  telecommunication room installation
+    \btelephone\b  telephone installation
+    \btenant\b  tenant improvement
+\binstitution(|al)\b  institutional building
+    \badditions?\b  institutional additions
+    \balterations?\b  institutional alterations
+    \bimprovements?\b  institutional improvements
+    \bremodel(|l?ing)\b  institutional remodeling
+    \brepair\b  institutional repair
+    \breplac(e|ement|ing|ed)\b  institutional replacement
+\binsulation\b  insulation
+    \binstall(|ation|ing|ed)\b  insulation installation
+    \brepair(s?|ing|ed)\b  insulation repair
+    \breplac(e|ement|ing|ed)\b  insulation replacement
+\birrigation\b  irrigation
+    \bsystem\b  irrigation system installation
+        \bbackflow\b  irrigation system backflow preventer installation
+\bisland\b  an island
+    \bkitchen\b  a kitchen island
+    \b(bbq|barbeque|barbecue)\b  a barbecue island
+\bjoist\b  a joist
+    \bgarage\b  a garage joist
+        \breplac(e|ement|ing|ed)\b  garage joist replacement
+    \brepairs?(|ing|ed)\b  joist repair
+    \breplac(e|ement|ing|ed)\b  joist replacement
+    \bstabilization\b  joist stabilization
+\bkitchens?\b  a kitchen
+    \badditions?\b  kitchen additions
+        \brenovat(es?d?|ing|ion)\b  kitchen renovations
+    \balterations?\b  kitchen alterations
+    \bdemo?i?(|lition)\b  demolition
+        \bselective\b  selective demolition
+    \b(hoods?|hools?)\b  kitchen hood installation
+        \b(wet|chemical)\b  a wet chemical fire suppression system
+        \bfire\s*suppress?ion\b  kitchen fire suppression system installation
+            \b(wet|chem(|ical))\b  a wet chemical fire suppression system
+    \bfire\s*suppress?ion\b  kitchen fire suppression system installation
+        \b(wet|chem(|ical))\b  a wet chemical fire suppression system
+    \bimprovements?\b  kitchen improvements
+    \bremodel(|l?ing)\b  kitchen remodeling
+        \bspace.*remodel  remodeling
+    \brenovations?\b  kitchen renovation
+        \bbath(|room)\b  kitchen and bathroom renovations
+    \brepair\b  kitchen repair
+    \breplac(e|ement|ing|ed)\b  kitchen replacement
+    \b(re)?wire\b  kitchen electrical work
+    \bsuppression\b  a kitchen fire suppression system
+        \bupgrade\b  a kitchen fire suppression system upgrade
+        \b(wet|chem(|ical))\b  a wet chemical kitchen fire suppression system
+    \bpanels?\b  kitchen panel installation
+        \bdevices?\b  kitchen panel and device installation
+    \bdevices?\b  kitchen device installation
+        \bpanels?\b  kitchen panel and device installation  
+\bknox\b  knox
+\blaboratory\b  laboratory construction
+    \bexpansion\b  laboratory expansion
+    \bremodel(|ing|ed)\b  laboratory remodeling
+    \brenovat(e|ions?|ed)\b  laboratory renovations
+\blandscaping\b  landscaping
+\blandslide\b  landslide work
+    \brepairs?\b  landslide repair
+\blibrary\b  library construction
+    \bremodel(|ing|ed)\b  library remodeling
+    \brenovat(e|ions?|ing|ed)\b  library renovations
+\blift\b  a lift
+    \bhandicap(|p|ped)\b  a handicap lift
+        \breplac(e|ement|ing|ed)\b  handicap lift replacement
+        \brepair(s?|ing|ed)\b  handicap lift repair
+\blight\b  lighting
+    \bcabinet(s?|ry)\b  remodeling
+    \bfixtures?\b  light fixture installation
+        \boutlet\b s  to install light fixtures and outlets
+\blogging\b  logging
+\bLWNSPL\b  lawn sprinkler installation
+\bmanufactured.*(home|res(|idence)|dwelling)\b  manufactured home installation
+    \b(replac(e|ement|ed|ing)|change\s*out)\b  manufactured home replacement
+    \btransport  manufactured home transportation
+    \b(electric(|ity|al)|amp)\b  manufactured home electrical work
+    \bplumb(|i?ng)\b  manufactured home plumbing
+    \bskirting\b  manufactured home skirting foundation
+    \bdestroyed\b  destroyed manufactured home
+        \bfire\b  manufactured home destroyed by fire
+\bmarina\b  marina construction
+    \badditions?\b  marina additions
+    \balterations?\b  marina alterations
+    \bimprovements?\b  marina improvements
+    \brepair\b  marina repair
+    \breplac(e|ement|ing|ed)\b  marina replacement
+\bmaso?n?ry\b  masonry
+    \bsteps\b  masonry steps
+        \breplac(es?|ements?|ing|ed)\b  masonry steps replacement
+\bmechanical\b  mechanical work
+\bmeeting\b  a meeting room
+\b(mercantile|store)\b  store
+    \brepair\b  store repair
+    \breplac(e|ement|ing|ed)\b  mercantile building replacement
+        \broof  mercantile building roof replacement
+    \bshell\b  store shell construction
+\bmeter\b  meter installation
+    \breset\b  a meter reset
+    \blower\s*meter\b  meter lowering
+    \bsecond\b  install a second meter
+    \breplac(e|ement|ing|ed)\b  meter replacement
+    \brepair(s?|ing|ed)\b  meter repair
+\bmini\s*-?\s*split\b  mini-split heat pump installation
+    \brepair(s?|ed|ing)\b  mini-split heat pump repair
+    \breplac(es?|ement|ing|ed)\b  mini-split heat pump replacement
+\b(misc\.?|miscellaneous|general)\b  miscellaneous work
+    \brepair\b  miscellaneous repair
+    \bsewer\b  miscellaneous sewer work
+        \brepair\b  sewer repair
+    \bstructural\b  a miscellaneous structural work
+    \belectric(|ity|al)\b  miscellaneous electrical work
+    \b(heat|er|ing)\b  miscellaneous heating components installation
+    \balterations?\b  miscellaneous alterations
+    \bimprovements?\b  miscellaneous improvements
+    \badditions?\b  miscellaneous additions
+    \breplac(e|ement|ing|ed)\b  miscellaneous replacement
+\bmobile.*\bhome\b  a mobile home
+    \bpark\b  a mobile home park
+    \bmeter reset\b  a mobile home meter reset
+    \badditions?\b  mobile home additions
+    \balterations?\b  mobile home alterations
+    \bimprovements?\b  mobile home improvements
+    \brepair\b  mobile home repair
+    \breplac(e|ement|ing|ed)\b  mobile home replacement
+\bmock\s*-?\s*up\b  a mock-up
+\bmodel.*\btract\b  residence construction
+\bmodular\b  modular home construction
+    \badditions?\b  modular home additions
+    \balterations?\b  modular home alterations
+    \bimprovements?\b  modular home improvements
+    \brepair\b  modular home repair
+    \breplac(e|ement|ing|ed)\b  modular home replacement
+    \b(sewer|water|gas)\b  modular home utilities connection
+\b(multi\s*-?\s*family|or\s*more\s*family)\b  multi-family residence construction
+    \bremodeli?n?g?\b  multi-family residence remodeling
+    \bdemolition\b  multi-family residence demolition
+    \baddition\b  multi-family residence addition
+    \balteration\b  multi-family residence alterations
+    \bcondition(er|ing)\b  multi-family residence air conditioning installation
+    \bsprinkler\b  multi-family residence lawn sprinkler installation
+        \bfire\b  multi-family residence fire sprinkler installation
+    \broof(|ing)\b  multi-family residence roofing
+    \battached\b  multi-family residence attachment
+    \bamp\b  electrical work for a multi-family residence
+    \bheat\s*-?\s*pump\b  install heatpump in multi-family residence
+    \bmechanical\b  install mechanical devices in a residence
+    \bfixtures\b  install fixtures in a multi-family residence
+    \breplace\b  multi-family residence replacement
+\bmonuments?\b  monument construction
+^\s*new\s*$  construction
+^\s*new\s*\bcommercial\s*(-|$)  system installation
+^\s*null\s*$  -BLANK-
+\bobstruction\b  obstruction
+    \bstreet\b  street obstruction
+        \bside\s*-?\s*walk\b  street and sidewalk obstruction
+    \bside\s*-?\s*walk\b  sidewalk obstruction
+        \bstreet\b  street and sidewalk obstruction
+\boccupa(ncy|tion)\b  occupancy
+    \bhome\b  home occupancy
+    \bstreet\b  street occupancy
+\boffice\b  office construction
+    \badditions?\b  office additions
+    \balterations?\b  office alterations
+    \bimprovements?\b  office improvements
+    \bremodel(s?|ing|ed)\b  office remodeling
+    \brenovat(ing|ed?|ions?)\b  office renovations
+\bother\b  general building
+\bpallet.*racking\b  pallet racking installation
+    \brepairs?\b  pallet racking repairs
+    \breplac(e|ement|ed|ing)\b  pallet racking replacement
+\bpanel\b  a panel
+    \b(electric(|al)|amp|volt(|age)|wiring)\b  an electrical panel
+        \bpool\b  swimming pool electrical work
+        \brepairs?\b  electrical panel repair
+        \breplace(s?|ement|ing|ed)\b  electrical panel replacement
+    \binstall(|ation)\b  panel installation
+        \bsign\b  a sign
+    \b(move|relocat(e|ion|ing|ed))\b  panel relocation
+    \breplac(e|ement|ing|ed)\b  panel replacement
+    \brepair(s?|ing|ed)\b  panel repair
+    \bupgrade\b  a panel upgrade
+    \bfire\b  fire panel installation
+        \balarm\b  fire alarm panel installation
+        \b(move|relocat(e|ion|ing|ed))\b  fire panel relocation
+        \bupgrad(e|ing|ed)\b  fire panel upgrade
+            \b(horns?|strobes?)\b  a fire suppression system upgrade
+        \brepair(s?|ing|ed)\b  fire panel repair
+    \bsign\b  a sign
+\bparking\b  parking
+    \blot\b  parking lot construction
+        \brepairs?\b  parking lot repair
+        \brepav(e|ing|ed)\b  parking lot repaving
+        \blighting\b  parking lot lighting
+        \bre\s*-?\s*stripe\b  parking lot restriping
+\bpartitions?\b  partition installation
+    \bdemo(|lition)\b  demolition
+        \bselective\b  selective demolition
+\bpasture\b  a pasture
+    \bcow\b  a cow pasture
+    \bhorse\b  a horse pasture
+\b(paving|pavers)\b  paving or resurfacing
+\bpergola\b  pergola construction
+\bpier\b  pier construction
+    \badditions?\b  pier additions
+    \bimprovements?\b  pier improvements
+    \bprivate\b  private pier construction
+    \brepair\b  pier repair
+    \breplac(e|ement|ing|ed)\b  pier replacement
+    \balterations?\b  pier alterations
+\bpiggy\s*-?\s*back\b  piggyback building construction
+\b(pipes?|piping)\b  piping
+    \bgas\b  gas piping
+    \brepair\b  piping repair
+    \breplac(e|ement|ing|ed)\b  piping replacement
+    \bwater\b  service water piping
+        \breplace\b  water pipe replacement
+    \bboilers?\b  piping for boiler system
+    \bunderground\b  underground piping
+\bplaster\b  plaster
+    \brepairs?(|ing|ed)\b  plaster repair
+    \breplac(e|ement|ing|ed)\b  plaster replacement
+\bplatform\b  a platform
+    \blift\b  a platform lift
+        \bvertical\b  a vertical platform lift
+\bPOD\b  portable storage container right of way
+\bpools?\b|\d{2}\'.*backyard\b  a swimming pool
+    \bspa\b  swimming pool and spa
+    \bdem(|o(|lition))\b  swimming pool demolition
+    \bequipment\b  pool equipment or piping
+    \bpiping\b  pool equipment or piping
+    \bhouse\b  pool house construction
+    \bremov(e|al|ing|ed)\b  swimming pool removal
+    \breplac(e|ement|ing|ed)\b  swimming pool replacement
+    \b(wiring|service panel)\b  swimming pool electrical work
+    \bin\s*-?\s*ground\b  an in-ground swimming pool
+\bpoolig\b  an in-ground pool
+\bporch\b  porch construction
+    \b(dwelling|residence|house|home).*(w\/|with).*porch\b  residence construction
+    \balterations?\b  porch alterations
+    \badditions?\b  porch additions
+    \balterations?\b  porch alterations
+    \bdemo?(li?ti?o?n)\b  porch demolition
+    \bimprovements?\b  porch improvements
+    \binfill\b  porch infilling
+        \boffice\b  miscellaneous construction
+    \brepair(s?|ing|ed)\b  porch repair
+    \b(replac(e|ement|ing|ed)|re-?build?t?(|ing))\b  porch replacement
+        \bwindows?\b  porch window replacement
+        \breplace.*siding\b  siding replacement
+    \bremov(e|al|ing|ed)\b  porch removal
+    \broof(|ing)\b  porch roofing work
+        \bbuild(|ing)|construct(|ing)\b  porch roof construction
+    \bscreen\b  screened porch construction
+    \blight\b  a porch light
+        \brelocat(es?d?|ion|ing)\b  porch light relocation
+        \brepair(|s|ed|ing)\b  porch light repair
+\bportico\b  portico construction
+\bplumb(|ing)\b  plumbing
+    \bdrain\b  drain work
+        \btile\b  drain tile installation
+    \bplaster\b  plaster
+        \brepairs?(|ing|ed)\b  plaster repair
+        \breplac(e|ement|ing|ed)\b  plaster replacement
+\bproject\b  a project
+\bpropane\s*tanks?\b  propane tank installation
+    \brepairs?\b  propane tank repairs
+    \breplac(e|ement|ing|ed)\b  propane tank replacement
+\bpubfac\b  a public facade
+\bramp\b  a ramp
+    \b(handicap(|p?ed)|ada)\b  handicap ramp installation
+    \bremov(e|al|ing|ed)\b  handicap ramp removal
+        \binstall(|ation|ing|ed)\b  handicap ramp replacement
+    \breplac(e|ement|ing|ed)\b  ramp replacement
+        \bhandicap(|p|ped)\b  handicap ramp replacement
+        \binstall(|ation|ing|ed)\b  handicap ramp installation
+    \brepair(s?|ing|ed)\b  handicap ramp repair
+\brefacing\b  refacing
+\brefrigeration\b  refrigeration
+    \blines?\b  refrigeration lines installation
+\brelocate.*nozzle\b  nozzle relocation
+\b(remodel|remodeling)\b  remodeling
+    \bstorm\b  storm damage repair
+        \bcatch\s*-?\s*basins?\b  a storm catch basin
+    \bbasement\b  basement remodeling
+    \bkitchen\b  kitchen remodeling
+    \bbathrooms?\b  bathroom remodeling
+    \bfire\b  fire damage repair
+    \bdemolition\b  demolition
+    \bmulti\s*-?\s*family\b  multi-family residence remodeling
+    \brepairs?\b  repair
+    \btenant\b  tenant remodeling
+        \bdock\b  tenant remodeling and dock addition
+\b(renovations?|renovate|renovating)\b  renovations
+    \b(hotel|motel)\b  hotel or motel renovations
+    \b(electrical|wiring)\b  electrical renovations
+    \bada\b  handicapped access
+    \bfixtures?\b  fixture renovations
+        \belectrical\b  electrical fixture renovations
+    \bbank\b  bank renovation
+        \balarm\b  bank fire alarm renovations
+    \blobby\b  renovation
+    \bbasement\b  basement renovations
+        \b(baths?|bathrooms?)\b  basement and bathroom renovation
+    \b(baths?|bathrooms?)\b  bathroom renovation
+        \bbasement\b  bathroom and basement renovation
+        \bkitchen\b  kitchen and bathroom renovation
+    \bhome\b  home renovation
+    \bheat\s*-?\s*pump\b  install heat pump in renovated home
+    \bplumb(|ing)\b  temporary plumbing during home renovation
+        \badd\b  additional plumping during renovation
+    \b(demo|demolish|demolition)\b  demolition during renovation
+        \bexploratory\b  exploratory demolition during renovation
+            \bprior\b  exploratory demolition prior to renovation
+\brepair\b|^damage$  repairs
+    \bfoundation\b  foundation repair
+    \bfire\b  fire damage repair
+    \bflood\b  flood damage repair
+    \bparking.*lot\b  parking lot repairs
+        \bre\s*-?\s*strip(ed?s?|ing)\b  parking lot repairs and restriping
+    \bplans?\b  general repairs
+    \bstructure\b  structure repair
+    \bwater.*damage\b  water damage repair
+    \broof\b  roof repair
+        \binstall\b  roof replacement
+\bresadd\b  residential additions
+\bresalt\b  residential alterations
+\bresnew\b  new residential construction
+\bresrem\b  residential remodeling
+^\s*new residential\s*$  construction
+^\s*new commercial\s*$  construction
+\brestaurant\b  a restaurant
+    \balterations?\b  restaurant alterations
+    \badditions?\b  restaurant additions
+    \b(expansion|expanding)\b  restaurant expansion
+    \btenant\b  tenant restaurant
+    \brepair\b  restaurant repair
+    \breplac(e|ement|ing|ed)\b  restaurant replacement
+    \bshell\b  restaurant shell construction
+    \bwhite\s*-?\s*box\b  restaurant whitebox construction
+\brestoration\b  restoration
+    \baccident\b  accident restoration
+    \bfire\b  fire damage restoration
+    \bflood\b  flood damage restoration
+\brevision\b  a plan revision
+    \bpermit\b  revision
+    \bcertificat(e|ion)\b  certification revision
+\bribbons\b  ribbons
+\bright\s*-?\s*of\s*-?\s*way  right of way
+    \bdata\b  phone or data cable right-of-way
+    \bplumb(|ing)\b  plumbing right-of-way
+\brepeat.*tract.*home  residence construction
+\brepip(e|ing)\b  repiping
+\b(re)?roof(|ing)\b  roofing
+    \brafters?\b  a roof rafter
+        \brepairs?(|ing|ed)\b  roof rafter repair
+        \breplace?(|ment|ing|ed)\b  roof rafter replacement
+    \bsiren\b  rooftop siren installation
+        \breplac(e|ement|ing|ed)\b  rooftop siren replacement
+        \brepairs?(|ing|ed)\b  rooftop siren repairs
+    \breplac(e|ement|ing|ed)\b  roof replacement
+    \brepairs?(|ing|ed)\b  roof repair
+        \binstall\b  roof replacement
+    \b(solar|photo-?voltaic)\b  solar panel installation
+        \bupgrade\b  a solar panel upgrade
+    \b(remove|removal)\b  roof removal
+        \binstall\b  roof replacement
+\brestamp\b  building plan revision
+\bconver(t(|ing)|sion)\b  roof conversion
+        \b(terrace|deck)\b  rooftop deck conversion
+    \bhot\b  hot roof installation
+    \breplac(e|ement|ing|ed)\b  roof replacement
+    \bsolar.*panels?\b  solar panel installation
+\broof\s*top\b  roof work
+    \bconver(t(|ing)|sion)\b  roof conversion
+        \b(terrace|deck)\b  rooftop deck conversion
+    \broof\s*top.*units?\b  a rooftop unit
+        \breplac(e|ement|ing|ed)\b  rooftop unit replacement
+\broom\b  a room
+    \badditions?\b  room additions
+    \bdrywall\b  drywall
+        \breplac(e|ement|ing|ed)\b  drywall replacement
+    \blaundry\b  a laundry room
+        \bexpan(d|sion|ing|ed)\b  laundry room expansion
+        \bremodel(|ing|ed)\b  laundry room remodeling
+    \bmechanical\b  install mechanical device in room
+    \badd.*\bto\b  remodeling
+    \bplumb(|ing)\b  plumbing for a room addition
+    \bserver.*room\b  a server room
+        \ba\/cs?\b|\bcondition  server room air conditioning installation
+            \breplac(e|ement|ing|ed)\b  server room air conditioning replacement
+            \brepair(s?|ing|ed)\b  server room air conditioning repair
+    \bsun\b  sun-room addition
+\bsafety\b  safety review
+    \bplan\b  safety plan review
+        \blife\b  life safety plan review
+\bsanitary\b  sanitary system installation
+    \brepairs?\b  sanitary system repairs
+    \breplac(e|ement|ing|ed)\b  sanitary system replacement
+\bscaffolding\b  scaffolding
+    \bpublic\b  scaffolding on public pavement
+\b(school|education(|al))\b  school construction
+    \balterations?\b  school alterations
+    \badditions?\b  school additions
+    \bcarne?i?a?val\b  a school carnival
+        \binflatables\b  school carnival inflatables
+    \bimprovements?\b  school improvement
+    \brepair\b  school building repair
+    \b(replac(e|ement|ed|ing)|rebuild)\b  school building replacement
+        \b(horn|strobe|equip(|ment))\b  school equipment replacement
+\bscreen\s*enclosure\b  screen enclosure installation
+    \brepairs?\b  screen enclosure repair
+    \breplac(e|ment|ing)\b  screen enclosure repair
+\bsecurity\b  INSUFFICIENT
+    \bsystem\b  security system
+\bseptic\b  septic
+\bservery\b  servery installation
+    \balter(|ations?|ing|ed)\b  servery alterations
+    \brenova?t?(|ions?|ing|ed)\b  servery renovations
+\b(sewer|laterals?)\b  sewer work
+    \breplac(e|ement|ing|ed)\b  sewer replacement
+    \brepair(s?|ing|ed)\b  sewer repair
+    \bwater\b  water or sewer work
+\bsfr\b  single family residence construction
+\bshed\b  a shed
+    \bdemo?(|li?ti?o?n)\b  shed demolition
+    \bdormer\b  a shed dormer
+    \bsub\s*-?\s*feed\b  subfeed for a shed
+    \badditions?\b  shed additions
+    \balterations?\b  shed alterations
+    \bimprovements?\b  shed improvements
+    \b(relocat(e|ion)|mov(e|ing))\b  shed relocation
+    \bremodel(|ing|ed)\b  shed remodeling
+    \bremov(e|al|ing|ed)\b  shed removal
+    \brepair\b  shed repair
+    \breplac(e|ement|ing|ed)  shed replacement
+\bshelters?\b  shelter construction
+    \brun\s*-?\s*in\b  run-in shelter construction
+        \bhorse\b  horse run-in shelter construction
+    \bhomeless\b  homeless shelter construction
+\bshell\b  shell construction
+\bshutters?\b  shutter installation
+    \bhurricane\b  hurricane shutter installation
+\bside\s*-?\s*walks?\b  sidewalk construction
+    \bhandicap\b  handicap sidewalk construction
+\bsiding\b  siding
+    \bsoffit\b  siding and soffit
+        \bfascia\b  siding, soffit and fascia
+            \broof(|ing)\b  siding, soffit, fascia and reroofing
+    \broof(|ing)\b  roofing and siding
+\b(sign(s?|age)|logo|alumacore|banner)\b  a sign
+    \bwall\b  a wall sign
+    \balterations?\b  sign alterations
+    \billuminated?\b  illuminated sign
+    \bbanner\b  banner
+    \brepair\b  sign repair
+    \breplac(e|ement|ing|ed)\b  sign replacement
+\bsignbldg\b  a building sign
+\bsignmonu\b  a monument sign
+\bsignmulti\b  signs
+\bsingle\s*-?\s*family\b  single-family residence construction
+    \bremodel(|ing)\b  single-family residence remodeling
+    \balterations?\b  single-family residence alterations
+    \badditions?\b  single-family residence addition
+    \bdem(|o(|li?ti?o?n))\b  single-family residence demolition
+    \bcondition(er|ing)\b  single-family residence air conditioning installation
+    \bsprinkler\b  single-family residence lawn sprinkler installation
+        \bfire\b  single-family residence fire sprinkler installation
+    \broof(|ing)\b  single-family residence roofing
+    \battach(ment|ed)\b  single-family residence attachment
+        \badditions?\b  single-family residence attachment additions
+        \balterations?\b  single-family residence attachment alterations
+        \bimprovements?\b  single-family residence attachment improvements
+        \brepair\b  single-family residence attachment repair
+        \b(replac(e|ement|ing|ed)|rebuild)\b  single-family residence attachment rebuilding
+    \bamp\b  single-family residence electrical work
+    \bheat\s*-?\s*pump\b  single-family residence heat-pump installation
+    \bmechanical\b  residential mechanical device installation
+    \bfixtures\b  single-family residence fixture installation
+    \breplace\b  single-family residence replacement
+        \battach(ment|ed)\b  single-family residence attachment replacement
+\bsink\b  a sink
+^site$  site work
+\b(?<!on)\s*-?\s*site\b  INSUFFICIENT
+    \bprep.*replac.*\b(mh|mobile home)\b  mobile home replacement site preparation
+    \bwork\b  site work
+        \bimprovements?\b  site work improvements
+    \bdrain(|age)\b  site drainage
+    \blighting\b  work-site lighting
+    \bpreparation\b  site preparation
+\bsite.*prep.*replac.*\bmh\b  manufactured home replacement site preparation
+\bsite\s*support\s*cabinet\b  site support cabinet installation
+\bservice\b  service installation
+    \bchange\b  service change
+    \betc\b  various service-relateds
+    \bfood\b  food service
+    \baddition\b  electrical wiring
+    \b(wir(e|es|ing)|cabl(e|es)|rewir(e|ing))\b  electrical wiring
+    \bamp\b  electrical wiring
+        \bupgrade\b  electrical wiring upgrade
+            \bsub\s*-?\s*feed\b  electrical wiring upgrade with subfeed
+                \bgarage\b  electrical wiring upgrade with subfeed to garage
+    \bpole\b  pole service
+        \blights\b  pole lights
+            \breplac(e|ement|ing|ed)\b  pole light replacement
+    \bstation\b  service station construction
+        \badditions?\b  service station additions
+        \balterations?\b  service station alterations
+        \bimprovements?\b  service station improvements
+        \brepair\b  service station repair
+        \b(replac(e|ement|ing|ed)|rebuild)\b  replace or rebuild a service station
+    \bupgrade\b  a service upgrade
+\bshampoo\s*stations?\b  shampoo station installation
+\bslab\b  slab construction
+\bsolar\b  solar equipment
+    \b(dwelling|home|house|residence).*(w\/|with).*solar\b  residence construction
+    \broof\b  roof-mounted solar panels
+    \bground\b  ground-mounted solar panels
+    \bsystem\b  solar system
+        \bpip(e|es|ing)\b  solar system piping
+    \bpanels?\b  solar panel installation
+        \bupgrade\b  a solar panel upgrade
+\bsport.*court\b  sport court
+\bsprinklers?\b  sprinkler system installation
+    \bdemo\b  demolish existing sprinkler system
+    \badd(|ing)\b  sprinkler system additions
+        \brelocat(es?|ion|ing|ed)\b  sprinkler system relocation
+    \baltera?t?(|ions?|ing|ed)\b  sprinkler system alterations
+    \bpenda?e?nt\b  pendent sprinkler installation
+        \brelocat(es?|ion|ing|ed)\b  pendant sprinkler relocation
+    \b(lawn|yard)\b  lawn sprinkler system installation
+    \bfire\b  fire sprinkler system installation
+        \bmodif(y|ications?|ying|ied)\b  fire sprinkler system modification
+    \bunder\s*-?\s*ground\b  underground sprinkler system installation
+    \brelocat(es?|ion|ing|ed)\b  sprinkler system relocation
+    \breplac(e|ement|ing|ed)\b  sprinkler system replacement
+    \bmodif(y|ication)\b  sprinkler system modification
+\bst\s*-?\s*removal\b  street tree removal
+\bstabilization\b  stabilization work
+\bstable\b  a stable
+    \bhorse\b  a horse stable
+    \bsheep\b  a sheep stable
+    \bcattle\b  a cattle stable
+    \blivestock\b  a livestock stable
+\bstage\b  a stage
+\bstair\s*-?\s*lifts?\b  stair lift installation
+    \brepair(s?|ing|ed)\b  stair lift repair
+    \breplac(e|ement|ing|ed)\b  stair lift replacement
+\bstair(\s*-?\s*way)?s?\b  stairway construction
+    \bre\s*-?\s*stripe\b  stairway restriping
+    \brelocat(es?|ion|ing|ed)\b  stairway relocation
+    \brepair(s?|ing|ed)\b  stairway repair
+    \breplac(e|ement|ing|ed)\b  stairway replacement
+\bstair\s*-?\s*wells?\b  stairwell construction
+    \brepair(s?|ing|ed)\b  stairwell repair
+    \brelocat(es?|ion|ing|ed)\b  stairwell relocation
+\bstandard.*tract  residence construction
+\bstations?\b  station construction
+    \bcharg(e|ing)\b  charging station construction
+        \brepair(s?|ing|ed)\b  charging station repair
+    \bgas\b  gas station construction
+\bsteel\s*bracing\b  steel bracing installation
+\bstoop\b  stoop construction
+    \bprivate.*walk\b  stoop and private walk construction
+\bstore\s*-?\s*fronts?\b  a storefront
+    \bframing\b  storefront framing
+        \bdamaged\b  damaged storefront framing
+\bstorm\b  storm damage repair
+    \bcatch\s*-?\s*basins?\b  a storm catch basin
+    \bsewer\b  a storm sewer
+        \brepair(s?|ing|ed)\b  storm sewer repair
+\bstove\b  stove installation
+    \brepair\b  stove repair
+    \breplac(e|ement|ing|ed)\b  stove replacement
+\bstructure\b  a structure
+    \baccessory\s*struc  an accessory structure
+    \badditions?\b  structure additions
+    \balterations?\b  structure alterations
+    \bimprovements?\b  structure improvements
+    \brepair\b  structure repair
+    \breplac(e|ement|ing|ed)\b  structure replacement
+    \bscaffolding\b  scaffolding
+\bsupply.*vents?\b  a supply vent
+    \brepair(s?|ing|ed)\b  supply vent repair
+    \b(move|relocat(es?|ing|ed))\b  supply vent relocation
+    \breplac(e|ement|ing|ed)\b  supply vent replacement
+\b(suppression|hood)\b  INSUFFICIENT
+    \b(fire|system)\b  a fire suppression system
+        \bkitchen\b  a kitchen fire suppression system
+        \bpanel\b  a fire suppression system panel
+    \bcontrols?\b  a hood control system
+    \bhood\b  a kitchen hood fire suppression system
+        \b(wet|chem(|ical))\b  a wet chemical kitchen hood fire suppression system
+        \bkitchen\b  a kitchen hood suppression system
+    \bkitchen\b  a kitchen fire suppression system
+\b(sump|(pump\s*-?\s*pit))\b  sump pump
+    \brepair\b  sump pump repair
+    \breplac(e|ement|ing|ed)\b  sump pump replacement
+        \bpit\b  sump pump pit replacement
+\bsun\s*-?\s*screen\b  sunscreen installation
+    \brepairs?\b  sunscreen repairs
+    \breplac(e|ement|ing|ed)\b  sunscreen replacement
+\bsyst?em\b  system installation
+    \bair\s*condition  air conditioning installation
+        \b(replac(e|ed|ing|ement)|change\s*out)\b  air conditioning replacement
+        \brepair(s?|ing|ed)\b  air conditioning repair
+    \bevacuation\b  evacuation system installation
+        \bsmoke\b  smoke evacuation system installation
+        \bfire\b  fire evacuation system installation
+    \bfire.*suppress  fire suppression system installation
+        \bupgrade\b  fire suppression system upgrade
+    \bgeothermal\b  geothermal system installation
+        \bupgrade\b  geothermal system upgrade
+        \brepla?c?(|es?|ing|ed)\b  geothermal system replacement
+    \bsecurity\b  a security system
+        \binstall(|ation|ing|ed)\b  security system installation
+        \brelocat(e|ing|ion|ed)\b  security system relocation
+    \bsplit\b  split system installation
+        \breplac(e|ement|ing|ed)\b  split system replacement
+    \bsprinker\b  sprinkler system installation
+    \bstorage\b  storage system installation
+        \brobotic\b  robotic storage system installation
+    \breplac(e|ement|ing|ed)\b  system replacement
+    \brelocat(es?|ion|ing|ed)\b  system relocation
+\btank\b  a gas tank
+    \bstorage\b  a storage tank
+        \bunderground\b  an underground storage tank
+            \bfill\b  underground storage tank fill
+    \bremov(e|al)\b  gas tank removal
+    \bwater\b  water tank
+        \bremov(e|al)\b  water tank removal
+    \b(replac(e|ement|ing|ed)|rebuild)\b  gas tank replacement
+    \brepair\b  gas tank repair
+    \blines?\b  gas tank and lines
+        \bheater(|s|ing)\b  heater gas tank and lines installation
+    \bheater(|s|ing)\b  heater gas tank installation
+        \blines?\b  heater gas tank and lines installation
+    \bconcrete.*pad\b  a concrete pad
+\btenfin\b  tenant finishing
+\btent\b  a tent
+    \bevent\b  an event tent
+    \bplatforms?\b  a tent and platform
+\btents\b  tents
+    \bevent\b  event tents
+    \bplatforms\b  tents and platforms
+\btower\b  a tower
+    \bcolocation\b  tower colocation
+    \bmodif(y|ications?|ying)\b  tower modification
+    \b(sat|dish)\b  a satellite dish tower
+        \brepair\b  satellite dish tower repair
+        \breplac(e|ement|ing|ed)\b  satellite dish tower replacement
+\btransfer.*grills?\b  a transfer grill
+    \binstall(|ation|ing|ed)\b  transfer grill installation
+    \b(move|relocat(es?|ing|ed))\b  transfer grill relocation
+    \brepair(s?|ing|ed)\b  transfer grill repair
+\btrap\b  a trap
+    \bgrease\b  a grease trap
+\btrapping\b  trapping
+\btree\b  tree
+    \bremov(e|al)\b  tree removal
+        \bequipment\b  tree removal equipment setup
+\btrailers?\b  a trailer
+    \badditions?\b  trailer additions
+    \balterations?\b  trailer alterations
+    \bconstruction\b  construction trailer
+    \bdemo?(|li?ti?o?n)\b  trailer demolition
+    \bpole.*service\b  trailer pole-service
+    \bramp\b  trailer access ramp
+\btransfer.*grill\b  a transfer grill
+    \binstall(|ation|ing|ed)\b  transfer grill installation
+    \brepair(s?|ing|ed)\b  transfer grill repair
+    \breplac(e|ement|ing|ed)\b  transfer grill replacement
+\btransformers?\b  a transformer
+\btrees?\b  tree
+    \bremov(e|al)\b  tree removal
+    \bplant(|ing|ed)\b  tree planting
+\btub\b  a tub
+    \breplac(e|ement|ing|ed)\b  tub replacement
+    \b(hot|spa)\b  hot tub or spa
+        \breplac(e|ement|ing|ed)\b  hot tub or spa replacement
+        \brepair\b  hot tub or spa repair
+        \balterations?\b  hot tub or spa alterations
+        \badditions?\b  hot tub or spa additions
+        \bimprovements?\b  hot tub or spa improvements
+\btuck\s*-?\s*point\b  tuckpointing
+\bturf\b  turf installation
+    \bsynthetic\b  synthetic turf installation
+\bumbrellas?\b  umbrella installation
+\busechange\b  land use change
+\b(UST|USTS)\b  an underground gas storage tank
+    \bremo?ve\b  remove underground gas storage tanks
+        \bnew\b  replace existing gas storage tanks
+\bvalves?\b  valve installation
+    \breplac(e|ement|ing|ed)\b  valve replacement
+    \brepair(s?|ing|ed)\b  valve repair
+\bvehicle.*charger\b  vehicle charger installation
+\bventilat(ion|e|ing)\b  ventilation
+    \bsystem\b  ventilating system
+\bvoltage\b  INSUFFICIENT
+    \blow\b  a low voltage system
+        \bhigh\b  electrical work
+    \bhigh\b  electrical work
+    \balarm\b  alarm installation
+        \bburglar\b  burglar alarm installation
+        \bfire\b  fire alarm installation
+        \badd(|itions?)\b  alarm additions
+\bwalk\s*-?\s*in\b  INSUFFICIENT
+    \brefrigerator\b  walk-in refrigerator
+    \bcloset\b  walk-in closet
+\bwalke?\s*-?\s*ways?\b  walkway construction
+    \breplac(es?|ement|ing|ed)\b  walkway replacement
+(?<!dry )(?<!dry)(?<!dry-)\b(walls?)\b  wall construction
+    \balterations?\b  wall alterations
+    \bdemo(|lition)\b  wall demolition
+    \bdry\s*-?\s*wall\b  drywall installation
+        \breplac(e|ement|ing|ed)\b  drywall replacement
+        \brepair(s?|ed|ing)\b  drywall repair
+    \bpartitions?\b  partition installation
+    \bmodif(y|ying|ications?|ied)\b  wall modifications
+    \bretain(er|ing)\b  retaining wall construction
+        \brepairs?\b  retaining wall repairs
+    \bpaint(|ing)\b  paint a wall
+        \bsign\b  paint a sign on a wall
+    \bper.*plans?\b  general construction
+        \brepairs?\b  general repairs
+    \bremov(e|al)\b  wall removal
+    \bseat\b  deck or patio seat-wall construction
+    \bsign\b  a wall-sign
+        \bpaint(|ing)\b  paint a sign on a wall
+    \bstabilization\b  wall stabilization
+    \bsystem.*to\b  system installation
+    \bheater\b  an in-wall heater system
+\bwarehouse\b  a warehouse
+    \balterations?\b  warehouse alterations
+    \bimprovements?\b  warehouse improvement
+    \bpole\s*-?\s*service\b  warehouse pole-service
+    \bexpansions?\b  warehouse expansion
+    \badditions?\b  warehouse additions
+    \bracking\b  warehouse racking
+    \brepair\b  warehouse repair
+    \breplac(e|ement|ing|ed)\b  warehouse replacement
+    \bdemo?(|li?ti?o?n)\b  warehouse demolition
+    \bwhite\s*-?\s*box\b  warehouse whitebox
+\bwater\b  water
+    \bconditioner\b  water conditioner installation
+    \bline\b  a water line
+        \b(repair(s?|ing|ed)\b|rep\b\.)  water line repair
+            \bsewer\b  water or sewer line repair
+        \breplac(e|ement|ing|ed)\b  water line replacement
+            \bsewer\b  water or sewer line replacement
+    \bpipes?\b  water pipes
+        \brepair(s?|ing|ed)\b  water pipe repair
+        \breplac(es?|ement|ing|ed)\b  water pipe replacement
+    \bsewer\b  sewer work
+        \brepair\b  water or sewer repair
+        \band\b  water and sewer work
+            \brepair\b  water and sewer repair
+        \bor\b  water or sewer work
+            \brepair\b  water or sewer repair
+    \bheat(ing|ers?)\b  water heater installation
+        \b(replac(e|ement|ing|ed)|changeout)\b  water heater replacement
+        \brepair(s?|ing|ed)\b  water heater repair
+    \bdamage\b  water damage repair
+    \bmain\b  a water main
+        \brepair(s?|ing|ed)\b  water main repair
+        \breplac(es?|ement|ing|ed)\b  water main replacement
+    \bmeter\b  a water meter
+        \breplac(e|ement|ing|ed)\b  water meter replacement
+        \brepair(s?|ing|ed)\b  water meter repair
+    \brepair\b  water utility repair
+\bwell\b  a well
+\b(vanill?a|white)\s*-?\s*box\b  white box
+    \brestaurant\b  restaurant white box
+\bwindows?\b  a window
+    \bbath(|rooms?)\b  a bathroom window
+        \bclosets?\b  remodeling
+    \breplac(e|ement|ing|ed)\b  window replacement
+    \bdoors?\b  a door or window
+    \bbay\b  a bay window
+        \bexten(d|sion)\b  bay window extension
+\bwiring\b  wiring
+    \brepair(s?|ing|ed)\b  wiring repair
+    \breplac(e|ement|ing|ed)\b  wiring replacement
+\bwood\s*-?\s*stove\b  a woodstove
+    \b(install|put|place)\b  woodstove installation
+\bwooden.*steps\b  wooden steps
+    \bmodif(y|ying|ications?|ied)\b  wooden step modification
+    \breplac(e|ement|ing|ed)\b  wooden step replacement
+    \brepairs?(|ing|ed)\b  wooden step repair
+\bzoning\b  zoning
+\bbooster\s*-?\s*pump\b  a booster pump
+    \brepair\b  booster pump repair
+    \breplace\b  booster pump replacement
+\bstrobes?\b  INSUFFICIENT
+    \b(handicap(|p?ed)|ada)\b  ADA compliant alarm installation
+    \bfire.*panel\b  INSUFFICIENT
+        \bupgrade\b  fire suppression system upgrades

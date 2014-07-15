@@ -1,0 +1,436 @@
+\babandon\s*ed\b  abandoned property violations
+	\bbusiness\b  abandoned business violations
+	\bhomes?\b  abandoned home violations
+	\blot\b  abandoned lot violations
+\baddress.*ident  address identification violations
+\badmin(\.|istrative) code\b  administrative code violations
+\b(animals?|cats?|(?<!hot )dogs?|chickens?|horses?|roosters?)\b  animal violations
+	\bbagging.*horse\s+manure\b  bagging horse manure
+	\bhorse in commercial zone\b  a horse in a commercial zone
+	\bcrowing\b  rooster crowing
+	\bdead.*in.*yard\b  dead animal left in yard
+	\b(cage|kennels?|chaine?d?|containment)\b  animal containment violations
+	\bleash\b  leash law violations
+	\boccupational license violation  occupational license violations
+\bappliances?\b  appliance violations
+	\bmechanical\b  mechanical appliance violations
+\bback\s*-?\s*yard\b  back yard code violations
+	\b(grass|high|fe?e?t\.|in(\.|ches))\b  back yard weed or grass violations
+	\bsheds?\b  back yard shed violations
+\bbanner\b  banner violations
+	\bexpired\b  failure to remove a banner with an expired permit
+\bbasket\s*-?\s*ball\s*hoop\b  basketball hoop violations
+	\bswale\b  placement of a basketball hoop in a swale
+	\bpower\s*-?\s*pole\b  placement of a basketball hoop on a power pole
+\bberm\b  berm violations
+	\bmissing\s*vegetation\b  missing vegetation on berm
+\bbroken\s+gates?\b  a broken gate
+\bbroken\s+lights?\b  broken light violations
+((?<!apt\. )(?<!apartment )building(?! in\b)|built)\b  building code violations
+	\bpermit\b  building without a valid permit
+		\bexpired\b  building with an expired building permit
+	\bresidential\b  residential building code violations
+	\bunsafe\s*building\b  unsafe building
+\bburn(ing|ed|)\s+down m(obile )?h(ome)?  burning down a mobile home
+\bbusiness\b  business code violations
+	\b(home|residen(ce|tial)|res)\b  running a business from home without proper permits
+	\blicense\b  an unlicensed business
+	\btaxe?s?\b  business tax violations
+		\breceipts?\b  business tax receipt violations
+	\byard\s*-?\s*sales?\s+(every|\d+(\s*x| times)|all the time)  over-frequent yard sales
+		\btruck\s*-?\s*loads?\b  over-frequent yard sales involving truck-loads of goods
+\bcamper\b  an unlicensed camper
+\bcampers\b  unlicensed campers
+\bcanal\b  canal violations
+	\bbank.*over\s*-?\s*grow(th|n)\b  canal bank overgrowth violations
+\bcarport\b  carport violations
+\bdonation.*(boxe?s?|bins?)\b  donation box placement violations
+\bcomplaints?\b  complaints
+	\bcitizen\b  citizen complaints
+	\bpolice\b  police complaints
+	\bodors?\b  odor complaints
+\bconstruction\s+(w\/o(ut)?|without).*permit  construction without a permit
+\bcoyotes?\b  coyotes on property
+\bcup\b  conditional use permit violations
+	\bkennel\b  running a kennel without a conditional use permit
+		\bpuppy\s*-?\s*mill\b  running an unlicensed kennel and puppy mill
+			\bresiden(ce|tial)\b  running an unlicensed kennel and puppy mill in a residential zone
+\bday\s*-?\s*care\b  daycare violations
+	\b(w\/o(ut)?|without)\s*a?\s*lic(\.?|ense)\b  an unlicensed daycare
+		\bpossible\b  a possible unlicensed daycare
+\b(debris|garbage|junk(?! vehicles?)|waste(?!(\s*|-)water)|trash)\b  debris or garbage violations
+	\bstored?.*in\s+a?\s*trailer\b  storing debris or garbage in a trailer
+	\bburn(s?|ing).*solid\s+waste\b  solid waste burning
+	\bjunk\s*-?\s*trailer\b  a junk trailer stored in the front yard
+	\bcontainers?\b  garbage container violations
+	\bburning\b  trash burning violations
+	\bhazardous\b  hazardous waste disposal violations
+	\binto lake\b  garbage or debris ending up in a lake
+	\btree debris\b  tree debris violations
+\bdemo(|lition)\b  unlicensed demolition
+	\bof.*mh\b  unlicensed demolition of a mobile home
+\bdev.*(without|w\/o(ut)?).*dev(elopment)?\s*orders?\b  development without development orders
+	\bno permits?\b  development without development orders or permits
+\bdigging\b  unlicensed digging
+	\btrenche?s?\b  unlicensed trench digging
+\bdilapidated seawall\b  a dilapidated seawall
+\bdispos(al|ing of)\b  disposal violations
+	\bentrails\b  improper entrail disposal
+	\b(dangerous|hazardous)\b  improper disposal of hazardous materials
+	\bgarbage\b  improper waste disposal
+\bdocks?\b  dock violations
+	\bdisrepair\b  possession of a dock in unpermitted disrepair
+\bdoor\b  door violations
+	\bwindow\b  door or window violations
+	\bgarage\b  garage door violations
+\b(?<!in )driveway\b  driveway violations
+	\bboat\s+parked\b  a boat parked on a driveway
+	\bopen\s+paint\s+cans?\b  open paint cans on a driveway
+	\bdug\s*-?\s*up\s+sidewalk\b  a dug-up sidewalk
+	\bsoil\b  soil on a driveway
+\bdump(ing|ed)\b  illegal dumping
+\bdumpster\b  dumpster violations
+\baccessory\s+dwellings?\b  accessory dwelling violations
+\belectric  electrical problems
+\benvironment(|al)\b  environmental violations
+\bexotic.*birds?\b  unlicensed exotic birds
+\bextension\s+cords?.*across.*(r(oa)?d|st(reet)?|ave(nue)?)\b  an extension cord running across a street
+\b(exposed\s+wires?|wires.*exposed)\b  electrical wiring violations
+	\b(plumbing|lack.*backflow.*water\s+lines?)\b  electrical wiring and plumbing violations
+\bfenc(e|ing)\b  fence violations
+	\bdamaging\s+complainant\'?s\s+fence\b  damage done to complainant's fence
+	\b(animal|dog)\b  insufficient animal containment
+	\bfence.*down\b  a downed fence
+	\b(row|right\s*-?\s*of\s*-?\s*way)\b  a fence intruding on right of way
+	\b(hedges?|bushes?|brush).*through fence.*(obstruct(|ing|ed)|obscur(e|ing)) traffic.*view\b  brush extending through fence to obscure traffic viewing triangle
+	\bstructure\b  fence//structure violations
+	\bvacant\b  vacant lot violations
+		\b(disrepair|maintenance)\b  vacant lot maintenance violations
+\bfire.*code\b  fire code violations
+\bfood\b  food violations
+	\bretail\b  retail food violations
+		\brestaurant\b  restaurant food violations
+\bforcing\s+children.*walk.*street  forcing children to walk in the street
+\bfore?closure\b  foreclosure
+\bfruit\s*-?\s*stand\b  an unlicensed fruit stand
+	\bresidential\b  an unlicensed fruit stand in a residential area
+		\b(rowy?|right\s*-?\s*of\s*-?\s*way)\b  an unlicensed fruit stand in a residential area on a right-of-way
+\bfurniture\b  furniture violations
+	\bindoor\b  indoor furniture violations
+		\bmattress(es)?\b  mattress or indoor furniture violations
+	\boutdoor\b  outdoor furniture violations
+	\b(scattered|jtd)\b  junk furniture scattered on property
+\bgates?.*blocking.*public.*access\b  an unpermitted gate blocking a public access road
+\bgazebo\b  gazebo violations
+	\bdisrepair\b  possession of a gazebo in unpermitted disrepair
+\bglazing\b  glazing violations
+\b(grading|drainage|runoff)\b  grading or drainage violations
+	\broofs?\b  roof drainage violations
+	\broad.*hazz?ard\b  grading or drainage violations resulting in a road hazard
+\bgraffiti\b  graffiti violations
+\b(health|safety)\b  health or safety violations
+	\b(grass|weeds?)\b  grass or weed violations
+	\benvironment(|al)\b  environmental health violations
+		\bpublic\b  environmental public health violations
+	\bpublic\b  public health violations
+\bhedges?\b  hedge violations
+	\b(fences?|walks?)\b  fence, hedge and walkway violations
+\bhouse\b  building code violations
+	\bhouse\s*numbe?rs?\b  failure to post house numbers
+	\bvacant\b  maintenance violations in a vacant home
+		\b(animals?|dogs?|cats?)\b  animals left in a vacant home
+			\b(without|w\/o(ut)?) utilit  animals left in a vacant home without utilities
+\bhousing\b  housing violations
+	\brental\b  rental housing violations
+\bhunting\s+camp\b  an unlawful hunting camp
+\billegal\s+gaming\s+equipment\b  illegal gaming equipment
+	\bsemi\'?s with\b  illegal gaming equipment on semi trucks
+		\brats?\b  illegal gaming equipment on semi trucks with rat infestations
+			\blarge\s+rats?\b  illegal gaming equipment on semi trucks with infestations of large rats
+			\bgiant\s+rats?\b  illegal gaming equipment on semi trucks with infestations of giant rats
+			\bship\s+rats?\b  illegal gaming equipment on semi trucks with infestations of ship rats
+			\bgargantuan\s+rats?\b  illegal gaming equipment on semi trucks with infestations of ROUS
+\binop(erable)?s?\b  inoperable vehicle violations
+	\byard\b  an inoperable vehicle in a yard
+\binfested\b  a vermin infestation
+\binstalled.*\bmh\b  an unlicensed mobile home
+\b(intermittent|unreliable)\s*(dri?nki?ng|pota?ble)\s*water\s*(service|supply)( or |\/)(supply|service)\b  intermittent drinking water service or supply
+\binvested.*spiders?\b  a spider infestation
+\binspection\b  an inspection
+	\bexpired\b  expiration of inspection permit
+	\bfailure.*call\s*for.*inspection\b  failure to call for an inspection
+\bjtd\b  junk, trash or debris violations
+\b(misc.*items|items.*misc)\b  miscellaneous code violations
+	\bremove.*public\b  failure to remove miscellaneous items from public view
+\blandscap(ed?|ing)\b  landscaping violations
+	\bmaterials?\b  landscaping materials violations
+	\birrigation\b  irrigation violations
+	\bburning.*brush\b  unpermitted burning of brush
+\blitter(ing)?\b  littering
+\bmaint(|enance)\b  maintenance violations
+	\bbuilding\b  building maintenance violations
+	\bproperty\b  property maintenance violations
+	\bsite\b  maintenance site violations
+\bmdciu\b  MDCIU violations
+\b(\d+)\s+mh\s*on\s*lot\b  too many mobile homes on one lot
+\bmold\b  mold violations
+	\bkitchen\b  kitchen mold
+		\bceiling\b  a molded kitchen ceiling
+\bno\s+meter\b  a missing meter
+\bmonument\b  monument violations
+	\bsign.*change\b  monument sign change without a permit
+\bmulch\b  mulch violations
+	\bpile\b  mulch pile violations
+		\blaa?rge\b  a large pile of mulch
+\b((multiple|misc).*viol|nothing to code\b)  miscellaneous code violations
+	\bseptic\s+tank\b  miscellaneous septic tank violations
+\bmultiple\s+cars.*front yard\b  multiple cars stored on a front lawn
+\bmultiple\s+mh\b  multiple mobile homes on one property
+\bnight\s+races\b  night races
+\bnoise\b  noise complaints
+\bnuisance\b  nuisance violations
+\b(occupa(ncy|tions?)|occupy|occuy?py?ing|occupants?|being occupied|living\s+in)\b  occupancy violations
+	\b(w\/o(ut)?|without)\s+utilities\b  occupying a building without utilities
+		\bundocumented\s+structure\b  occupying an undocumented structure without utilities
+	\bgarage\b  residential occupation of a garage
+		\b(business|repair|painting)\b  a business being run out of a residential garage
+	\bhome\b  home occupancy violations
+	\bbusiness\b  business occupancy violations
+	\b(recreational vehicle|rv)\b  a recreational vehicle occupancy violation
+		\bsewage\b  recreational vehicle occupancy and sewage violations
+\bo?ccupational\s+license\b  occupational license violations
+\boccupied\s+(w\/o(ut)?|without)\s+utilit(ys?|ies)\b  occupied structure without utilities
+\bodor\s+complaints?\b  odor complaints
+\boil\s*-?\s*spill  oil spillage
+\bopen\s*-?\s*air\b  open air gathering violations
+	\bvendors?\b  open air vendor violations
+\boperating.*kennels?\b  unlicensed operation of a kennel
+\bover?r\s*-?\s*gro(wth|wn?)\b  overgrowth violations
+\bpark(ed|ing)\b  parking violations
+	\bvacant\s+lot\b  vacant lot parking violations
+	\bboat\'?s?.*rv\'?s?\b  boat or RV parking violations
+	\binop(e?a?rable)?\b  inoperable vehicle parking violations  
+	\brv\b  RV parking violations
+		\bboat\'?s?\b  boat or RV parking violations
+	\bboat\'?s?\b  boat parking violations
+		\brv\b  boat or RV parking violations
+	\bparking\s*-?\s*lot\b  parking lot violations
+		\bstrip(e|ing)\b  parking lot stripe violations
+			\bfade(d?|ing)\b  allowing parking lot striping to fade
+	\bsemi\b  semi parking violations
+	\bsidewalk\b  parking on a sidewalk
+	\btrailer\b  trailer parking violations
+\bpermits?\b  INSUFFICIENT
+	\baddition\b  building an addition without a permit
+	\b(canopy|canpoy)\b  erecting a canopy without a permit
+	\bdeck\b  deck permit violations
+	\bdock\b  dock permit violations
+	\belectric(|al)\b  electrical permit violations
+	\bexpired?s?\b  a permit expiration
+		\bfence\b  a fence permit expiration
+		\bstorm\s*shutters?\b  a storm shutter permit expiration
+		\bwater\s*-?\s*heater\b  a water-heater permit expiration
+	\bfence\b  fence permit violations
+	\bpatio\b  patio permit violations
+		\broof\b  patio roof permit violations
+	\b(play(set|structure)|swingset)\b  erecting a playset without a permit
+	\brestaurant\b  an unlicensed restaurant
+	\brow\s+utilization\b  row utilization permit violations
+	\bshed\b  erecting a shed without a permit
+	\bsetback\b  setback construction violations
+	\bstorm.*shutters?\b  storm shutter permit violations
+	\b(worki?n?g?\s*(done)?\s*without|installe?d?)\b  unpermitted work
+		\bstadium lighting\b  installation of unpermitted stadium lighting
+\bpermitted\s*uses\b  violations of permitted uses
+\b(placing|putting)\s+parts.*(road|street)\b  placing parts in the road
+\bplanting\b  planting violations
+	\bovergrow(th|n|ing)\b  planting area overgrowth violations
+\bplay(set|structure)\b  playset construction violations
+	\bnot permitted\b  playset construction without a permit
+\bpoles?.*lights?\b  unlicensed pole lights
+\bponds?\b  pond violations
+	\bretention\b  retention pond violations
+^\s*pod\s*$  portable storage container violations
+\bpool\b  pool violations
+	\benclosure\b  pool enclosure violations
+		\b(without|w\/o(ut)?).*permits?\b  an unlicensed pool enclosure
+	\bgates?\b  pool gate violations
+		\brepair(s?|ing|ed)\b  failure to keep pool gates in good repair
+	\bpermit\b  pool permit violations
+		\bexpire(d?|ing)\b  expiration of pool permit
+	\b((un)?secured?|insecure)\b  failure to secure pool property
+\bpolution\b  INSUFFICIENT
+	\bpool\b  pool polution violations
+	\bcaus(e|ing)\b  polution violations
+\bpropane\b  propane violations
+	\bleak(ing)?\b  a propane leak
+\bpubll?ic\s*view\b  failure to maintain appearance of property in public view
+\braking.*leaves.*sandy?\s+road\b  raking leaves into a sandy road
+	\boak leaves\b  raking oak leaves into a sandy road
+\brats?\b  rodent infestation
+\breferral\b  violations referred by another agency
+\brenting.*rooms?\b  unlicensed room rental
+\brepair\s*-?\s*(shop|business)\b  an unlicensed repair shop
+	\bauto(mobile)?\b  an unlicensed automobile repair shop
+\brepair.*vehicles?\b  unlicensed vehicular repair
+	\bres(\.?|idential)\b  an unlicensed automobile repair shop
+^\s*repeat.*violat(ions?|ors?)\s*$  repeated violations
+\b(rights?\s*-?\s*of\s*-?\s*ways?|row violations?|in row|(block(|ing|ed)|obstruct(|ing|ed))\b\s+(access|row))\b  right-of-way violations
+	\b(blocking|obstructing)\b  obstruction of a right-of-way
+	\bbranches\b  overgrowth in right-of-way
+\broof\b  roofing violations
+	\bdisrepair\b  roofing in unpermitted disrepair
+\brot(ted|ten|ting)?\b  rot violations
+	\bfloor\b  a rotting floor
+		\boffice\b  a rotting office floor
+	\bceiling\b  a rotting ceiling
+	\bwalls?\b  rotting walls
+\brun\s*-?\s*off\b  runoff violations
+	\blake\b  runoff issuing to a lake
+	\bflooding\s+neighbor\'?s\s+property\b  runoff flooding neighbor's property
+		\bland alteration\b  runoff flooding neighbor's property due to land alteration
+\brunning.*from home\b  running a business from home
+\brunning.*kennel  an unlicensed kennel
+\brunning.*produce.*stand\b  an unlicensed produce stand
+\brv\s*-?\s*park\b  RV park violations
+	\bopening\b  opening an unlicensed RV park
+	\brunning\b  running an unlicensed RV park
+\brv.*in\s+yard.*power\b  a recreational vehicle in the yard with power
+\b(safety|unsafe)\b  safety violations
+\bsalvage\s*yard\b  an unlicensed salvage yard
+\bscreens?(?! for)\b  screen violations
+	\benclosure\b  screen enclosure violations
+	\bdisrepair\b  screen enclosure maintenance violations
+	\binsect\b  insect screen violations
+\bselling\s*dressed\s*chickens?\b  sale of dressed chickens
+\bseptic\s*-?\s*tank\b  septic tank violations
+\bseptic\s*-?\s*system\b  septic system violations
+\bset\s*-?\s*backs?\b  setback violations
+	\bmotocross\s+track\b  motocross track setback violations
+		\bnoise\b  motocross track setback violations leading to noise pollution
+	\btrailers?\b  trailer setback violations
+\bsew(er)?age.*smell\b  sewerage odor
+\bsew(er)?age.*m(obile )?h(ome)?  mobile home sewerage violations
+	\bwell\s*water\b  mobile home sewerage endangering well water
+\bsheds?\b  shed violations
+	\bextra\s+sheds?\b  extra sheds
+	\bsetback\b  setback construction violations
+\bshoreline\b  shoreline violations
+\bshutters?\b  shutter violations
+	\bstain(|ed|ing)\b  shutter staining violations
+\bsidewalks?\b  sidewalk violations
+	\bdriveway\b  sidewalk or driveway violations
+	\bvegetation\b  allowing vegetation to obstruct a sidewalk
+		\bclearance\b  allowing vegetation to encroach on minimum pedestrian sidewalk clearance
+	\bsidewalk\s*sale\b  operating a sidewalk sale without a permit
+\bsign(s?|age)\b  sign violations
+\bsite\s*-?\s*plan\b  site plan violations
+\bsky\s*-?\s*diving\b  skydiving in a prohibited area
+	\bparachuting\b  skydiving or parachuting in a prohibited area
+\bspray\s*-?\s*painting\b  spray painting violations
+	\bequipment\b  spray painting without proper equipment
+\bstadium\s+lights?\b  unlicensed stadium lights
+\bstages\s+of\s+destruction\b  property in disrepair
+	\bmh\b  a mobile home in disrepair
+\bstairs?\b  stairway violations
+\bstandards?\b  property standards violations
+	\b(homes?|dwellings?|hous(es?|ing))\b  dwelling standards violations
+\bstealing\s+power\b  stealing power
+\bstench\b  a severe bad odor
+\b(stor(age|ed|ing)|pod)\b  storage violations
+	\bchemical\b  chemical storage violations
+	\binop.*us(ed|ing)\b  using an inoperable vehicle for storage
+		\brv\b  using an inoperable RV for storage
+	\bshed\b  storage shed violations
+	\bfence by storage\b  fence violations
+	\bfurniture\b  furniture storage violations
+		\boutside\b  furniture stored outside
+	\bwaste\b  waste storage violations
+	\btrailers?.*zoned r  trailers stored on residential property
+\bstructures?\b  structure violations
+	\baccessory\b  accessory structure violations
+	\bmailbox\b  mailbox violations
+	\bpaint(|ing|ed)\b  structure paint violations
+	\bwindow\b  structure window violations
+		\bbroken\b  broken window violations
+	\b(unsafe|unasfe)\b  an unsafe structure
+	\bw\/o(ut)?\s+utilit(ys?|ies)\b  a structure without utilities
+		\bliving\b  a person living in a structure without utilities
+\bstump\b  stump violations
+	\bfront\s*yard\b  leaving a tree stump in the front yard
+\bsurfacing\b  surfacing violations
+\bswale\b  swale violations
+	\bpyra?i?mids?\b  pyramids in swale
+\btent\b  tent violations
+\btrailer.*lived\s+in\b  trailer occupancy violations
+	\bsanitation\b  trailer occupancy and sanitation violations
+\btrailer.*public.*view\b  parking of a restricted trailer in public view
+\b(trees?|oak)\b  tree violations
+	\bdead.*need.*remov  dead tree in need of removal
+	\b(shrubs?|bushe?s?)\b  tree or shrub violations
+		\bencroaching.*(right of way|row)\b  trees or shrubbery encroaching on a right of way
+	\bdebris\b  tree debris violations
+		\bburning\b  tree debris burning violations
+	\bdirt bikes tied to trees?\b  dirt bikes tied to trees
+\bunlicensed\s+contractor\b  an unlicensed contractor
+\bvacant\b  vacant property violations
+	\bdrugs?\b  a vacant property being used as a drug home
+	\bvacant\s*lot\b  vacant lot violations
+		\bmattress\b  a mattress in a vacant lot
+	\bhouse\b  vacant house violations
+	\building\b  vacant building violations
+	\b(grass|weeds?)\b  vacant lot grass or weed violations
+\b(occupied\s+by\s+vagrants?|squatting)\b  a building occupied by squatters
+\b(vehicles?|cars?|boats?|bikes?|trucks?|trailers?)\b  INSUFFICIENT
+	\bcars?.*front\s+yard\b  a car stored in the front yard
+		\b(cars|multiple)\b  multiple cars stored in a front yard
+			\b(sale|sell(ing)?)\b  selling cars from a residential front yard
+	\bboat.*front\s+yard\b  a boat stored in the front yard
+		\b(boats|multiple)\b  multiple boats stored in a front yard
+	\btrailer.*front\s+yard\b  a trailer stored in the front yard
+		\b(trailers|multiple)\b  trailers stored in a front yard
+	\btruck.*front\s+yard\b  a truck stored in the front yard
+		\b(trucks|multiple)\b  multiple trucks stored in a front yard
+	\bvehicles in yard\b  vehicles in a yard
+	\bjunk\s+vehicles?\b  junk vehicle violations
+	\bdirt bikes tied to trees\b  dirt bikes tied to trees
+	\b(abandoned|derelict)\b  an abandoned or derelict vehicle
+	\bpark(ed|ing)\b  vehicle parking violations
+		\bboat\'?s?.*rv\'?s?\b  boat or RV parking violations
+		\bsidewalk\b  sidewalk parking violations
+	\bparts?\b  vehicle part violations
+		\bappliances?\b  appliance and vehicle part violations
+	\b(inops?|inopera(tive|ble)s?|disabled)\b  inoperable vehicle violations
+		\byard\b  an inoperable vehicle in a yard
+			\bmultiple\b  inperable vehicles in a yard
+	\bcomm(|ercial)\b  commercial vehicle violations
+		\bdirt\s*-?\s*bike track\b  a commercial dirt bike track without a permit
+	\brec(|reational)\b  recreational vehicle violations
+	\b(repair\s*-?\s*shop|repair(ing)?.*res(idential|\.?.*area))\b  an unlicensed vehicle repair shop
+		\bauto(mobile)?\b  an unlicensed automobile repair shop
+	\brepair.*after\b  repairing vehicles too late at night
+\bvendor\b  vendor violations
+	\bpermit\b  vendor operating without a permit
+		\bopen\s*-?\s*air\b  open air vendor operating without a permit
+\bvisibility\s*triangle\b  visibility triangle violations
+\bvision\b  line of sight violations
+	\bhazards?\b  vision hazard violations
+\bwalls?\b  wall violations
+	\bexterior\b  exterior wall violations
+\bwatering\b  unauthorized watering
+\bwater\s*from.*neighbor\'?s\s+(house|home|apartment|apt\.?)  getting water from a hose connected to a neighbor's home
+\bborrowing\s+water\s*from.*neighbors?\b  borrowing water from neighbors
+\bwater.*restriction\b  water restriction violations
+\b(weeds?|grass|ya?r?d.*ft\.? high)\b  weed or grass violations
+\bwelding.*night\b  night welding
+\bwindows?\b  window violations
+	\bbroken\b  broken window violations
+		\boccupied\b  broken window violations in an occupied home
+		\bunoccupied\b  broken window violations in an unoccupied home
+	\bdoors?\b  door or window violations
+	\bmissing.*glass\b  missing window glass
+	\bshrubs?\b  shrubs obscuring windows
+\b(wood|poles?).*water\b  leaving wood or poles in water
+\b(on\s*-?\s*going\s+yard\s*-?\s*sales?|yard\s*-?\s*sales?\s+(every|\d+(\s*x| times)|all the time))  over-frequent yard sales
+	\bbringing\s+in.*truck\s*-?\s*loads?\b  over-frequent yard sales bringing in truckloads of goods
+\bzoning\b  zoning violations

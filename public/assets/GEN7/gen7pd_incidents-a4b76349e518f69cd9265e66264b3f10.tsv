@@ -1,0 +1,320 @@
+\b911\b  a 911 call
+	\bhangup\b  a 911 hangup
+		\bopen line\b  a 911 hangup or open line
+			\bmisdial\b  a 911 hangup, misdial or open line
+	\bopen line\b  a 911 open line
+		\bhangup\b  a 911 hangup or open line
+			\bmisdial\b  a 911 hangup, misdial or open line
+	\bmisdial\b  a 911 misdial
+		\bhangup\b  a 911 hangup or misdial
+			\bopen line\b  a 911 hangup, misdial or open line
+\babandoned (car|truck|veh(ic(le)?)?)\b  an abandoned vehicle
+\babdominal pain\b  a person with abdominal pain
+\badopt\s*-?\s*a\s*-?\s*school\b  Adopt a School duties
+\balarms?\b  an alarm
+	\bbuglary?\b  a burglar alarm
+		\bintru(sion|der)\b  an intrusion or burglar alarm
+	\bfire\b  a fire alarm
+		\bcomm?erc(ial)?\b  a commercial fire alarm
+			\b(apa?r?t(ment)?|multi)\b  an apartment building fire alarm
+		\b(apa?r?t(ment)?|multi)\b  an apartment building fire alarm
+	\bhold\s*-?\s*up\b  a hold-up alarm
+	\bintru(sion|der)\b  an intrusion alarm
+		\bburglary?\b  an intrusion or burglar alarm
+	\bmedical\b  a medical alarm
+	\bpanic\b  a panic alarm
+	\bsmoke\b  a smoke alarm
+\ballerg(ies|ic)\b  a person with an allergy problem
+	\breaction\b  a person with an allergic reaction
+\balzheimers?\b  an alzheimers-related incident
+	\bsearch\b  a search for an alzheimers patient
+\banimal abuse\b  animal abuse
+\banimal bites?\b  an animal bite
+\banimal complaints?\b  an animal complaint
+\banimal problems?\b  an animal problem
+\barrest\b  an arrest
+\bass?a?u?lt?\b  assault
+	\bbat?t(e?ry)?\b  assault and battery
+		(?<!\bno |without |w\/o )\bweapon\b  assault and battery with a weapon
+	(?<!\bno |\bnot |\bwithout |\bw\/o )\bweapon\b  assault with a weapon
+	(?<!\bno |\bnot |\bwithout |\bw\/o )\bems\b  an assault (EMS needed)
+\b(assist(ing|ance)?.*(agency|police)|(agency|police).*assist(ing|ance)?)\b  offering assistance to another agency
+\battempt.*locate\b  an attempt to locate
+\bback pain\b  a person with back pain
+\bbad checks?\b  a bad check
+	\bpassing bad checks?\b  a person passing bad checks
+\bbat?t(e?ry)?\b  battery
+	\bass?a?u?lt?\b  assault and battery
+		(?<!\bno |without |w\/o )\bweapon\b  assault and battery with a weapon
+	(?<!\bno |without |w\/o )\bweapon\b  battery with a weapon
+\bbite\b  a bite
+	\banimal\b  an animal bite
+	\bdog\b  a dog bite
+\bbleeding\b  a person bleeding
+	\blacerations?\b  a person with lacerations
+\bblood pressure\b  a person with blood pressure problems
+\bbolo\s*-?\s*(patrol)\b  B.O.L.O. patrol duty
+\bbolo\s*-?\s*ncic\b  B.O.L.O.
+\bbreaking.*entering\b  breaking and entering
+\b((broken|fractured) bones?|bones? (fracture(s|d)|broken))\b  a person with broken or fractured bones
+\bburglary\b  burglary
+	\battempt(ed)?\b  an attempted burglary
+	\binactive\b  an inactive burglary
+	\bin progress\b  a burglary in progress
+		\battempt(ed)?\b  a burglary attempt in progress
+\bburns?\b  a person with burns
+\bbusiness check\b  a business check
+\bcall complainant\b  a phone call with a complainant
+\bchest pain\b  a person with chest pain
+\bcity business\b  city business
+\bcustody\b  a custody issue
+	\bchild\b  a child custody issue
+	\binvalid\b  an invalid custody issue
+		\bchild\b  a child custody issue
+\bchildbirth\b  childbirth
+\bchoking\b  a choking person
+\bcocaine\b  cocaine
+	\bpossession\b  possession of cocaine
+	\b(sale\b|selling\b|traff?i(c|k))  a person trafficking cocaine
+\bcodes? enforcement\b  codes enforcement
+\bcriminal damaging\b  criminal damaging
+	\bknowing  a person knowingly conducting criminal damaging
+	\bendangering\b  criminal damaging or endangering
+		\bknowing  a person knowingly conducting criminal damaging or endangering
+\bcriminal mischief\b  criminal mischief
+\b(damaged? property|property damage)\b  property damage
+\bdisorderly\b  disorderly behavior
+	\bjuveniles\b  disorderly juveniles
+(?<!criminal )\bdamaging\b  damaging
+	(?<!criminal )\bendangering\b  damaging or endangering
+\bdeath\b  a death
+	\bdismemberment\b  death and dismemberment
+^detail$  a detail
+\bdiabe(tic|tes)\b  a person with diabetic issues
+\bdifficulty breathing\b  a person with difficulty breathing
+\bdisabled motorist\b  a disabled motorist
+\bdisorderly (conduct|persons?)\b  disorderly conduct
+	\b(intox(icated|ication)?|drunk)\b  intoxicated disorderly conduct
+\bdispute\b  a dispute
+	\bactive\b  an active dispute
+	\binactive\b  an inactive dispute
+	\bcustody\b  a custody dispute
+	\bneighbors?\b  a neighbor dispute
+\bdisturbance\b  a disturbance
+^\s*doa\s*$  a person dead on arrival
+\b(dog barking|barking dog)\b  a barking dog
+\bdog bite\b  a dog bite
+\bdomestic\b  a domestic matter
+	\bdispute\b  a domestic dispute
+		\bverbal\b  a domestic dispute (verbal only)
+			(?<!\bno |\bnot |\bwithout |\bw\/o )\bviolence\b  domestic violence
+		(?<!\bno |\bnot |\bwithout |\bw\/o )\bviolence\b  domestic violence
+			(?<!\bno |\bnot |\bwithout |\bw\/o )\bphys(ical)? harm\b  domestic violence with physical harm
+	(?<!\bno |\bnot |\bwithout |\bw\/o )\bviolence\b  domestic violence
+		(?<!\bno |\bnot |\bwithout |\bw\/o )\bphysical harm\b  domestic violence with physical harm
+\bdriv(ing|er)\b  driving offenses
+	\b(drunk|inebriated|influence|drinking)\b  a person driving under the influence of drugs or alcohol
+	\breckless\b  a reckless driver
+\bdrowning\b  a drowning person
+\bdrugs?(\b|_)  drugs
+	\bposs?(ess(ion|ing)?)?\b  possession of drugs
+		\b(instruments?|paraphe?r?e?nalia)\b  possession of drug paraphrenalia
+	\b(instruments?|paraphe?r?e?nalia)\b  drug paraphrenalia
+		\bposs?(ess(ion|ing)?)?\b  possession of drug paraphrenalia
+	\b(sale\b|selling\b|traff?i(c|k))  a person trafficking drugs
+\bdui\b  a person driving under the influence of drugs or alcohol
+	\breport(ed)?\b  a report of a person driving under the influence of drugs or alcohol
+\belevator emergency\b  an elevator emergency
+\b(elud(ed?|ing).*(police\b|officers?\b|p\.?o\b\.?)|(police\b|officers?\b|p\.?o\b\.?).*elud(ed?|ing))\b  a person eluding police officers
+	\bfailure to comply.*(police\b|officers?\b|p\.?o\b\.?)  a person failing to comply with a police order or signal
+\bescorts?\b  escort duty
+\bexplosives?\b  explosives
+\bemotional crisis\b  a person having an emotional crisis
+\bendanger(ing|ment).*child(ren)?\b  endangerment of a child
+	\bsubstantial risk of harm\b  endangerment of a child with substantial risk for harm
+\bextra patrol\b  an extra patrol
+\bfainting\b  a person fainting
+	\bdizz(y|iness)\b  a person fainting or dizzy
+		\bweak(ness)?\b  a person suffering from dizziness, weakness or fainting
+	\bweak(ness)?\b  a person suffering from weakness or fainting
+		\bdizz(y|iness)\b  a person suffering from dizziness, weakness or fainting
+\bfall\b  a fall
+	\bunder (6\s*|six )fe?e?t\b  a fall of under six feet
+	\bover (6\s*|six )fe?e?t\b  a fall of over six feet
+\bfight\b  a fight
+	\bin progress\b  a fight in progress
+\bfires?\b  a fire
+	\bcontrolled\b  a controlled fire
+		\bauthorized\b  an authorized controlled fire
+		\bunauthorized\b  an unauthorized controlled fire
+	\b(grass|mulch|brush)\b  a vegetation fire
+	\bstructure\b  a structure fire
+		\bcommercial\b  a commercial structure fire
+		\bresidential\b  a residential structure fire
+		\bapartment\b  an apartment fire
+	\btransformer\b  a transformer fire
+	\bveh(ic(le)?)?\b  a vehicle fire
+\bfireworks\b  fireworks
+	\bcomplaint\b  a fireworks complaint
+\bfollow\s*-?\s*up\b  a followup
+\bforgery\b  forgery
+\bflood(ing)?\b  flooding
+\b((found|recovere?d?).*property|property.*(found|recovere?d?))\b  found or recovered property
+\bfraud\b  fraud
+	\bcheck\b  check fraud
+^general conditions$  general conditions
+\bgeneral relay of information\b  information relay
+\b(with|w\/? (a )?gun)\b  a person with a gun
+\bharr?ass?ment\b  harassment
+\bheadaches?\b  a person with headaches
+\bheart attack\b  a person having a heart attack
+\bheroine?\b  heroin
+	\bposs?(ess(ion|ing)?)?\b  possession of heroin
+		\b(instruments?|paraphe?r?e?nalia)\b  possession of drug paraphrenalia
+	\b(instruments?|paraphe?r?e?nalia)\b  drug paraphrenalia
+		\bposs?(ess(ion|ing)?)?\b  possession of drug paraphrenalia
+	\b(sale\b|selling\b|traff?i(c|k))  a person trafficking heroin
+\bhit\s*-?\s*and\s*-?\s*run\b  a hit-and-run vehicle collision
+\bhold\s*-?\s*up\b  a hold-up
+\b(taking.*identity|identity theft)\b  identity theft
+\billegal use.*(food stamps|WIC)\b  illegal use of the food stamp or WIC Program benefits
+\billness\b  an ill person
+\bindecent exposure\b  indecent exposure
+\binjury\b  an injury
+	\bhead\b  a head injury
+		\bneck\b  a head or neck injury
+			\bspin(e|al)\b  a head, neck or spinal injury
+		\bspin(e|al)\b  a head or spinal injury
+	\bneck\b  a neck injury
+		\bspin(e|al)\b  a neck or spinal injury
+	\bspin(e|al)\b  a spinal injury
+	\bindustrial\b  an industrial injury
+\b(intoxicated (person|subject)|(person|subject) intoxicated)\b  an intoxicated person
+\binvestigation\b  an investigation
+\bjuvenile\b  a juvenile problem
+	\bunruly\b  an unruly juvenile
+\blacerations?\b  a person with lacerations
+\blift.*assist  lifting assistance
+\blockout\b  a lockout
+	\b(car|truck|veh(ic(le)?)?)\b  a vehicle lockout
+	\b(home|house)\b  a home lockout
+	\bbusiness\b  a business lockout
+\bloud\b  loud noise
+	\bmusic\b  loud music
+	\bparty\b  a loud party
+\bmarijuana\b  marijuana
+	\bposs?(ess(ion|ing)?)?\b  possession of marijuana
+		\b(instruments?|paraphe?r?e?nalia)\b  possession of drug paraphrenalia
+	\b(instruments?|paraphe?r?e?nalia)\b  drug paraphrenalia
+		\bposs?(ess(ion|ing)?)?\b  possession of drug paraphrenalia
+\bmenacing\b  menacing
+	\baggravated\b  aggravated menacing
+	\bstalking\b  menacing by stalking
+^miscellaneous$  an unspecified incident
+\bmissing child\b  a missing child
+\bmissing person\b  a missing person
+\b(motorist assist|assist(ing)? (a )?motor)  a motorist in need of assistance
+	\bdisabled veh(ic(le)?)?  assisting a motorist with a disabled vehicle
+\bnausea\b  a nauseous person
+	\bvomiting\b  a vomiting person
+^(a )?notification$  a notification
+\bobstruct(ion|ing) justice\b  obstruction of justice
+\bobstruct(ion|ing)( of)? official bus  obstruction of official business
+\bopen.*door\b  an open door
+	\bwindow\b  an open door or window
+\bopen liquor container\b  an open container of liquor
+	\bveh(icl?e?)?\b  an open container of liquor in a vehicle
+\bopen.*window\b  an open window
+\bover\s*-?\s*dose\b  an overdose
+\bpain\b  a person with pain
+	\b(in extremity|extreme)\b  a person with extreme pain
+\bparking\b  a parking problem
+	\billegal\b  illegal parking
+\bpoison(ing|ed)?\b  a poisoned person
+\b(property found|found property)\b  found property
+\b(property lost|lost property)\b  lost property
+\bproperty watch\b  a property watch
+\bprowler\b  a prowler
+\bpursuit\b  a pursuit
+\bviolat(e |ing )(a )?(protection order|order (of )?protection)\b  violation of an order of protection
+	\bconsent agreement\b  violation of an order of protection or a consent agreement
+\bwelfare check\b  a welfare check
+\brape\b  rape
+\b(receiving|reception( of)?) stolen\b  a person receiving stolen property
+	\bstolen (guns?|firearms?)\b  a person receiving stolen firearms
+	\bstolen weapons?\b  a person receiving stolen weapons
+	\bstolen vehicles?\b  a person receiving a stolen vehicle
+\breckless operation\b  reckless operation of a vehicle or equipment
+\bresisting arrest\b  a person resisting arrest
+\bretaliation\b  retaliation
+\broad rage\b  road rage
+\broadway obstruction\b  a roadway obstruction
+\brobbery\b  robbery
+	\bforce\b  robbery with force
+		\bthreat(ene?d?(ing)?)?\b  robbery with force or threat of force
+\brunaway\b  a runaway
+\bsee complainant\b  meeting with a complainant
+\bseizures?\b  a person with seizures
+\bshoplift(er|ing)?\b  shoplifting
+\bsmell.*gas\b  a smell of gas
+	\binside\b  a smell of gas inside
+	\boutside\b  a smell of gas outside
+\bsmell.*smoke\b  a smell of smoke
+	\binside\b  a smell of smoke inside
+	\boutside\b  a smell of smoke outside
+\bsolicitat(ing|ion|er|or)\b  a solicitation complaint
+\bsounds.*gunshots?\b  gunshots heard
+\b(spill|leak)\b  a spill or leak
+	\bfuel\b  a fuel spill or leak
+	\bwater\b  a water spill or leak
+\bstalking\b  stalking
+\bstroke\b  a person having a stroke
+\bsuicidal\b  a suicidal person
+\bsuicide\b  a suicide
+	\battempt(ed|ing)?\b  an attempted suicide
+\bsuspicious\b  something suspicious
+	\bactivity\b  suspicious activity
+	\bperson\b  a suspicious person
+	\b(vehicle|truck|car)\b  a suspicious vehicle
+	\bdinosaur\b  a suspicious dinosaur
+		\bpurple\b  a suspicious purple dinosaur
+			\berratic\b  a suspicious purple dinosaur acting erratically 
+\btheft\b  theft
+	\bin progress\b  a theft in progress
+	\bprescription drugs\b  a theft of prescription drugs
+	\breport\b  a report of theft
+		\binactive\b  an inactive report of theft
+\bthreat(en(ing|ed)?)?\b  a person threatening
+\btraffic\b  a traffic incident
+	\b(accident|collision)\b  a vehicle collision
+		\bentrapment\b  a vehicle collision (entrapment)
+			\bno injur(y|ies)\b  a vehicle collision without injuries (entrapment)
+			(?<!\bno |\bnot |\bwithout |\bw\/o )\binjur(y|ies)\b  a vehicle collision with injuries (entrapment)
+		\bno injur(y|ies)\b  a vehicle collision without injuries
+			\bentrapment\b  a vehicle collision without injuries (entrapment)
+		(?<!\bno |\bnot |\bwithout |\bw\/o )\binjur(y|ies)\b  a vehicle collision with injuries
+			\bentrapment\b  a vehicle collision with injuries (entrapment)
+	\bdetail\b  a traffic detail
+	\bhazard\b  a traffic hazard
+	\btraffic stop\b  a traffic stop
+\btraining\b  training
+\btransporting\b  transport duties
+\btree\s*-?\/?\s*limbs down\b  tree limbs down
+\btree limbs in roadway\b  tree limbs in roadway
+\btress?pass(ers?|ing|ed)?\b  tresspassing
+\bunauthorized use.*motor vehicle\b  unauthorized use of a motor vehicle
+\bunauthorized use.*computer\b  unauthorized use of a computer or computer equipment
+\bunconscious\b  an unconscious person
+	\bunresponsive\b  an unconscious or unresponsive person
+\bunresponsive\b  an unresponsive person
+\bunruly\b  an unruly person
+\bvacation check\b  a vacation check
+\bvandalism\b  vandalism
+\bviolence\b  violence
+\bvomiting\b  a vomiting person
+\bconvey.*weapons?.*school\b  conveyance of weapons on school property
+\bposs?(ess(ion|ing)?)?.*weapons?.*school\b  possession of weapons on school property
+\bvice activity\b  vice activity
+\bwarrant\b  warrant service
+\bwell\s*-?\s*being\s*-?\s*check\b  a well being check
+\bwires? down\b  wires down

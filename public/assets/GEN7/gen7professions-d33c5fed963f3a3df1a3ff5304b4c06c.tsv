@@ -1,0 +1,125 @@
+\bpublic acc(oun)?t(ant)?\b  public accountant
+	\bcertified\b  certified public accountant
+		\breg(istered)?\b  registered certified public accountant
+	\breg(istered)?\b  registered public accountant
+		\bcertified\b  registered certified public accountant
+(?<!public )\bacc(oun)?t(ant)?\b  accountant
+	\bcertified\b  certified accountant
+		\breg(istered)?\b  registered certified accountant
+	\breg(istered)?\b  registered accountant
+		\bcertified\b  registered certified accountant
+\bacupuncture\b  accupuncture
+\balarm contractor\b  alarm contractor
+\barchitect\b  architect
+\bathletic trainer\b  athletic trainer
+\bathletics\b  athletics
+\bauctioneer\b  auctioneer
+	\bexempt\b  auctioneer (exempt)
+\baudiologist\b  audiologist
+\bbarber\b  barber
+\bbranch office\b  branch office
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  real estate branch office
+\bbroker\b  broker
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  real estate broker
+		\bcorporation\b  real estate broker corporation
+		\bpartnership\b  real estate broker partnership
+\bchiro  chiropractor
+\bcollection agency\b  collection agency
+\bcommunity assoc(iation)? ma?n?a?ge?r\b  community association manager
+\bcontractor\b  contractor
+	\broof(ing)?\b  roofing contractor
+	\bsecurity\b  security contractor
+		\bagency\b  security contractor agency
+\bcosmetolog(y|ist)\b  cosmetologist
+	\bteacher\b  cosmetology teacher
+\bcounselor\b  counselor
+	\bclin(ical)? prof(f?essional)?\b  clinical professional counselor
+	\bcareer\b  career counselor
+	\bnutrition(al)?\b  nutrition counselor
+	(?<!clinical |clin )\bprof(f?essional)?\b  professional counselor
+		\btemp\b  professional counselor (temp)
+\bdental hygienist\b  dental hygienist
+\bdental specialist\b  dental specialist
+\bdesign firm\b  design firm
+	\bprof(f?essional)?\b  professional design firm
+		\breg(istered)?\b  professional registered design firm
+	\breg(istered)?\b  registered design firm
+		\bprof(f?essional)?\b  professional registered design firm
+\bdetective\b  detective
+	\bagency\b  detective agency
+\bdieti(t|c)ian\b  dietitian
+\bdoctor\b  doctor
+	\bdentist\b  dentist
+		\blicensed\b  licensed dentist
+	\blicensed\b  licensed doctor
+		\bdentist\b  licensed dentist
+	\bchiro  chiropractor
+\bembalm(er|ing)\b  embalmer
+	\bfuneral director\b  funeral director and embalmer
+\bengineer\b  engineer
+	\bintern\b  engineering intern
+	\bprof(f?essional)?\b  professional engineer
+	\bstructural\b  structural engineer
+\besthetician\b  esthetician
+\beuthenasia tech\b  euthenasia technician
+\bfirearm\b
+	\bcontrol card\b  issued a firearm control card
+	\binstructor\b  firearm instructor
+	\btraining\b  firearm training
+\bfuneral director\b  funeral director
+	\bemb-intern\b  funeral director and embalming intern
+	\bembalmer\b  funeral director and embalmer
+\bgeologists?\b  geologist
+\bhome inspector\b  home inspector
+\b(C\.?\s*E\b\.? |contin.*edu )instructor\b  continuing education instructor
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  continuing education instructor (real estate)
+\binterior design\b  interior designer
+	\breg(istered)?\b  registered interior designer
+\b(LLC|limited liability company)\b  limited liability company
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  limited liability company (real estate)
+\btherapist\b  therapist
+	\b(marriage|family)\b  marriage or family therapist
+	\bmassage\b  massage therapist
+	\boccupation(al)?\b  occupational therapist
+	\bphysical\b  physical therapist
+		\bassistant\b  physical therapist's assistant
+\bleasing agent\b  leasing agent
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  leasing agent (real estate)
+\bmanaging broker\b  managing broker
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  managing broker (real estate)
+\bmedical corp(oration)\b  medical corporation
+\bnail tech(ni(c|t)ian)\b  nail technician
+\bnail technology salon\b  nail technology salon
+\bnaprapath\b  naprapath
+\bnurse\b  nurse
+	\bhome prac(ti(c|t)ioner)\b  nurse (home practitioner)
+	\b(advanced practice|APN)\b  nurse (advanced practice)
+	\b(lic pract|lpn)\b  nurse (licensed practitioner)
+	\b(reg(istered)?)\b  registered nurse
+		\bprof(f?essional)?\b  professional registered nurse
+\bnursing home administrator\b  nursing home administrator
+\boptometr(y|ist)\b  optometrist
+	\bancillary location\b  optometry ancillary location
+\b(perc|permanent employee reg(istration)?)\b  issued a permanent employee registration card
+\bpharmacist\b  pharmacist
+	\breg(istered)?\b  registered pharmacist
+\bpharmacy\b  pharmacy
+	\btech(ni(c|t)ion)?\b  pharmacy technician
+\bphysician\b  physician
+	\btemporary lic(ense)?\b  physician (temporary license)
+	\bassistant\b  physician's assistant
+\bpodiatrist\b  podiatrist
+	\bassistant\b  podiatrist's assistant
+\bprof(f?essional)? service corp(oration)?\b  professional service corporation
+\bpsychologist\b  psychologist
+	\bclinical\b  clinical psychologist
+\bsalesperson\b  salesperson
+	\b(real\s*-?\s*est(ate)?|R\/E)\b  real estate salesperson
+\bshorthand reporter\b  shorthand reporter
+	\bcert(ified)?\b  certified shorthand reporter
+\bsocial worker\b  social worker
+	\bclinical\b  clinical social worker
+\bspeech language path(ologist)?\b  speech language pathologist
+	\btemp\b  speech language pathologist (temp)
+\bsurgical assistant\b  surgical assistant
+\bveterinarian\b  veterinarian

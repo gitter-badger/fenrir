@@ -1,0 +1,534 @@
+*Alexandria
+#Alpine
+#Alvin
+*Amberley Village
+*Anderson Township
+#Ansonia
+#Arborfield
+#Archerwill
+*Arlington Heights
+#Assiniboia
+#Atascocita
+#August F Haw
+*Aurora
+#Avondale
+#Aylett
+#Aylsham
+*Barrington
+*Barrington Hills
+*Batavia
+*Batavia Township
+#Beaumont
+*Bellaire
+*Bellaire (old)
+*Bellevue
+#Bellingham
+#Bengough
+#Big Beaver
+#Bjorkdale
+#Blackstone
+*Blue Ash
+*Bolingbrook
+#Bonita
+#Bonsall
+#Borrego Springs
+#Boulevard
+#Bridgeport
+#Broadview
+#Brooksby
+#Brookshire
+*Buffalo Grove
+*Burlington
+#Burrillville
+#Camp Pendleton
+#Campo
+#Cardiff-By-The-Sea
+*Carlisle
+#Carlsbad
+#Carlyle
+#Carmel Valley
+#Carrollton
+#Carrot River
+#Carrsville
+#Carson
+*Cary
+#Central Falls
+#Charles City
+#Charles City County
+#Chepachet
+#Choiceland
+#Chula Vista
+*CincoRanch
+#City Heights
+#Clairemont
+*Claremont
+*Clarendon Hills
+*Clear Lake
+*Clermont
+*Coconut Creek
+#Codette
+*Cold Spring
+*Colerain Township
+#College Grove
+#Compton (Rosewood)
+*Conroe
+#Cook County Record
+*Cooper City
+*Coral Springs
+#Corona
+#Coronach
+#Coronado
+*Covington
+#Cowessess First Nation
+#Crane Valley
+#Creelman
+#Crooked River
+*Crystal Lake
+#Cumberland
+#Cypress
+#Darien
+*Darien <<NOTE - IL>>
+*Davie
+*Deerfield
+*Deerfield Beach
+*Deerfield Township
+#Del Cerro
+#Del Mar
+*Delhi Township
+#Dendron
+#Derby
+*Des Plaines
+#Descanso
+#Dickinson
+*Downers Grove
+#Downtown San Diego
+#Dulzura
+#East Rancho Dominguez
+#Easton
+*Edgewood
+#El Cajon
+#El Segundo
+#Elberon
+*Elgin
+*Elmhurst
+*Elsmere
+#Encanto
+#Encinitas
+#Energy Corridor
+*Erlanger
+#Escondido
+#Esterhazy
+#Evanston
+#Fairbanks
+#Fairfield
+*Fairfield <<OH>>
+#Fairy Glen
+#Falbrook
+#Fife Lake
+#Fillmore
+#Firestone Park
+*Florence
+*Forest Park
+#Forget
+*Fort Bend
+#Fort Eustis
+*Fort Lauderdale
+*Fort Mitchell
+*Fort Thomas
+*Fox River Grove
+#Francis
+*Frankfort
+*Franklin
+#Friendswood
+#Galleria/Uptown
+*Galveston
+#Gardena
+#Garrick
+*Geneva
+*Glen Ellyn
+#Glenavon
+*Glencoe
+*Glendale
+*Glendora
+*Glenview
+*Gloucester
+#Golden Hill
+*Goshen Township
+*Grayslake
+*Grayson
+#Greenwater Provincial Park
+#Greenwich
+#Grenfell
+#Gronlid
+#Groves
+#Guatay
+*Gurnee
+*Hamilton
+*Hampton
+#Harbor City
+#Harrison
+#Harrisville
+#Hawthorne
+*Hebron
+#Hemet
+#Hermosa Beach
+#Heward
+*Highland Heights
+*Highland Park
+#Hillcrest
+*Hinsdale
+*Hoffman Estates
+*Homer Glen
+#Houston - Downtown
+#Houston - Garden Oaks
+#Houston - Heights
+#Houston - Midtown
+*Humble
+*Huntley
+*Hyde Park (Cincinnati)
+#Imperial Beach
+*Independence
+*Indian Head
+*Indian Hill
+#Inglewood
+*Isle of Wight County
+#Jacumba
+#James City County
+#Jamul
+#Jasper
+#Jersey Village
+*Joliet
+#Julian
+#Kahkewistahaw First Nation
+*Katy
+#Katy (old)
+#Kemah
+#Kendall
+*Kenilworth
+#Kennedy
+*Kenwood
+#King And Queen County
+#King William County
+*Kingwood
+#Kinistin Indian Reserve
+#Kinistino
+#Kipling
+*Klein
+*La Grange
+*La Grange Park
+#La Jolla
+#La Marque
+#La Mesa
+#La Verne
+#Lackey
+*Lake Bluff
+#Lake Elsinore
+*Lake Forest
+*Lake Worth
+*Lake Zurich
+*Lake in the Hills
+#Lakeland Village
+#Lakeside
+#Lanexa
+*Lauderhill
+#Lawndale
+#League City
+*Lebanon
+#Lemberg
+#Lemon Grove
+*Libertyville
+#Lightfoot
+*Lighthouse Point
+*Lincoln
+*Lincolnshire
+#Linda Vista
+*Lisle
+#Little Plymouth
+#Logan Heights
+*Lombard
+#Lomita
+*Los Angeles
+#Louisiana Record
+#Love
+*Loveland
+*Madeira
+#Madison County Record
+*Magnolia
+#Manhattan Beach
+#Manquin
+#Manvel
+#Mapleville
+*Margate
+*Mariemont
+*Mason
+#Mathews
+#Mattaponi
+*McHenry
+#Medical Center
+#Melfort
+*Memorial
+#Menifee
+#Meyerland
+#Miami Township (Clermont)
+#Miami Township (Hamilton)
+#Middlesex County
+*Middletown
+#Midland
+*Milford
+#Mira Mesa
+*Miramar
+#Mission Valley
+#Missouri City
+#Mistatim
+*Mokena
+#Monmartre
+*Monroe
+#Monroe
+*Montgomery
+*Montrose
+#Moosomin
+*Morton Grove
+#Mount Adams
+#Mount Lookout (Cincinnati)
+*Mount Prospect
+#Mount Washington (Cincinnati)
+*Mundelein
+#Murrieta
+#Naicam
+#Nanaimo
+*Naperville
+#Nassau Bay
+#National City
+#Nederland
+#Neudorf
+#New Canaan
+#New Kent County
+*New Lenox
+*New Miami
+*Newport
+*Newport News
+#Newtown
+#Newtown
+*Niles
+#Nipawin
+#Normal Heights
+*North Lauderdale
+#North Park
+#North Smithfield
+*Northbrook
+*Northfield
+#Northside(Cincinnati)
+*Norwood
+*Oak Brook
+*Oak Park
+#Oak Ridge North
+*Oakland
+*Oakland Park
+#Oakley(Cincinnati)
+#Oakshella
+#Ocean Beach
+#Oceanside
+#Ochapowace First Nation
+#Odessa
+#Old Town
+*Ontario
+#Orange
+*Orland Hills
+*Orland Park
+*Orlando-College Park
+#Otay Mesa
+#Oxford
+#Pacific Beach
+#Pala
+*Palatine
+#Palomar Mountain
+*Palos Heights
+*Palos Hills
+*Palos Park
+#Palos Verdes
+#Paradise Hills
+*Park Ridge
+*Pasadena
+#Pasadena (old)
+#Pascoag
+#Pathlow
+#Pauma Valley
+#Pawtucket
+*Pearland
+#Peebles
+*Pembroke Pines
+#Pennsylvania Record
+#Percival
+*Pierce Township
+#Pine Valley
+#Pittsford
+*Plainfield
+#Playa De lRey
+#Playa Vista
+#Pleasantdale
+#Point Loma
+*Pompano Beach
+*Poquoson
+#Porcupine Plain
+#Port Arthur
+#Port Neches
+*Portland
+#Potrero
+#Poway
+#Prairie River
+*Prospect Heights
+#Providence Forge
+#Quinton
+#Ramona
+#Ranchita
+#Rancho Bernardo
+*Rancho Cucamonga
+#Rancho Dominguez
+#Rancho Palos Verdes
+#Rancho Penasquitos
+#Rancho Santa Fe
+#Redondo Beach
+#Richmond
+#Ridgedale
+#Ridgefield
+*River Forest
+*River Oaks
+*Rochester
+#Rockglen
+#Rolling Hills
+*Rolling Meadows
+*Romeoville
+#Rosenberg
+*Round Lake
+*Royal Palm Beach
+#SE Texas Record
+#Sakimay First Nation
+#San Carlos
+#San Diego
+#San Diego - Carmel Valley
+#San Diego County Estates
+#San Dimas
+#San Jacinto
+#San Marcos
+#San Pedro
+#San Ysidro
+#Santa Ysabel
+#Santee
+*Schaumburg
+#Scripps Ranch
+#Seabrook
+#Seaford
+#Serra Mesa
+#Seymour
+#Shacklefords
+#Shelton
+#Shenandoah
+#Sinuluta
+*Skokie
+#Slatersville
+#Smeaton
+#Smithfield
+#Snowden
+#Solana Beach
+#Sorrento Valley
+#Sour Lake
+*South Lebanon
+*Southgate
+#Southwest Broward
+*Spring
+#Spring (old)
+*Spring Branch
+#Spring Grove
+*Spring Valley
+*Springboro
+*Springdale
+#Springfield Township
+#St Brieux
+*St. Charles
+#St. Stephens Church
+#Stafford
+#Stamford
+#Star City
+#Stockholm
+#Stoughton
+*Stratford
+*Sugar Land
+#Summerberry
+#Sun City
+*Sunrise
+#Surry
+*Sycamore Township
+#Sylvania
+*Symmes Township
+*Tamarac
+#Tampa
+#Tecate
+#Temecula
+*Terrace Park
+#Texas City
+#The Woodlands
+#Tierrasanta
+*Tinley Park
+#Tisdale
+#Toano
+#TobinLake
+*Tomball
+#Tomball (old)
+#Torrance
+#Trenton
+#Trumbull
+*Union
+#Union Township
+#University City
+#University Place
+#Upland
+#Valley Center
+#Valparaiso
+*Vernon Hills
+#Victoria
+*Villa Hills
+*Villa Park
+#Vista
+#Walkerton
+#Walters
+*Walton
+#Warner Springs
+#Warrenville
+*Waynesville
+*West Chester
+*West Chicago
+#West Houston
+#West Point
+*West University Place
+#West Virginia Record
+#Westbury
+#Westchase
+*Westchester
+*Western Springs
+*Westmont
+*Weston
+#Westport
+*Wheaton
+#WhiteFox
+#Whitewood
+*Wilder
+#Wildomar
+*Williamsburg
+#Willow Bunch
+*Wilmette
+#Wilmington
+#Winchester
+#Windhorst
+*Windsor
+#Winfield
+#Winnetka
+*Winter Park
+#Wolseley
+*Woodridge
+*Woodstock
+#Woonsocket
+*Wyoming
+York County
+*Yorktown
+ZenonPark
+Zuni

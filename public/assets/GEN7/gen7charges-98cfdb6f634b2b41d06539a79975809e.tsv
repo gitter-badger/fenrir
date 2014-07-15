@@ -1,0 +1,1587 @@
+==</\bagg(|ravated)\b/  aggravated 
+==</\battempt(|ed|ing)\b/  attempted 
+==</\b(petty|petite?)\b/  petty 
+==</\bfel(|ony)\b/  felony 
+==</\bmisd(|emeanor)\b/  misdemeanor 
+==</conspiracy|conspiring/  conspiracy to commit 
+==</\bgra?nd\b/  grand 
+==</organized|\borg\b.*crim\b/  organized 
+==>/\bmob\b/   by a mob
+==>/withoutviolence|w\/o(ut)?\s+viol(ence)?/   without violence
+==>/(?<!not )a?\s*\bhate crime/   as a hate crime
+=====
+^\s*(?:1268\.04\b)  unpermitted accessory uses
+^\s*(?:1270\.10\b)  using a substandard area as a parking lot
+^\s*(?:1270\.11c\b)  improper parking of recreational vehicles
+^\s*(?:130\.11\b)  attempting an offense
+	\battempt(|ed|ing)\b  offenses
+^\s*(?:131\.11\b)  passing bad checks
+^\s*(?:136\.06\b)  obstructing official business
+^\s*(?:151\.3406\b)  zoning violations
+^\s*(?:2004\.09)  outdoor storage of a vehicle
+^\s*(?:2006\.)  failure to comply with taxes
+^\s*(?:414\.01\b)  violation of a traffic control device
+^\s*(?:414\.02\b)  violation of stop or yield signs
+^\s*(?:414\.03\b)  violation of a traffic control light
+^\s*(?:416\.06a\b)  hitchhiking
+^\s*(?:416\.06b\b)  hitchhiking and panhandling
+^\s*(?:416\.09\b)  walking on a highway while inebriated
+^\s*(?:432\.01\b)  driving on the wrong side of the road
+^\s*(?:432\.03a\b|432\.05\b)  unlawful passing
+^\s*(?:432\.04\b)  passing on the right
+^\s*(?:432\.07\b)  passing in a no-passing zone
+^\s*(?:432\.08\b)  violation of lane markings or lines
+^\s*(?:432\.10\b)  making an unlawful turn at an intersection
+^\s*(?:432\.12\b)  improper backing
+^\s*(?:432\.17\b)  failure to obey stop or yield signs
+^\s*(?:434\.01b\b)  driving under the influence and refusing to take a breath or blood test
+^\s*(?:434\.01d\b)  physical control of a vehicle while inebriated
+^\s*(?:434\.03\b)  speeding
+	\bcontrol\b  failure to control speed
+^\s*(?:436\.03\b)  driving with a temporary permit but no license
+^\s*(?:436\.04a1\b)  violating restrictions on driver'ds license
+^\s*(?:436\.05\b)  allowing an unlicensed person to drive
+^\s*(?:436\.06\b)  failure to present license on police demand
+^\s*(?:436\.07\b)  driving with an expired driver's license
+^\s*(?:436.09b\b)  driving with no license plates
+^\s*(?:436\.09a\b)  improper display of license plates
+^\s*(?:436\.09f\b)  driving with fictitious license plates
+^\s*(?:436\.10d\b|71.01\b)  driving with expired plates
+	\bdisplay\b  license plate display violations
+^\s*(?:438\.04\b)  head or tail light violations
+^\s*(?:438\.13\b)  unlawful display of lights
+^\s*(?:438\.14\b)  failure to dim brights
+^\s*(?:438\.21\b)  driving without a rearview mirror
+^\s*(?:438\.22\b)  driving with an obstructed windshield
+^\s*(?:438\.24\b)  equipment violations
+	\btint  unlawfully tinted windows
+	\bbrake.*light.*req  driving without functional brake lights
+^\s*(?:438\.26\b|72\.63\b|438\.28\b)  child restraint violations
+^\s*(?:438\.29\b)  failure to signal
+^\s*(?:438\.30a1\b)  driving without functional directional signals
+^\s*(?:440\.01a\b)  driving a tractor-trailer on restricted roads without a permit
+^\s*(?:452\.01\b)  prohibited parking on a street or highway
+^\s*(?:452\.03\b)  standing or parking in a prohibited location
+^\s*(?:452\.04e\b)  parking in a handicapped parking space without a permit
+^\s*(?:452\.17\b)  parking unlawfully for 72 hours
+^\s*(?:606\.18\b)  soliciting or receiving improper compensation
+^\s*(?:612\.02b)  unlawful provision of accommodations
+^\s*(?:612\.02e\b|92.13e1\b)  unlawful purchase, possession or consumption of alcohol by an underage person
+^\s*(?:612\.04\b)  consumption of alcohol in a motor vehicle
+^\s*(?:642\.14\b)  passing bad checks
+^\s*(?:70\.20\b)  violation of a traffic control device
+^\s*(?:70\.30\b)  failure to obey traffic control devices
+^\s*(?:71\.01a1\b)  operating a vehicle or equipment without appropriate license plates
+^\s*(?:71\.16\b)  failure to present license upon police request
+^\s*(?:71\.17\b)  making false statements
+^\s*(?:71\.19\b|71\.29\b)  operating a vehicle or equipment without a valid license
+^\s*(?:71\.26\b)  failure to present driver's license
+^\s*(?:72\.00\b)  lanes of travel violations
+^\s*(?:72\.01\b|432\.01\b)  driving on the wrong side of the road
+^\s*(?:72\.02\b)  violation of rules for starting or backing a vehicle
+^\s*(?:72\.03\b)  failure to yield right of way while making a left turn
+^\s*(?:72\.16\b)  turn signal violations
+^\s*(?:73\.07\b)  failure to maintain reasonable control of vehicle
+^\s*(?:72\.10\b)  disobeying lane markings
+^\s*(?:72\.13\b)  making an unlawful left turn at an intersection
+^\s*(?:72\.14\b)  making a prohibited U-turn
+^\s*(?:73\.01b2\b)  physical control of a motor vehicle while under the influence of alcohol
+^\s*(?:73\.10a\b|434.03a\b)  driving too closely behind another vehicle
+^\s*(?:73\.20\b)  leaving the scene of an accident
+^\s*(?:73\.21\b)  leaving the scene of an accident on private property
+^\s*(?:73\.31\b)  leaving the scene
+^\s*(?:74\.05\b)  driving without taillights
+^\s*(?:74\.28\b)  driving without a rearview mirror
+^\s*(?:75\.27\b)  driving an ATV on a roadway
+^\s*(?:886\.28\b)  failure to pay city income tax
+	\breturn\b  failure to file city income tax return
+^\s*(?:97\.05\b)  being in a park after the park closed
+^\s*(?:98\.05\b)  violation of lands and structure ordinances
+\b(?:aba?ndo?n|aban(?:|don).*endange?r?)\b  INSUFFICIENT
+	\bchild\b  abandoning a child
+		\b(?:w\/|with\b).*int(?:\b|ent).*(?:re?tu?rn|\bret\b)  abandoning a child with intent to return
+\babduct(?:|ing|ion)\b  abduction
+	\bextort(?:|ion|ing)\b  abduction for extortion
+	\bkidnap(?:|ping|ped|per)\b  abduction and kidnapping
+		\bor\b  abduction or kidnapping
+\babuse\b  abuse
+	\bchi?ld\b  child abuse
+	\bdrug\b  drug abuse
+		\binst(?:ru|ur)ments?\b  possession of drug paraphernalia
+	\bneglect\b  abuse by neglect
+		\bchi?ld\b  child abuse by neglect
+		\bchi?ldren\b  abuse of children by neglect
+	\bdisable?d\b  abuse of a disabled person
+		\belda?e?rly\b  abuse of an elderly or disabled person
+	\belda?e?rly\b  abuse of an elderly person
+		\bdisable?d\b  abuse of an elderr disabled person
+	\bcre?di?t\b  abuse of a credit or debit card
+	\bdebit\b  abuse of a credit or debit card
+	\bpersonal\b  personal abuse
+	\bsex(?:|ual)\b  sexual abuse
+		\bchi?ld\b  sexual abuse of a child
+\bleave.*scene.*acc(id?e?nt)?\b  leaving the scene of an automobile collision
+\bacci?dent\b  causing a vehicle collision
+	\bda?ma?ge?\b  causing a vehicle collision involving damage to property
+		\bleave?(ing)?\b  leaving the scene of an accident involving damage to property
+		\bveh(?:|icle)\b  causing a vehicle collision involving damage to a vehicle
+	\b(?:injury|inj|injuries)\b  causing a vehicle collision involving personal injury
+		\bdeath?\b  causing a vehicle collision involving personal injury or death
+		\bleav(ing)?\b  leaving the scene of an accident with injuries
+	\bleave.*scene\b  leaving the scene of an accident without giving information
+^\s*a\.?\s*c\.?\s*d\.?\s*$  Remove
+\b(a\.?\/?\s*c\.?\/?\s*d\.?\/?\s*a|speed\s*-?\s*distance)\b  driving too closely behind another vehicle
+\b(?:alc?o?hol|wine|beer|booze|spirits)\b  alcohol-related offenses
+	\bpossess\b  unlawful possession of alcohol
+		\bpark\b  unlawful possession of alcohol in a public park
+		\bmi?no?r\b  possessing alcohol as a minor
+		\b21\b|\bunderage\b  possessing alcohol as a person under 21 years of age
+	\b(?:purchase|buy)\b  unlawful purchase of alcohol
+		\bmi?no?r\b  purchasing alcohol for a minor
+		(?<=\s)21(?=\W|$)  purchasing alcohol for a person under 21 years of age
+	\bfurnish\b  unlawful furnishing of alcohol
+		\bmi?no?r\b  furnishing alcohol to a minor
+		(?<=\s)21(?=\W|$)  furnishing alcohol to a person under 21 years of age
+	\bpublic\b  drinking in public
+		\bexcludes\s+alcohol\b  public intoxication with a controlled substance
+	\b(?:sell|sale)\b  unlawful or unlicensed sale of alcohol
+		\b(?:minors?|underage)\b|21  sale of alcohol to an underage person
+	\bm(otor)?( |\/)v(|eh(|icle))\b  possession of alcohol in a motor vehicle
+\balter(?:|ation)\b  unlawful alteration
+	\bserial\s*\bnumbers?\b  unlawful alteration of serial numbers
+		\bfirearms?\b  unlawful alteration of a serial number on a firearm
+	\bdeface(?:|ment)\b  unlawful defacement or alteration
+		\bserial\s*\bnumbers?\b  unlawful defacement or alteration of serial numbers
+\b(animal|dog|cat)\b  animal offenses
+	\bhabitat\b  animal offenses
+		\bdamage\b  damaging an animal habitat
+			\bmischief\b  criminal mischief resulting in damage to a natural habitat
+	\bat\s*large\b  possession of an animal at large
+\border.*arrest\b  order of arrest
+	\bfel(|ony)\b  order of arrest for commission of a felony
+	\bmisd(|emeanor)\b  order of arrest for commission of a misdemeanor
+\barson\b  arson
+\b(?:assa?u?lt|ass|aslt)\b  assault
+	\b(?:ba?tte?ry?|batt)\b  assault and battery
+		\b(?:pu?bli?c|se?rva?nt)\b  assault and battery upon a public servant
+		\belde?rly\b  assault against an elderly person
+			\bdisa?ble?d\b  assault and battery against an elderly or disabled person
+		\bdisa?ble?d\b  assault and battery against a disabled person
+			\belde?rly\b  assault and battery against an elderly or disabled person
+		\binj(?:|ury|uries)\b  assault causing bodily injury
+			\bno\s+visible\b  assault causing no visible injury
+		\bse?rva?nt\b  assault upon a public servant
+		\bby\s*servant\b|\bby\s*a\s*public\s*servant\b  assault by a public servant
+		\bems\b  assault upon EMS personnel
+		\bofficer\b  assault and battery upon an officer of the law
+		\bsex(?:|ual)\b  sexual assault and battery
+		\bchi?ld\b  sexual assault and battery of a child
+		\bvehicle?s?\b  assault and battery by vehicle
+		\b(?:off?i?ce?r|law)\b  assault and battery upon law enforcement authorities
+	\binj(?:|ury|uries)\b  assault causing bodily injury
+		\bno\s+visible\b  assault causing no visible injury
+		\b(?:pub.*serv|public|servant)\b  assault upon a public servant causing bodily injury
+			\bretal(?:|iation)\b  retaliative assault upon a public servant causing bodily injury
+	\bintoxicat(?:ed|ion|e)\b  intoxicated assault
+		\bveh(?:|ic(?:le|ular))\b  intoxicated vehicular assault
+			\bsbi\b  intoxicated vehicular assault leading to serious bodily injury
+				\bdeath?\b  intoxicated vehicular assault leading to serious bodily injury or death
+			\b(?:inj(?:|ury)|bi)\b  intoxicated vehicular assault leading to injury
+	\bse?rva?nt\b  assault upon a public servant
+	\bby\s*servant\b|\bby\s*a\s*public\s*servant\b  assault by a public servant
+	\bems\b  assault upon EMS personnel
+	\bnegligen(t|ce)\b  assault by negligence
+	\bofficer\b  assault upon an officer of the law
+	\bcontact\b  assault by contact
+	\bthreat\b  assault by threat
+	\bsex(?:|ual)\b  sexual assault
+		\bchi?ld\b  sexual assault of a child
+			14.*17  sexual assault of a child between fourteen and seventeen years of age
+		14.*17  sexual assault of a child between fourteen and seventeen years of age
+		\belde?rly\b  sexual assault of an elderly person
+			\bdi?sa?ble?d\b  sexual assault of an elderly or disabled person
+		\bdi?sa?ble?d\b  sexual assault of a disabled person
+			\belderly\b  sexual assault of an elderly or disabled person
+	\bveh(?:|ic(?:ular|le?s?))\b  vehicular assault
+		\bintoxicat(?:ed|ion)\b  intoxicated assault by vehicle
+	\belde?rly\b  assault against an elderly person
+		\bdisa?ble?d\b  assault against an elderly or disabled person
+	\bdisa?ble?d\b  assault against a disabled person
+		\belde?rly\b  assault against an elderly or disabled person
+\b(?:ba?tte?ry?|batt|barr?atry)\b  battery
+	\b(?:assa?u?lt|ass)\b  assault and battery
+		\b(?:pu?bli?c|se?rva?nt)\b  assault and battery upon a public servant
+		\belde?rly\b  assault against an elderly person
+			\bdisa?ble?d\b  assault and battery against an elderly or disabled person
+		\bdisa?ble?d\b  assault and battery against a disabled person
+			\belde?rly\b  assault and battery against an elderly or disabled person
+		\binj(?:|ury|uries)\b  assault causing bodily injury
+		\bse?rva?nt\b  assault upon a public servant
+		\bby\s*servant\b|\bby\s*a\s*public\s*servant\b  assault by a public servant
+		\bems\b  assault upon EMS personnel
+		\bofficer\b  assault and battery upon an officer of the law
+		\bsex(?:|ual)\b  sexual assault and battery
+		\bchi?ld\b  sexual assault and battery of a child
+		\bvehicle?s?\b  assault and battery by vehicle
+		\b(?:off?i?ce?r|law)\b  assault and battery upon law enforcement authorities
+	\binj(?:|ury|uries)\b  battery causing bodily injury
+	\bse?rva?nt\b  battery upon a public servant
+	\bby\s*servant\b|\bby\s*a\s*public\s*servant\b  battery by a public servant
+	\bems\b  battery upon EMS personnel
+	\bofficer\b  battery upon an officer of the law
+	\bsex(?:|uale?)\b  sexual battery
+		\bunder\s*13\b  sexual battery of a victim under thirteen years of age
+		\bchi?ld\b  sexual battery of a child
+		\belde?rly\b  sexual battery of an elderly person
+			\bdi?sa?ble?d\b  sexual battery of an elderly or disabled person
+		\bdi?sa?ble?d\b  sexual battery of a disabled person
+			\belderly\b  sexual battery of an elderly or disabled person
+	\bvehicle?s?\b  battery by vehicle
+		\bintoxicat(?:ed|ion)\b  intoxicated assault by vehicle
+	\belde?rly\b  battery against an elderly person
+		\bdisa?ble?d\b  battery against an elderly or disabled person
+	\bdisa?ble?d\b  battery against a died person
+		\belde?rly\b  battery against an elderly or disabled person
+\b(?:begging|pan\s*-?\s*hande?le?ing)\b  unlawful begging or pan-handling
+\bblock.*fire\s*-?\s*(la?ne?\b|zone)  blocking a fire lane or fire zone
+\bblock.*moving\s*-?\s*la?ne?\b  blocking a moving lane of traffic
+\bbra?ke?\s*-?\s*li?gh?t\b  break light violations
+\bbrandish(?:|ing)\b  brandishing a weapon
+	\bfirearm\b  brandishing a firearm
+\bbreak(?:|ing)\s*(and|\&(amp)?)?\s*enter(|ing)\b  breaking and entering
+\bburg(?:|lary?)\b  burglary
+	\bbus(?:iness)\b  burglary of a business
+	\bresi?d?(?:ence(s)?|ential)\b  residential burglary
+	\bother\s*felony\b  burglary to commit a felony
+		\bintent  burglary with intent to commit a felony
+	\b(?:vehicle?s?|veh)\b  burglary of a vehicle
+	\buse\s*(?:vehicle?s?|veh)\b  use of a vehicle to commit burglary
+\bbehavior\b  INSUFFICIENT
+	\blewd\b  lewd or lascivious behavior
+	\bdisorde?rly\b  disorderly behavior
+		\bconduct\b  disorderly conduct
+(?<=phone)\s*calls?\b  INSUFFICIENT
+	\b(?:annoy(|ing)|harass(|ing))\b  telephone harassment
+\bbond.*forfeit  bond forfeiture
+\bcarnal\s*\bknowledge\b  unlawful carnal knowledge
+	\b13.*15\b  carnal knowledge of a child between thirteen and fifteen years of age
+	\bchild\b  carnal knowledge of a child
+\bcar\s*\-?\s*jacking\b  carjacking
+\bcarry.*we?a?po?n?\b  unlicensed carrying of a weapon
+	\bproh(ibited)?\b  carrying a prohibited weapon
+\bcarry.*gun\b  unlicensed carrying of a firearm
+\bcdl\b  driving a commercial vehicle without a commercial driver's license
+\bchains?\b  INSUFFICIENT
+	\bsafety\b  towing without a safety chain attached to hitch
+\bchang(e|ing)\s*lanes?\b  lane change violations
+\bchild(ren)?.*(4|four)(?!\'|\").*w(ithout|\/o(ut)?)\b.*safety\s*-?\s*seats?\b  a child younger than four riding without a safety seat
+\bchild(ren)?.*(5|five)(?!\'|\").*w(ithout|\/o(ut)?)\b.*safety\s*-?\s*seats?\b  a child younger than five riding without a safety seat
+\bchild(ren)?.*(8|eight)(?!\'|\").*w(ithout|\/o(ut)?)\b.*safety\s*-?\s*seats?\b  a child younger than eight and below the minimum height riding without a safety seat
+\bcommitment\b  INSUFFICIENT
+	\bcivil\b  Remove
+\bconcealment\b  shoplifting by concealment
+	\b(?:price\s*\balter|alter\s*\bprice)\b  shoplifting by concealment or the alteration of price tags
+\b(?:condu?ct|cond)\b  INSUFFICIENT
+	\blewd\b  lewd or lascivious conduct
+		\bbehavior\b  lewd or lascivious behavior
+	\bdis(ord)?(?:|e?rly)\b  disorderly conduct
+		\burinating.*public  urinating in public
+		\bfight\b  fighting
+	\bdeadly\b  deadly conduct
+\bconsump?t?i?o?n?\b  INSUFFICIENT
+	\b(?:alco?hol|wine|beer|spirits)\b  unlawful consumption of alcohol
+		\bmi?no?r\b  consumption of alcohol by a minor
+		(?<=\s|^)21(?=\W|$)  consumption of alcohol by a person under 21 years of age
+		\bpremises?\b  consumption of all in an unlawful location
+	\bunderage\b  underage consumption
+\bcontempt\b  contempt of court
+	\bshow.*cause\b  failure to show cause
+	\bresistance?\sto\sorder\b  resisting an order
+	\bwitness\b  an action by a witness
+		\bjuror\b  an action by a witness or juror
+			\bofficer\b  an action by a witness, juror or officer of the court
+\bcontract\b  INSUFFICIENT
+	\bsafety\s*-?\s*assurance\b  arrested by security contractors
+\bcontribut(?:e|ing|ed)\b  INSUFFICIENT
+	\bdelinquency\b  contributing to deliquency
+		\b(?:minor|underage|youth|child)\b  contributing to the delinquency of a minor
+\bcontrol\b  INSUFFICIENT
+	\bfailure.*vehicle\b  failure to control a vehicle
+	\breasonable\b  failure to maintain reasonable control over a vehicle
+	\bphys(ical)?\b  physical control of a vehicle while under the influence of alcohol
+\bconversion\b  unlawful conversion
+	\bmilitary\b  unlawful conversion of military property
+	\bfraud(?:|ulent)\b  fraudulent conversion
+		\b(?:remov(?:e|al).*property|property.*remov(?:e|al))\b  unlawful removal and fraudulent conversion of property
+\bconvey(ance)?\b  unlawful conveyance
+\bco?u?nte?rfe?i?t(?:|ing)\b  counterfeiting
+	\btrademark\b  trademark counterfeiting
+\bcrimes?\s*against\s*nature\b  crimes against nature
+\bcrimi?n?a?l?\s*tools?\b  possession of criminal tools
+\bcross.*double white  crossing a double-white line
+\bcruelty\b  cruelty
+	\bani?ma?ls?\b  cruelty to animals
+\b(?:c\/s|cs|cont subs?t?|co?ntro?l?le?d\s*\bsu?bsta?nces?|controll?e?d?\s*\bsubsta?n?c?e?|add?err?(?:a|o)ll?|metha?o?done)\b  unlawful use or possession of a controlled substance
+	\bcomplicity.*traff(ic|icking)?\b  complicity in trafficking controlled substances
+	\bdel\b  unlawful manufacture, delivery or possession of a controlled substance
+	\bobtain(?:|ing|ed)\b  unlawfully obtaining a controlled substance
+		\bfraud\b  obtaining a controlled substance by fraud
+	\bpossess(?:|ion|ing|ed)\b  unlawful possession of a controlled substance
+		\bdeliver(?:y?|ing|ed)\b  unlawful delivery of a controlled substance
+	\bprescription\b  possession of an unlawful prescription for a controlled substance
+		\bfraud  possession of a fraudulent prescription for a controlled substance
+	\b(?:sale|sell)\b  unlawful sale of a controlled substance
+		\btransfer\b  unlawful sale or transfer of a controlled substance
+	\b(?:ma?nu?fa?ctu?re?|mfg)\b  unlawful manufacture of a controlled substance
+	\b(?:di?stri?bu?te?|dist)\b  unlawful distribution of a controlled substance
+	\btransport(?:|ing|ed)\b  unlawful transport of a controlled substance
+	\bdelivery\b  unlawful delivery of a controlled substance
+	\bman\/del\b  unlawful manufacture or delivery of a controlled substance
+\bcustody.*order\b  arrested on the authority of an emergency custody order
+\bcut\s*across.*private\s*property.*turn\b  cutting across private property to make a turn
+\bda?ma?g(?:e?s?|ing)\b  criminal damage to property
+	\bdui\b  causing damage to property while driving intoxicated
+	\butility\b  criminal damage to a public utility
+	\bthreats?\b  issuing a threat to damage property
+		\bbomb\b  issuing a bomb threat
+	\breckless\b  reckless damage
+	\b(?:RR|rai?l?lroad)\b  criminal damage to a railroad
+	\bpublic\b  criminal damage to public property
+		\butility\b  criminal damage to a public utility
+		\bbuildings?\b  criminal damage to a public building
+			\blibrary\b  criminal damage to a public library
+\bdecepti(?:on|ve)\b  deceptive practices
+	\bexecut(?:e|ed|ion|ing).*document\b  securing execution of a document by deception
+	\btheft\b  theft by deception
+\bdefect(|ive)\b  INSUFFICIENT
+	\bequipment\b  driving with defective equipment
+	\b(head|tail)\s*-?\s*(lights?|lamps?)\b  driving with defective head or tail lights
+	\b(stop|brakes?)\s*-?\s*(lights?|lamps?)\b  driving with defective brake lights
+	\bexhaust\b  driving with a defective exhaust emission system
+\bdestr(?:oy(?:|ing)|uct(?:|ion))\b  unlawful destruction
+	\bchurch\b  destruction of church property
+		\bcema?e?ta?e?ry.*structure\b  destruction of a church cemetery structure
+	\bproperty\b  destruction of property
+		\bburning\b  destruction of property by burning
+			\bor\b  burning or destroying property
+		\bmonument\b  destruction of a monument
+	\bmonument\b  destruction of a monument
+	\bvessel\b  unlawful destruction of a vessel
+	\bdwelling\b  destroying a dwelling
+		\bburning\b  burning or destroying a dwelling
+\b(?:detain(?:ment|ed|er))\b  held by order of detainment
+	\bice\b  held to fulfill detainment order from ICE
+\bden?tention\s*\border\b  arrested in fulfillment of an order of detention
+\bdischarge\b  INSUFFICIENT
+	\bfirearm\b  unlawful discharge of a firearm
+\bdisob(ey|edience)\b  INSUFFICIENT
+	\btraff(ic)?\b  disobeying a traffic law
+		\bdevice\b  disobeying or avoiding a traffic device
+	\bstop\b  disobeying a stop sign
+	\bred\b.*\blight\b  disobeying a red light
+		\bavoid\b  disobeying or avoiding a red light
+	\byield\b  disobeying a yield sign
+		\bstop\/yield\b  disobeying a stop or yield sign
+\bdisplay.*\bo\.?\s*l\b\.?\b  failure to display operator's license
+\bdisplay.*plate?s?\b  license plate violations
+\bdi?sre?ga?rd\b  unlawful disregard
+	\bsafety?\b  unlawful disregard for safety
+	\bsign\b  disregarding a sign
+		\bstop\b  disregarding a stop sign
+		\b(?:yield|yeild)\b  disregarding a yield sign
+	\bofficer\b  disregarding a police officer
+\bdisrupt(|ion)\b  causing a disruption
+	\bclass(?:|es)\b  disruption of classes
+	\btransport(?:|ation)\b  disruption of transportation
+\bdisturbance\b  INSUFFICIENT
+	\bdomestic\b  disturbance
+\bdo not enter\b  failure to obey signage
+\bdr (w\/o|wo|without) consent\b  driving a vehicle without consent of the vehicle's owner
+\bdl|driver\'?s\s+lic(ense)?\b  INSUFFICIENT
+	\bviolat.*restrict  violating restrcictions on a driver's license
+	\bresident.*no \w{2} d  driving without an in-state drivers license after residency longer than the grace period
+	\bcarried\b  driver's license violations
+	\bexpired\b  driving with an expired driver's license
+	\blearner\b  learner driver's license violations
+		\bseat.*closest\b  learner driver's license violations
+	\bno.valid\b  driving without a valid driver's license
+		\bexp(|ired)\b  driving with an expired driver's license
+		\bnonres(ident)?\b  nonresident driving without a valid driver's license
+	\boperat(ed?|ing|ion)?\b  INSUFFICIENT
+		\bsuspend\b  operating a vehicle or equipment while driver's license is suspended
+			\bcanc(el|elled|eled)?\b  operating a vehicle with a cancelled or suspended driver's license
+				\brevoked\b  operating a vehicle with a cancelled, suspended or revoked driver's license
+					\bw/\s*know(ledge)?\b  knowingly operating a vehicle with a cancelled, suspended or revoked driver's license
+					\bw\/o.*know(ledge)?\b  unknowingly operating a vehicle with a cancelled, suspended or revoked driver's license
+\b(?:dri?v?(?:ing|e?)|driver\'?s?(?!\s*lic(ense)?)|driv|drove)\b  violating a traffic law
+	\btv\b.*in.*view.*of driver\b  driving with a television in view
+	\btexting\b  texting while driving
+	\b(?:436\.05\b)  allowing an unlicensed person to drive
+	\bag?gres?s(?:|ive)\b  aggressive driving
+	\breckless\b  reckless driving
+		\bspeed(?:|ing)\b  driving at a reckless speed
+	\bw(ithout|\/?o(ut)?)\s+consent\b  driving a vehicle without the consent of the vehicle's owner
+	\bw(ithout|\/?o(ut)?)\s+((head)?lights?|lamps?)\b  driving without headlights when required
+	\blearner\s+dl.*seat\b  learner driver's license violations
+	\binfluence\b  driving under the influence of drugs or alcohol
+	\b(?:intoxicated|drunk|inebriated)\b  driving while intoxicated
+		\baccident\b  involvement in an accident while driving intoxicated
+		\bchi?ld\b  driving while intoxicated with a child passenger
+	\b(?:alco?hol|drunk|alc)\b  driving under the influence of alcohol
+		minor\b  driving under the influence of alcohol as a minor
+	\b(left.*of.*center(?:line)?|wrong side)\b  driving on the wrong side of the road
+	\blice?n?s?e?\b  driving without a valid driver's license
+		\bposs(?:|ession)\b  driving without a valid driver's license in possession
+			\bop(er)?(at)?(ing)?\b  INSUFFICIENT
+				\bvalid.*lic(ense)?\b  operating a vehicle or equipment without a valid license
+			\b(unsafe|improper).*(veh(icle)?|equip(ment)?)\b  operating an unsafe or improper vehicle or piece of equipment
+		\bexp(|ired)\b  driving with an expired driver's license
+			\bpla?te?s?\b  driving with expired license plates
+		\b(?:revoked|suspended|suspension)\b  driving with a suspended or revoked driver's license
+			\boperator\'?s?\b  operating equipment or a vehicle with a suspended or revoked operator's license
+		\bfict?(?:i?ti?ous|ional)\b  possession of a fictitious driver's license
+		\bplate\b  driving without a valid license plate
+			\bexpired\b  driving with expired license plates
+		\binv(?:|alid)\b  driving with an invalid driver's license
+	\b(?:mph|kph)\b  speeding
+		\b(\d+)\s*mph\b.*\b(\d+)-mph\b  driving $1 mph in a $2-mph zone
+	\bsuspension\b  driving with a suspended driver's license
+	\bunauthorized\b  violating a traffic law
+		\bpermitting\b  permitting an unauthorized person to drive
+	\bunsafe\b  driving an unsafe vehicle or piece of equipment
+		\bdefect?(ive)?\b  driving an unsafe or defective vehicle or piece of equipment
+			\bpermit\b  driving a vehicle or piece of equipment without a proper permit or when the vehicle is unsafe or defective
+	\bwrong\s*way\b  driving the wrong way on a one way street
+\b(?:drugs?|cannabinoids|marij?h?(?:|uana)|sched(?:|ule?))\b  drug-related offenses
+	\balc(?:ohol)?\b  drug- or alcohol-related offenses
+	\bcorr.*facil\b  possession of prohibited substances in a correctional facility
+	\bpara  possession of drug paraphernalia
+		\b(?:sale|sell)\b  sale of drug paraphernalia
+	\bpermit(ting)?\b  permitting the use of drugs
+		\babu?s?e?\b  permitting drug abuse
+	\bposs(?:|es?s|ess?)(?:|ing|ed|ion)\b  unlawful possession of drugs
+		\bab in\b  unlawful possession of drug abuse instruments
+		\b(?:prisoner|convict)\b  unlawful possession of drugs by a prisoner
+		\b(?:cs|controll?e?d? substa?n?c?e?)\b  unlawful possession of a controlled substance
+			\bsale\b  unlawful sale of a controlled substance
+		\b(?:guns?|firearms?)\b  possession of firearms while in possession of drugs
+		\bsimple\b  simple possession of drugs
+		\bpara(?:|ph(?:|e?rna?lia))\b  unlawful possession of drug paraphernalia
+		\bintent\b  unlawful possession of drugs with intent to sell
+	\b(?:sale|sell(?:|ing))\b  unlawful sale of drugs
+		\b(?:school|library)\b  unlawful sale of drugs on school or library property
+	\b(?:manu?fa?ctu?re|mfg)\b  unlawful manufacture of drugs
+		\b(?:sale|sell)\b  unlawful manufacture or sale of drugs
+	\bparaphernalia\b  unlawful possession of drug paraphernalia
+	\b(?:di?stri?bu?te?|dist)\b  unlawful distribution of drugs
+		\b(?:sale|sell)\b  unlawful distribution or sale of drugs
+		\b(?:manu?fa?ctu?re|mfg)\b  unlawful manufacture or distribution of drugs
+			\b(?:sale|sell)\b  unlawful manufacture, distribution or sale of drugs
+	\b(?:delivery|del)\b  unlawfully delivering drugs
+	\bcs\b  unlawful possession of a controlled substance
+	\bintent\b  unlawful possession of drugs with intent to sell
+	\bobtain.*\bfraud\b  obtaining drugs by fraud
+	\b(?:firearm|f\/a)  possession of a firearm while in possession of drugs
+\b(?:drunk|intox(?:|icat(?:ed|ion)))\b  unlawful intoxication
+	\bboating\b  operating a boat while intoxicated
+	\bpublic\b  public intoxication
+		\bminor\b  public intoxication by a minor
+	\bdis(orderly)? cond(uct)?\b  drunk or disorderly conduct
+\bdui\b  driving under the influence of drugs or alcohol
+\bdumping\b  illegal dumping
+\bd\.?\s*u\.?\s*s\b\.?  driving with a suspended license
+	\brestrictions?\b  violation of license restrictions
+\b(?<!non )dwi\b  driving while intoxicated
+	\bchi?ld\b  driving while intoxicated with a child passenger
+\bdwls\b  driving with a suspended license
+\belu(?:de|ding|ded|sion)\b  eluding authorities
+	\bauthorities\b  eluding authorities
+	\bofficer\b  eluding an officer
+	\barrest\b  eluding arrest
+	\bpolice\b  eluding police
+		\bendanger\b  eluding police in a manner that put people or the police car in danger
+\bembezzlement\b  embezzlement
+\bendange?r(?:|ing|ed)\b  endangering
+	\b(?:chi?ld|minor)\b  endangering a child
+		\bwith\b  endangering a child
+			\bintent\b  endangering a child
+				\bretu?rn\b  abandoning or endangering a child with intent to return
+\bengag(?:e|ing|ed)\b  INSUFFICIENT
+	\bactivity\b  INSUFFICIENT
+		\bcrim(?:|inal)\b  criminal activity
+\bentic(?:e|ed|ing)\b  enticing
+	\b(?:chi?ld|minor|chil)\b  enticing a child
+\besca?pe?\b  escape
+\beva(?:de?|ded|ding|sion of)\b  INSUFFICIENT
+	\bauthorities\b  evading authorities
+	\boffi?ce?r\b  evading an officer
+	\b(?:arre?st|arr|det|detention)\b  evading arrest
+		\b(?:sbi|serious.*inj(|ury))\b  evading arrest resulting in serious bodily injury
+			\bdeath\b  evading arrest resulting in serious bodily injury or death
+		\b(?:vehi?cle?|veh)\b  evading arrest with a vehicle
+\bexpectorat(?:ing|e|ed)\b  unlawful expectoration
+	\bpublic\b  public expectoration
+\belder(ly)?.*exploit(ation|ing)?\b  explotation of the elderly
+\bexp(ired)?\b  INSUFFICIENT
+	\bdl|driver\'?s?\s+lic(ense)?\b  driving with an expired driver's license
+	\btag(s)?(\/reg)?\b  driving with expired license plates
+	\b(?:registra(?:|tion)|reg(is)?)\b  driving with expired registration
+	\binspection\b  driving with expired inspection documents
+	\bregs?(istration)?\b  driving with expired registration
+	\bmvi\b  driving with an expired motor vehicle inspection	
+\bexposure\b  INSUFFICIENT
+	\b(?:indecen(?:t|cy)|indency)\b  indecent exposure
+		\bchi?ld\b  indecent exposure in the presence of a child
+\bsecur(?:e|ing|ed)\s*(?:\bthe\b)?\s*\bexecution\b  INSUFFICIENT
+	\bdocument\b  securing the execution of a document by unlawful means
+		\bdeception\b  securing the execution of a document by deception
+\bfabricat(?:e|ed|ing)\b  INSUFFICIENT
+	\bevidence\b  fabricating evidence
+		\btamper(?:|ing)\b  tampering with or fabricating evidence
+\bfailure\s+to\s+control\s+a\s+vehicle\b  failure to control a vehicle
+\b(?:fail(ure|ing|ed)?)\b  INSUFFICIENT
+	\bdim\s+((head)?lights?|lamps?)\b  failure to dim headlights
+	\bcontain load\b  failure to contain load
+	\bapp(?:|ear)\b  failure to appear
+		\bmisdemeanor\b  failure to appear on a misdemeanor
+	\battend\b  failure to attend
+		\bschool\b  failure to attend school
+	\bbike|bicyc(le)?\b  INSUFFICIENT
+		\bhelmet\b  failure to wear a bicycle helmet
+	\bchange.*add  failure to notify authorities of a change of address
+	\bcomply\b  failure to comply
+		\btaxe?s?\b  failure to comply with taxes
+		\bsex\b  failure to comply with sex offender registration law
+		\bsupport\b  failure to comply with support obligations
+	\bconfi?n?e?.*dog\b  failure to confine a dog
+	\bconfi?n?e?.*animal\b  failure to confine an animal
+	\bcontrol.*(veh(icle)?|car|auto)  failure to control a vehicle
+	\bdl\b  INSUFFICIENT
+		\breplace\b  failure to replace driver's license
+	\bdispl?a?y?\b  failure to display
+		\btheft\b  theft by failure to display
+		\bco?u?rt\s*\borde?r\b  failure to display a court order
+		\blicense\b  failure to display license
+			\b(plates?|tags?)\b  license plate display violations
+			\bdrive\b  failure to display driver's license
+		\breg(s?|i?stra?ti?o?n)\b  failure to display registration
+	\bdue.*care\b  failure to use due care
+	\b(?:yield|ye?i?ld|yiel)\b  failure to yield
+		\bstop\b  failure to yield at a stop sign
+		\bemergency\s*vehicles?\b  failure to yield to emergency vehicles
+		\bturn(?:|ing|ed)|turing\b  failure to yield while turning
+			\bleft\b  failure to yield while turning left
+			\bright\b  faiure to yield while turning right
+	\bid(?:|ent(?:|ify))\b  failure to identify
+		\bfugitive\b  failure to identify a fugitive
+	\bgive.*info  failure to give information
+	\bregister\b  failure to register
+		\bsex.*offend(?:|er)\b  failure to register as a sex offender
+	\breport\b  failure to report
+		\bacci?dent\b  failure to report a vehicle collision
+		\bcolli?sion\b  failure to report a vehicle collision
+	\breturn\b  failure to return
+		\bitem|property|goods\b  failure to return property
+	\b(?<!red )si?gna?l(?:|ing)\b  failure to signal
+	\bmaintain\s*\bfin(\.?|ancial)\s*\bres(p?o?n?|ponsibilit(y|ies))\b  failure to maintain financial responsibility
+	\bmaintain\s*\bcontrol\b  failure to maintain control
+		\breckless\b  reckless failure to maintain control
+	\bprovide.*proof.*insur(ance)?\b  failure to provide proof of insurance
+		\binvestigator\b  failure to provide proof of insurance to an investigator
+	\bstop\b  failure to stop
+		\b(?:yield|yeild)\b  failure to yield at a stop sign
+		\binfo\b  failure to stop and give information
+		\blight\b  failure to stop at a red light
+		\b(ri?g?h?t turn.*red)\b  failure to stop before a right turn at a red light
+	\bsingle mark?e?d?\b  failure to drive in one lane
+	\blane\b  failure to drive in one lane
+		\bleft.*\bin\s+left\s+lane\b  failure to turn left in left lane
+		\bmove.*lane\b  failure to change lane for a stationary emergency vehicle
+	\bcontrol\b  INSUFFICIENT
+		\banimal\b  failure to control an animal
+		\bspeed\b  failure to control speed
+		\bveh(icle)?|car|auto  failure to control a vehicle
+	\bmove\b  failure to move
+	\bobey\b  failure to obey
+		\btraffic\b  failure to obey traffic control devices
+		\blights?\b  failure to obey traffic lights
+		\bsign  failure to obey signage
+		\blane\b  failure to drive in one lane
+		\bofficer\b  failure to obey an officer of the law
+	\bped(estrian)?.*cross\b  failure to cross in a crosswalk
+	\bperform\b  INSUFFICIENT
+		\bconstruction\b  failure to perform construction
+			\badvance\b  failure to perform construction after advance pay
+	\bobtain\b  INSUFFICIENT
+		\breg(|istration)\b  failure to obtain registration
+			\bveh(?:|icle)\b  failure to obtain vehicle registration
+	\bheadlights.*night\b  failure to illuminate headlights at night or in poor conditions
+	\bfail.*regs?(ister)?\b  failure to register
+	\breinstate\b  driving without reinstating license subsequent to termination of license suspension
+	\bveh(icle)?\b  INSUFFICIENT
+		\bcontrol\b  failure to control a vehicle
+		\bleave\s+info(rmation)?\b  failure to leave information
+			\bunn?attended\b  failure to leave information after damaging an unattended vehicle
+		\bmove\b  failure to move
+		\bregister\b  failure to register a vehicle
+		\bdisplay.*reg  failure to display vehicle registration
+	\b(?:seat\s*-?\s*belt.*wear|wear.*seat\s*-?\s*belt|wear\s.*safety\s.*belt)\b  failure to wear a seatbelt
+\b(?:fail(?:|ure).*)?pay.*tax(?:[^\d]{0,}|\b)(\d{4})\b  failure to pay taxes for fiscal year $1
+\b(?:fail(?:|ure).*)?pay.*tax(?:[^\d]{0,}|\b)(\d{2})(?:\/|-|,\s?)(\d{2})\b  failure to pay taxes between fiscal years $1 and $2 
+\bfalsification\b  falsification
+\b(?:fa?i?l)?fi?le?\s*tax(?:[^\d]{0,}|\b)(\d{2})(?:\/|-|,\s?)(\d{2})\b  failure to file taxes between fiscal years $1 and $2
+\bfi?le?\s*tax(?:[^\d]{0,}|\b)(\d{4})\b  failure to file taxes for fiscal year $1
+\bflfiletax\d{5,}\b  failure to file taxes
+\b(?:false(?:|ly)|fal.*reports?)\b  INSUFFICIENT
+	\b(alarms?|false alar)\b  making false alarms
+	\b(?:attorney|aty|la?wye?r)\b  INSUFFICIENT
+		\bholding\b  impersonating an attorney for financial gain
+	\bidentify\b  false identification
+		\b(?:enforcement|authorities)\b  falsely identifying to authorities
+	\breports?\b  giving a false report
+		\b(?:poli?ce|offi?ce?r|off)\b  giving a false report to police
+	\bpretenses\b  fraud
+		\bmoney\b  obtaining money by false pretenses
+		\b(?:services|goods)\b  obtaining goods or services by false pretenses
+	\bstatement\b  making a false statement
+		\bproperty\b  making a false statement for property
+	\binfo\b  giving false information
+\bfollow(?:|ing).*too?.*close(?:|ly)\b  following too close
+\b(conspiracy.*commit.*|capias.*)felony\b  a felony
+	\bcapital\b  a capital felony
+\bfederal.*prisoner.*hold  Remove
+\bfictit?c?ious\b  INSUFFICIENT
+	\b(?:insurance|ins.*doc(?:|ument))\b  possession of a fictitious insurance document
+		\bcounterfeit\b  possession of a fictitious or counterfeit insurance document
+		\binspection\b  possession of a fictitious inspection certificate or insurance document
+	\binspection\b  possession of a fictitious inspection certificate
+		\binsurance\b  possession of a fictitious inspection certificate or insurance document
+	\blicense\b  possession of a fictitious license
+		\bplate\b  license plate display violations
+	\bplates?\b  driving with fictitious license plates
+	\bregistration\b  possession of fictitious registration
+		\buse\b  using fictitious registration
+\b(?:flee(?:|ing)|flight)\b  fleeing from authorities
+	\bauthorities\b  flight from authorities
+	\bofficer|police\b  flight from an officer
+\bforg(?:e|ed|ing|ery)\b  forgery
+	\btag\b  forgery
+		\balteration\b  unlawful alteration of tags
+	\belderly\b  forgery by an elderly person
+	\bcredit.*cards?\b  forgery of credit cards
+	\bfinancial\b  forgery of financial documents
+		\b(?:govt|government)\b  forgery of government financial documents
+		\belderly\b  forgery of financial documents by an elderly person
+	\bgovernment\b  forgery of government documents or money
+	\bidentification\b  forgery of identification cards
+	\bprobation\b  violation of probation by committal of forgery
+	\butter(?:|ing)\b  use or distribution of a forgery
+	\b(?:bank notes?|coins?)\b  forgery of bank notes or coins
+		\bpossess(?:|ion|ing|ed)\b  possession of forged bank notes or coins
+	\blicense\s*\bplate\b  forgery of a license plate
+		\bdecal\b  forgery of a license plate decal
+			\bor\b  forgery of a license plate or decal
+	\brecords?\b  forging records
+		\bpublic\b  forging public records
+\bfr\s{1}susp\b  failure to maintain financial responsibility
+\b(?:de)?fraud(?:|ing|ul(?:|ent(?:|ly)))\b  fraud
+	\bconv(?:|eyance)\b  fraudulent conveyance
+	\bwri?ting\b  fraud in writing
+		\bde?stroy(?:|ed|ing)\b  fraud by destruction of writing
+		\bconceal(?:|ing|ment|ed)\b  fraud by concealment of writing
+	\bidentification\b  fraudulent identification
+		\buse\b  use of fraudulent identification
+			\bpossess\b  use or possession of fraudulent identification
+		\bpossess\b  possession of fraudulent identification
+			\buse\b  use or possession of fraudulent identification
+	\binsurance\b  insurance fraud
+	\bforgery\b  forgery
+	\b(?:hotels?|motels?)\b  defrauding a hotel or motel
+	\bident(?:|ity)\b  identity fraud
+	\bprocur(?:e(?:|ment)|ing)\b  fraudulent procurement
+		\bvehicle\b  fraudulent procurement of a vehicle
+			\bint(?:|ent)\b  procurement of a vehicle with intent to defraud
+	\brecei(?:ve|pt).*(goods|services?)\b  fraudulent receipt of goods or services
+		\bstolen\s*goods\b  fraudulent receipt of stolen goods
+	\bcredit.*cards?\b  credit card fraud
+	\bcredit\b  credit fraud
+	\bobtain(?:|ing)\b  obtaining property by fraud
+		\b(?:cs|drugs?|marij?h?uana|heroine?|meth(?:|amphed?t?amines)|sched(?:|ule?))\b  obtaining drugs by fraud
+			\b(?:cs|control)\b  obtaining a controlled substance by fraud
+	\bgaragekeeper\b  defrauding a garagekeeper
+	\buse.*ident  fraudulent use of identification
+		\belderly\b  fraudulent use of identification by an elderly person
+\bfsgi\b  failure to stop and give information
+\bfta\b  failure to appear
+ftos  failure to obey signage
+\bfty\b  failure to yield
+	\bturn\b  failure to yield while making a turn
+		\bleft\b  failure to yield while making a left turn
+		\bright\b  failure to yield while making a right turn
+\b(?:ftyrow|right\s*of\s*way)\b  failure to yield right of way
+	\bturn(?:ing)?\b  failure to yield right of way while turning
+		\bright\b  failure to yield right of way while turning right
+		\bleft\b  failure to yield right of way while turning left
+\bfugitive\b  arrested due to fugitive status
+\bgambl(?:e?|e?d|ing)\b  unlawful gambling
+	\bpromotion\b  promotion of gambling
+\bgeneral\b  INSUFFICIENT
+	\breckless(ness)?\b  general recklessness
+\bgraffiti\b  graffiti
+\b(?:hae?bea?u?s\s*\-?\s*corpu?a?s|writ.*hab.*corp?(?:|us))\b  arrested on a writ of habeas corpus
+\bhandl(?:e|ed|ing)\b  INSUFFICIENT
+	\bfirearm\b  unlawful handling of a firearm
+		\breckless\b  reckless handling of a firearm
+\bharr?ass?(?:|ment|ing)\b  harassment
+	\belectronic\b  electronic harassment
+	\bservant\b  harassment of a servant
+		\bpu?blic\b  harassment of a public servant
+	\bonline\b  online harassment
+		\bimpersonation\b  online harassment by impersonation
+	\bcommunications?\b  harassing communications
+	\b(?:tele)?phone\b  telephone harassment
+	\b(?:tele)?comm(unications?)?\b  telecommunications harassment
+	\btele\b  telecommunications harassment
+\bharbor(?:|ed|ing)\b  harboring
+	\bcriminal\b  harboring a criminal
+	\brunaway\b  harboring a runaway child
+\bhead\s*-?\s*lights?\b  headlight violations
+	\brequired\b  driving without headlights
+	\bfail.*night\b  failure to illuminate headlights at night or in poor conditions
+\bhigh\s+grass\b  grass or weed violations
+\bhinder(?:|ing|ed)\b  INSUFFICIENT
+	\bappre?he?nsion\b  hindering the apprehension or prosecution of a criminal
+	\bpro?secution\b  hindering the apprehension or prosecution of a criminal
+	\bcreditors?\b  hindering creditors
+		\bsecured?\b  hindering secured creditors
+\b(hit\s*(?:\band\b|\&)\s*run|hit\s*-?\s*skip)\b  hit-and-run vehicle collision
+	\binjury\b  hit-and-run vehicle collision involving personal injury
+		\bdeath\b  hit-and-run vehicle collision involving personal injury or death
+	\bdamage\b  hit-and-run vehicle collision involving damage
+		\bvehicle\b  hit-and-run vehicle collision involving damage to a vehicle
+		\bproperty\b  hit-and-run vehicle collision involving property damage
+		\bbuilding\b  hit-and-run vehicle collision involving damage to a building
+			\bpublic\b  hit-and-run vehicle collision involving damage to a public building
+\bhitchh?ik(?:ing|er|e)\b  hitchhiking
+\bhomicide\b  homicide
+	\bneg(?:|ligen(ce|t))\b  negligent homicide
+		\bcriminal\b  criminally negligent homicide
+\billegal\s+parking\b  illegal parking
+\bimmigration\b  immigration hold
+	\bice\b  held to satisfy detianment order from ICE
+\bimped(e|ing)\s+traf  impeding traffic
+	\btoo?\s+slow\b  impeding traffic by moving too slowly
+\b(?:impersonat(?:e|ed|ing)|imperson)\b  unlawful impersonification
+	\b(?:enforcement|officer|law|authorities|p-o)\b  impersonating law enforcement authorities
+\bimp(?:|ro?pe?r)\b  INSUFFICIENT
+	\bimproper start\b  an improper start
+		\bfrom stopped\b  an improper start from stopped position
+	\bback(ing)?\b  improper backing
+	\bla?ne? cha?n?ge?|change.*lane(s)?\b  changing lane improperly
+	\bop(er)?(at)?(e)?(ing)?\b  improperly operating equipment
+		\bveh(icle)?\b  improperly operating a vehicle	
+			\bunsafe.*equip(ment)?\b  improperly or unsafely operating a vehicle or piece of equipment
+	\bpark(?:|ing)\b  improper parking
+		\bstart.*from\b  improper start from a stopped or parked position
+	\bpass(|ing)\b  improper passing
+	\bphoto|visual|record  improper photography or recording
+	\bpassing\b  improper passing
+		\bsolid\s*line\b  improper passing in a solid-line zone
+		\bdouble\s*-?\s*line\b  improper passing in a double-line zone
+	\bdisplay\b  INSUFFICIENT
+		\bplates?\b  improper display of state license plates
+	\bhandl(?:e|ing)\b  improper handling
+		\b(?:veh(?:|icle)|car|auto(?:|mobile))\b  improper handling of a vehicle
+		\b(?:hand)?gun\b  improper handling of a gun
+		\bweapon\b  improper handling of a weapon
+	\bturn\b  making an improper turn
+		\bleft\b  making an improper left turn
+		\bright\b  making an improper right turn
+\b(?:indecen(?:t|cy)|indency)\b  indecency
+	\bpublic\b  public indecency
+	\bsexual\b  sexual indecency
+		\bchild\b  sexual indecency with a child
+			\bcontact\b  indecent sexual contact with a child
+	\bexpos(?:e|ure)\b  indecent exposure
+		\bchild\b  indecent exposure in the presence of a child
+	\bliberties\b  indecent liberties
+		\bby\s*a?\s*child\b  indecent liberties taken by a child
+		\bwith\s*a?\s*child\b  taking indecent liberties with a child
+			\bcustodian\b  indecent liberties taken with a child by a custodian
+	\bchi?ld\b  indecency in the presence of a child
+		\bcontact\b  indecent contact with a child
+\binjunct(ion)?\b  INSUFFICIENT
+	\bdomestic\s+viol?(ence)?\b  a domestic violence injunction
+		\bcourt\s+order\b  a court order and/or a domestic violence injuction
+\binj(?:|ury|uries)\b  injuring a person
+	\bunsafe turn\b  making an unsafe turn resulting in injury
+	\bdui\b  causing injury to a person while driving intoxicated
+		\bproperty\sdam(age)?\b  causing property damage or injuring a person while driving intoxicated
+	\bfirearm\b  injuring a person with a firearm
+		\bdischarge\b  injuring a person with a firearm discharge
+	\belde?rly\b  injury to an elderly person
+		\bdisabled\b  injury to an elderly or disabled person
+			\bchi?ld\b  injury to an elderly person, disabled person or child
+	\bdisabled\b  injury to a disabled person
+		\bchi?ld|minor\b  injury to a disabled person or child
+			\belde?rly\b  injury to an elderly person, disabled person or child
+	\b(?:chi?ld|minor)\b  injury to a child
+		\belde?rly\b  injury to an elderly person or child
+			\bdisabled\b  injury to an elderly person, disabled person or child
+	\bins(urance)?.*required?\b  INSUFFICIENT
+		\bno.*proof\b  driving without proof of insurance
+	\blines?\b  unlawful injury to service lines
+		\b(?:tele)?phone\b  injuring telephone service lines
+			\b(?:mis)?use\b  injuring or misusing telephone service lines
+		\belectrical\b  injuring electrical service lines
+			\b(?:mis)?use\b  injuring or misusing electrical service lines
+	\bpolice\b  injuring of a police officer
+\binspection\b  INSUFFICIENT
+	\bexpir(?:ation|ed)\b  expired inspection certification
+		\b(?:vehicle|veh)\b  driving with an expired motor vehicle inspection certification
+	\bfictitious\b  possession of a fictitious inspection certificate or insurance document
+	\bcounterfeit\b  possession of a counterfeit inspection certificate
+\binter(?:|fere?(?:|nce))\b  unlawful interference
+	\bcust(?:|od?y?)\b  interfering in the custody of a minor
+	\bpolice\b  unlawful interference with police
+		\bservice.*anima?l?\b  unlawful interference with a police service animal
+	\bemergency.*(call|telep?h?o?n?e?|phone)\b  unlawful interference with an emergency call
+	\bduties\b  unlawful interference with duties
+\binterstate.*compact\b  Remove
+\bnoinspection\b  driving with no motor vehicle inspection certification
+	\bexpir(?:ed|ation)\b  driving with an expired motor vehicle inspection certification
+\bno\s*\binsurance\b  driving without insurance
+\bproof.*insur(ance)?\b  driving without proof of insurance
+\binterference\b  INSUFFICIENT
+	\bduties\b  interference with duties
+		\bpublic\b  interference with public duties
+	\bcall\b  interference with a call
+		\bemergency\b  interference with an emergency call
+\bintoxication\b  unlawful intoxication
+	\bpu?bli?c\b  public intoxication
+\binvalid.*tag\b  driving with invalid plates
+\b(issu(?:e|ing|ance)|pass.*check)\b  unlawful issuance
+	\bchecks?\b  issuance of a bad check
+		\bstolen\b  issuance of a stolen check
+\b(junk|debris)\b  junk or debris violations
+\bkidnap(?:p|ping)\b  kidnapping
+	\babduction\b  kidnapping and abduction
+\blabeling\b  false labeling
+\blamps?\b  head or tail light violations
+	\bstop\b  driving without functional stop lamps
+	\bhead  driving without headlights
+\bno stop lights\b  driving without functional stop lamps
+\blarceny\b  larceny
+	\b(?:bank\s*notes?|checks?)\b  larceny of bank notes or checks
+	\bcredit\s*card\b  credit card larceny
+	\bintent.*sell\b  larceny with intent to sell
+	\bor\s*trespass(?:|ing)\b  larceny or trespassing
+	\btrespass(?:|ing)\s*or\b  larceny or trespassing
+	\b(?:animals?|poultry|cattle|cows)\b  larceny of animals
+\blaundering\b  money laundering
+\bleav(e|ing).*key.*ignition\b  leaving the key of a vehicle in the ignition
+\bleaving\b  INSUFFICIENT
+	\bchi?ld\b  abandoning a child
+		\b(?:vehicle|veh)\b  leaving a child in a vehicle
+\bleft\s*of\s*center\b  driving on the wrong side of the road
+\bno.*liability.*insur  driving without liability insurance
+\b(no.*valid.*mvi|mvi.*not.*valid|invalid.*mvi)\b  driving without valid motor vehicle inspection documentation
+	\b(stickers?|papers?|documents?|certificates?)\b  driving without valid motor vehicle inspection documentation
+\blic(enses?)?\b  INSUFFICIENT
+	\b(?:436\.04a1\b)  violating restrictions on driver's license
+	\bposs(ess|ession)?\b  driving without a valid driver's license in possession
+		\blend\b  unlawful lending of license or registration
+		\bfictitious\b  possessing a fictitious license or ID
+			\boperator\'?s\b  possessing fictious operator's license
+				\bmanuf(acture)?|sale\b  possessing, manufacturing or selling a fictiious operator's license
+			\bmanuf(acture)?|sale\b  possessing, manufacturing or selling a fictiious license or ID
+			\battempt\b  attempted possession of a fictitious license or ID
+		\bop(er)?(at)?(ing)?\b  operating a vehicle or equipment without an operator's license in possession
+		\b(unsafe|improper).*(veh(icle)?|equip(ment)?)\b  operating an unsafe or improper vehicle or piece of equipment
+		\bno.*operat(ors)?\b  operating equipment or a vehicle without appropriate operator's license
+		\bexp(|ired)\b  driving with an expired driver's license
+			\bpla?te?s?\b  driving with expired license plates
+		\bprinters?\b  not having a printers license in possession
+	\bdisplay\b  failure to display license
+		\b(plates?|tags?)\b  license plate display violations
+	\bexpired\b  driving with an expired driver's license
+		\boperat  operating a vehicle or equipment with an expired operator's license
+	\binv(alid)?\b  driving with an invalid, revoked or suspended driver's license
+	\brevoked\b  driving with an invalid, revoked or suspended driver's license
+		\boperator\'?s?\b  operating equipment or a vehicle with a revoked or suspended operator's license
+	\bsusp(end)?(ed)?\b  driving with an invalid, revoked or suspended driver's license
+		\bw(?:ith|\/)\s+know(l)?(edge)?\b  knowingly driving with a revoked or supsended driver's license
+		\boperator\'?s?\b  operating equipment or a vehicle with a revoked or suspended operator's license
+	\bviolat(?:e|ions?)\b  license violations
+		\b(?:plates?|tags?|stickers?)\b  license plate violations
+		\bdriver\'?s?\b  driver's license violations
+		\brestriction\b  violation of license restrictions
+			\boccupational\b  violation of occupational license restrictions
+	\bfictitious\b  possession of fictitious license, insurance or registration documents
+		\bdriv(?:e|ing)\b  driving with fictitious license, insurance or registration documents
+		\bmanu(?:|f|facture)\b  manufacture of fictitious licenses
+			\bsale\b  manufacture or sale of fictitious licenses
+				\bposs(?:|ess(?:|ing|ed|ion))\b  manufacture, sale or possession of fictitious licenses
+					\boperator\'?s?\b  manufacture, sale or possession of fictitious operator's license
+	\b(driv(?:ing|e|er\'?s?)|dr\s*w\/?o|driv)\b  driving without a valid driver's license
+		\bexp(|ired)\b  driving with an expired driver's license
+		\brev(oked?)?|susp(end(ed)?)?\b  driving with a suspended or revoked driver's license
+		\bviolations?\b  driver's license violations
+		\bposs(?:|ession)\b  driving without a valid driver's license in possession
+			\boper(at)?(ing|ors?)?\b  operating a vehicle or equipment without an operator's license
+			\bop(er)?(at)?(ing)?\b  INSUFFICIENT
+				\bvalid.*lic(ense)?\b  operating a vehicle or equipment without a valid license
+			\b(unsafe|improper).*(veh(icle)?|equip(ment)?)\b  operating an unsafe or improper vehicle or piece of equipment
+	\bexpired\b  driving with an expired driver's license
+			\bpla?te?\b  driving with expired license plates
+		\b(?:revoked|suspended)\b  driving with a suspended or revoked driver's license
+			\boperator\'?s?\b  operating equipment or a vehicle with a suspended or revoked operator's license
+		\bfict?(?:i?ti?ous|ional)\b  possession of a fictitious driver's license
+		\bplate\b  driving without a valid license plate
+	\bposs(ess)?\b  INSUFFICIENT
+		\blend\b  INSUFFICIENT
+			\b(?:reg(?:|istration)|lic(?:|ense))\b  unlawful lending of license or registration
+		\bfictitious\b  possession of a fictitious license or ID
+			\battempt\b  attempted possession of a fictitious license or ID
+	\bno.*poss\b  driving without a license in possession
+		\bprinters.*license\b  not having a printers license in possession
+		\boper(?:|at(?:e?|ing|or))\b  operating a vehicle or equipment without an operator's license in possession
+	\bop(er)?(at)?(ing)?\b  INSUFFICIENT
+		\bvalid.*lic(ense)?\b  operating a vehicle or equipment without a valid license
+		\b(unsafe|improper).*(veh(icle)?|equip(ment)?)\b  operating an unsafe or improper vehicle or piece of equipment
+	\boccupational\b  violating restrictions placed on an occupational license
+	\boperator\'?s?\b  operating equipment or a vehicle without appropriate operator's license
+	\brestrictions?\b  violation of license restrictions
+	\bplates?\b  driving with an invalid or problematic license plate
+		\bdisplay\b  license plate display violations
+	\btag\b  driving with invalid or problematic license tags
+		\bunlaw(ful)?\b  having unlawful license tags attached
+	\bunl(aw)?.*carry\b  unlicensed carrying of a weapon
+		\bfirearm|handgun\b  unlicensed carrying of a firearm
+	\bid\b  INSUFFICIENT
+		\b(?:false|fake)\b  possession of a fake or false ID
+	\bdog\b  failure to possess a dog license
+\blitter(?:|ing)\b  littering
+\bloiter(?:|ing)\b  loitering
+\bwearing\s*a?\s*mask\b  INSUFFICIENT
+	\bpublic\b  wearing a mask in public
+\bmaim(?:|ing)\b  maiming
+\bmanslaughter\b  manslaughter
+	\bintox(?:|icated)\b  intoxicated manslaughter
+		\b(?:veh(?:|icle)|car)\b  intoxicated vehicular manslaughter
+\b(?:manuf(?:|actur(?:e|ing))|mfg)\b  unlawful manufacture
+	\bcrim.*instru?m?e?n?t?\b  unlawful manufacture of a criminal instrument
+\bmaterial\b  INSUFFICIENT
+	\bharmful\b  unlawful use of harmful material
+		\b(?:display|sell|sale|give|distribute|dist)\b  selling, distributing or displaying harmful material
+			\b(?:chi?ld|minor)\b  selling, distributing or displaying harmful material to a minor
+\bmenacing\b  menacing
+\b(?:mi?schi?e?f|misch)\b  mischief
+	\b(?:cri?mi?na?l|crim)\b  criminal mischief
+		\bda?ma?ge?\b  criminal mischief resulting in damage
+			\bhabi?tat\b  criminal mischief resulting in damage to a natural habitat
+\bmisd(?:|emeanor)\b  commission of a misdemeanor
+	\bsurety.*surr  surety to surrender
+\bmissiles?\b  INSUFFICIENT
+	\b(?:discharg(e|ing|ed)|shoot(|ing)|throw(|ing))\b  shooting or throwing missiles
+		\bveh(?:|icles?)\b  shooting or throwing missiles at a vehicle
+			\bocc(?:|upied)\b  shooting or throwing missiles at an occupied vehicle
+			\bunocc(?:|upied)\b  shooting or throwing missiles at an unoccupied vehicle
+		\bbu?i?ldi?n?g\b  shooting or throwing missiles at a building
+			\bocc(?:|upied)\b  shooting or throwing missiles at an occupied building
+			\bunocc(?:|upied)\b  shooting or throwing missiles at an unoccupied building
+\bmis\s*-?\s*use\b  INSUFFICIENT
+	\bcredit\b  misuse of credit
+	\bequip(ment)?\b  misuse of equipment
+\bmotion\s*(\/|\bto\b)  arrested on authority of a court motion
+	\brevo(?:ke|cation)\b  arrested due to revocation of probation or bond
+	\badjudicate\s*\bguilt\b  arrested due to revocation of probation following a motion to adjudicate guilt
+	\bamend\b  Remove
+\bmta\b  arrested by the Metropolitan Transport Authority
+\bmtr\b  arrested on a motion to revoke
+	\bmisd(|emeanor)\b  commission of a misdemeanor resulting in a motion to revoke
+	\bfel(|ony)\b  commission of a felony resulting in a motion to revoke
+	\bvehi?c?l?e?\b  INSUFFICIENT
+		\bburg\b  burlgary of a motor vehicle
+		\bunauth(orized)?\b  unauthorized use of a motor vehicle
+\bmurder\b  murder
+	\bbreak(?:|ing)\s*(?:and|\&)\s*enter(?:|ing)\b  breaking and entering to commit murder
+		\bint(?:|ent)\b  breaking and entering with intentions of committing murder
+			\b(?:rape|rob)\b  breaking and entering with intentions of committing rape, robbery or murder
+	\bcapital\b  capital murder
+\bno\s+liab(|ility) ins  driving without liability insurance
+\bno\s+safety\s+passenger\s+under\s+18\b  driving with an unbuckled passenger 17 or younger
+\bno\s+o\.?\s*l\b\.?  operating a vehicle or equipment without a valid operator's license
+\bno\s+mud\s*-?\s*flaps?\b  driving without mud flaps
+\bnoise\b  excessive noise
+	\bbarking\b  failure to control excessively loud barking dog
+	\bmufflers?\b  driving with a broken or missing muffler
+\bnotice\b  issued notice
+	\bclean\b  issued a notice to clean
+\bobscen(?:e|ity)\b  obscenity
+	\bdisplay\b  obscene display
+		\bsexual\b  obscene sexual display
+\b(?:obstruct(?:|ing|ion)|obstr?c?t?n?)\b  obstruction of justice
+	\bretaliation\b  obstruction and retaliation
+	\bhighways?\b  obstruction of a highway
+	\bjustice\b  obstruction of justice
+	\bproceedings?\b  obstruction of proceedings
+		\bcourt\b  obstruction of court proceedings
+	\brescue\b  obstruction of a rescue squad
+	\b(?:official|off\.?\s*bus|offcl|busine?s?s?)\b  obstructing official business
+\boccup(y|ying|ied).*struct.*w(ithout|\/o(ut)?)\s*(a )?permit  occupying a structure without a permit
+\boffenses?\b  offenses
+	\btra?ffic\b  traffic offenses
+	\banimals?\b  offenses involving animals
+	\bloitering.*prostitution\b  loitering for the purpose of prostitution
+	\bcapital\b  capital offenses
+		\bnon-capital\b  non-capital offenses
+	\bnon\s*-?\s*capital\b  non-capital offenses
+	\bsex\b  sex offenses
+\bopen.*cont(ainer)?\b  violation of open container laws
+\b(?:op(er)?(at)?(ed?|ing|ion)?|operator\'?s lic)\b  unlawful operation of a vehicle or equipment
+	\bdl|driver\'?s\slicense\b  operating of a vehicle with an invalid driver's license
+		\bsuspend\b  operating a vehicle or equipment while driver's license is suspended
+			\bcanc(el|elled|eled)?\b  operating a vehicle with a cancelled or suspended driver's license
+				\brevoked\b  operating a vehicle with a cancelled, suspended or revoked driver's license
+					\bw/\s*know(ledge)?\b  knowingly operating a vehicle with a cancelled, suspended or revoked driver's license
+					\bw\/o.*know(ledge)?\b  unknowingly operating a vehicle with a cancelled, suspended or revoked driver's license
+\b(unsafe\/improper).*(veh(icle)?|equip(ment)?)  operating an unsafe or improper vehicle or piece of equipment	
+	\bwithout lp\b  operating a motor vehicle without a license plate
+		\bfro?nt\b  operating a motor vehicle without a front license plate
+			\brear\b  operating a motor vehicle without a front or rear license plate
+		\brear\b  operating a motor vehicle without a rear license plate
+			\bfro?nt\b  operating a motor vehicle without a front or rear license plate
+	\bdrink(?:|ing)|drunk|inebriated|intoxicated\b  intoxicated operation of a vehicle
+		\b(?:motor.*vehicle|car)\b  driving under the influence of alcohol
+	\blici?n?s?e?\.?\s*requ?i?r?e?d?\b\.?\b  operating a vehicle or equipment without an operator's license
+\bo\.?\s*(?:m\.?\s*)?v\.?\s*i\b\.?  operating a vehicle under the influence of drugs or alcohol
+\bove?rwe?i?gh?t.*\b  driving a vehicle over the weight limit
+	[^\d](\d{2,})(?:[^\d]|$)  driving a vehicle $1 lbs over the weight limit
+	[^\d]1(?:[^\d]|$)  driving a vehicle 1 ton over the weight limit
+	[^\d]([2-9])(?:[^\d]|$)  driving a vehicle $1 tons over the weight limit
+\boverwi?dth\b  driving a vehicle wider than allowed
+\bparaphe?r?n?a?l?i?a?\b  unlawful possession of paraphernalia
+	\b(?:cs|controlled)\b  unlawful possession of paraphernalia for a controlled substance
+	\b(?:drug|mari?a?juana|heroine|meth(?:|a?e?mphed?t?amines?))\b  unlawful possession of drug paraphernalia
+\bpark.*blo?ck(ing)?( private)? drive  parking blocking a driveway
+	\bprivate\b  parking blocking a private driveway
+\bpa?rk.*handicap(ped)?\b  parking in a handicapped parking space without appropriate license
+\bpark.*facing\s+traff?ic\b  parking facing traffic
+\bpark.*fire\b  parking in a fire lane
+	\bhydrant\b  parking too near a fire hydrant
+\bpark.*over\s+72\s+hours?  parking for over 72 hours
+\bpark.*oversize.*vehicle  parking an oversized vehicle in an unlawful location
+\bpark.*prohibit  parking in a prohibited area
+\bpark.*public hi?g?h?wa?y\b  parking on a public highway
+\bpark.*roadway\b  parking in a roadway
+\bpark.*tow\s*-?\s*away  parking in a tow-away zone
+\bpark.*w(ithout|\/?o(ut)?)( a)? permit  parking without a permit
+\bpass.*school.*bus\b  passing a school bus
+\bpass.*emergency\s+vehicle\b  passing an emergency vehicle
+\bpass.*shoulder\b  passing on the shoulder of a road
+\bno\s*park.*anytime\b  parking in a no-parking zone
+\bpenetration\b  INSUFFICIENT
+	\bsex(?:|ual)\b  sexual penetration
+		\bobject\b  object sexual penetration
+			\bchild\b  object sexual penetration of a child
+			13.*15  object sexual penetration of a victim between thirteen and fifteen years old
+\bperjury\b  perjury
+\bphys(ical)?.*control\b  physical control of a motor vehicle while under the influence of alcohol
+\bplates?\b  license plate violations
+	\bexpired\b  drivnig with expired license plates
+\bpoach(?:|ing)\b  poaching
+\bpom\b  unlawful possession of marijuana
+\bpo(?:sses?s|s?sess|ss)(|ion)\b  INSUFFICIENT
+	\b(?:alc.*bev|alco?holi?c?|booze|spirits|alohol|wine|beer|alc)\b  unlawful possession of alcohol
+		\bpark\b  unlawful possession of alcohol in a public park
+		\bminor\b  unlawful possession of alcohol by a minor
+		\b(?:21|underage)\b  unlawful possession of alcohol by a person under 21 years of age
+		\bveh(?:|icle)|m(otor)?( |\/)v(|eh(|icle))\b  possession of an alcoholic beverage in a motor vehicle
+			\bopen\b  possession of an open alcoholic beverage in a motor vehicle
+		\bschool\b  possession of alcohol on school grounds
+		\billegall?y?\b  possession of illegally obtained alcohol
+	\balprazolam\b  possession of alprazolam
+		\b(?:w\/int|intent)\b  possession of alprazolam with intent to sell
+	\balter.*equip(?:|ment)\b  possession of unlawfully altered equipment
+		\boper(?:|ate)\b  possession or operation of unlawfully altered equipment
+	\baltered.*veh.*serial\b  possession of an altered vehicle serial number
+	\baltere?d?.*plates?\b  possession of altered or invalid license plates
+		\bdisplay\b  display of altered or invalid license plates
+	\bammunition\b  unlawful possession of ammunition
+		\bfelon\b  unlawful possession of ammunition by a convicted felon
+			\bnon-violent\b  unlawful possession of ammunition by a non-violent convicted felon
+	\bblack\s*sea\s*bass\b  unlawful possession of black sea bass
+		\bperm(?:|it)\b  unlawful possession of black sea bass without a permit
+	\bburglary?.*tools?\b  possession of burglary tools
+	\bcell.*phone.*prisoner\b  possession of a cell phone by a prisoner
+	\bclonazepam\b  unlawful possession of clonazepam
+		\b(?:w\/?int|intent)\b  unlawful possession of clonazepam with intent to sell
+	\bclonidine\b  possession of clonidine
+		\b(?:w\/int|intent)\b  possession of clonidine with intent to sell
+	\bcoc\<1g\b  possession of less than one gram of cocaine
+	\bcodine\b  unlawful possession of codine
+		\b(?:w\/?int|intent)\b  unlawful possession of codine with intent to sell
+	\bconcerta\b  unlawful possession of Concerta
+		\b(?:w\/?int|intent)\b  unlawful possession of Concerta with intent to sell
+	\b(?:cs|co?ntro?l?le?d (?:subs|su?bsta?nces?)|controll?e?d? subs?t?a?n?c?e?|contr?o?l? subs?t|add?err?(?:a|o)ll?|metha?o?done)\b  unlawful possession of a controlled substance
+		\bimit(?:|ation)\b  possession of an immitation controlled substance
+			\b(?:w\/?int|intent)\b  possession of an immitation controlled substance with intent to sell
+		\bsale\b  unlawful sale of a controlled substance
+		\bdeliver(?:y?|ing|ed)\b  unlawful delivery of a controlled substance
+	\bco?u?nte?rfe?i?t\b  possession of a counterfeit
+		\b(?:inspec(?:|tion)|insp.*cert(?:|ificat(?:e|ion)))\b  possession of a counterfeit inspection certificate
+	\bdark\s*sponge\s*crab\b  possession of dark sponge crab
+	\bdmt\b  unlawful possession of DMT
+		\b(?:w\/?int|intent)\b  unlawful possession of DMT with intent to sell
+	\bdr\s*w\/?o\s*lic(?:|ense)\b  driving without license in possession
+	\b(?:drugs?|r\/h.*poss.*intent|r\/h.*poss.*paraphernalia.*|cannabinoids?|cocaine|heroine?|meth(?:|amphed?t?amines)|sch(?:|ed(?:|ule?)))\b  unlawful possession of drugs
+		\b(?:w\/ing|intent)\b  unlawful possession of drugs with intent to sell
+		\b(?:prisoner|convict)\b  unlawful possession of drugs by a prisoner
+		\bpara(?:|ph(?:|e?rna?lia))  unlawful possession of drug paraphernalia
+		\bsimple\b  simple possession of drugs
+		\b(?:guns?|fire?arm?|f\/a)\b  possession of a firearm while in possession of drugs
+	\b(?:ex?c?stac?s?y|methylenedioxymethamphetam?i?n?e?|mdma)\b  possession of ecstasy
+		\b(?:w\/?int|intent)\b  possession of ecstasy with intent to sell
+	\bexplosives?\b  possession of explosives
+		\bfelon\b  possession of explosives by a convicted felon
+			\bnon-violent\b  possession of explosives by a convicted non-violent felon
+	\bfictitious\b  INSUFFICIENT
+		\bid\b  possession of a fictitious ID
+		\breg(?:|istration)\b  possession of fictitious registration
+		\binsurance\b  possession of fictitious insurance
+	\bfioricet\b  unlawful possession of Fioricet
+		\b(?:w\/int|intent)\b  unlawful possession of Fioricet with intent to sell
+	\b(?:fire?arms?|hand.*gun|assault.*gun|gun)\b  unlawful possession of firearms
+		\b(?:drug|sch(?:|ed(?:|ule)))\b  unlawful possession of firearms while in possession of drugs
+		\bschool\b  unlawful possession of a firearm on school property
+		\bpermit\b  possession of a firearm without a permit
+		\bconceale?d?\b  unlawful possession of a concealed firearm
+		\btransport\b  unlawful possession or transport of firearms
+		\bdrugs?\b  possession of firearms while in possession of drugs
+		\bjuvenile\b  unlawful possession of firearms as a juvenile
+		\bfelon\b  unlawful possession of firearms as a convicted felon
+			\bnon\s*-?\s*viole?n?t?\b  unlawful possession of firearms as a convicted non-violent felon
+	\bfireworks?\b  possession of fireworks
+		\b(?:sale|sell)\b  possession or sale of fireworks
+	\bgrey\s*trout\b  unlawful possession of grey trout
+		\blimits?\b  possession of grey trout over the limit
+		\boversized?\b  possession of oversized grey trout
+		\bundersized?\b  possession of undersized grey trout
+	\b(?:glue|paint)\b  possession of glue or paint with intent to inhale
+	\bhydrococ?d?one\b  unlawful possession of hydrocodone
+		\b(?:w\/int|intent)\b  unlawful possession of hydrocodone with intent to sell
+	\binfo\b  INSUFFICIENT
+		\bfraud\b  fraudulent possession of information
+			\bid\b  possession of fraudulent identification
+				\buse\b  possession or use of fraudulent identification
+			\bidentification\b  possession of fraudulent identification
+				\buse\b  use or possession of fraudulent identification
+	\binsp.*stick\b  unauthorized possession of an inspection stick
+	\blend\b  INSUFFICIENT
+		\b(?:reg(?:|istration)|lic(?:|ense))\b  unlawful lending of license or registration
+	\blight.*deer\b  possession of lights in a deer area
+	\blithium\b  unlawful possession of lithium
+		\b(?:w\/?int|intent)\b  unlawful possession of lithium with intent to sell
+	\b(?:marij?h?(?:|a?ua?na?n?)|pot|weed)\b  possession of marijuana
+		\b(?:w\/?int|intent)\b  possession of marijuana with intent to sell
+	\bmetal(?:|lurg(?:y|ical))\b  INSUFFICIENT
+		\bbody\b  unlawful metallic implants or piercings
+			\bfelon\b  unlawful metallic implants or piercings in a convicted felon
+				\barmor\b  unlawful possession or use of metal or body armor by a felon
+	\bmethamphetamine\b  unlawful possession of methamphetamine
+	\bmethylphenidate\b  unlawful possession of methylphenidate
+		\b(?:w\/?int|intent)\b  unlawful possession of methylphenidate with intent to sell
+	\bmorphine\b  possession of morphine
+		\b(?:w\/int|intent)\b  possession of morphine with intent to sell
+	\bno.*(?:d\/?l|lic(?:|ense)|o\.?l)\b  failure to carry license on person
+		\boper.*veh\b  failure to carry license on person while operating a vehicle
+	\bno.*reg.*card\b  failure to possess a registration card
+	\bno.*reg.*poss\b  operating a vehicle or equipment without registration in possession
+	\bno.*veh.*reg\b  driving without vehicle registration in possession
+	\bobscene.*mats?(?:|erials?)  possession of obscene materials
+		\bsale\b  possession of obscene materials with intent to sell
+	\bout\s*-?\s*of\s*-?\s*season\b  possession of out-of-season game or fish
+	\bno.*o\/?l\b  operating a vehicle or equipment without operator license in possession  
+	\bover.*limit.*fish\b  possession of fish over the limit
+	\blimit.*black.*drum\b  possession of black drum over the limit
+	\bopen.cont(ainer)?\b  possession of an open container in a motor vehicle
+	\boxi?y?codone?\b  unlawful possession of oxycodone
+		\b(?:w\/int|intent)\b  unlawful possession of oxycodone with intent to sell
+	\blicense\b  driving without a license in possession
+	\bpara(?:|ph(?:|e?r?n?a?l?i?a?))\b  possession of unlawful paraphernalia
+		\b(?:drugs?|marijuana|meth(?:|a?e?mphed?t?amines?)|sched(?:|ule?)|glue|sniff)\b  possession of drug paraphernalia
+		\b(?:cs|controlled)\b  possession of paraphernalia for a controlled substance
+	\bpercocet\b  unlawful possession of Percocet
+		\b(?:w\/?int|intent)\b  unlawful possession of Percocet with intent to sell
+	\bplacard\b  INSUFFICIENT
+		\bcounterfeit\b  possession, sale, use or manning of a counterfeit or altered placard
+	\bposs.*int.*distrib  possession with intent to distribute
+	\bporn(?:|ograph(?:ic|y))\b  possession of unlawful pornography
+		\bchi?ld\b  possession of child pornography
+			\bpromot(?:ion|ed|ing|e)\b  possession or promotion of child pornography
+	\bsale.*underaged?\b  unlawful sale of age-restricted product to underage person
+	\bsmoking\b  possession of illegal smoking products
+		\b(?:sell|sale)\b  possession, use or sale of illegal smoking products	
+	\bsto?len\b  possession of stolen property
+		\btags?\b  possession of stolen tags
+	\bsub-?oxone\b  unlawful possession of Suboxone
+		\b(?:w\/?int|intent)\b  unlawful possession of Suboxone with intent to sell
+	\bsummer\s*flounder\b  unlawful possession of summer flounder
+		\blimits?\b  possession of summer flounder over the limit
+		\boversized?\b  possession of oversized summer flounder
+		\bundersized?\b  possession of undersized summer flounder
+	\btitle\b  unlawful possession of a title
+		\bissued.*another\b  possession of a title issued to another
+	\btobacco\b  unlawful possession of tobacco products
+		\b(?:child|underage\b|minor\b)|18  unlawful possession of tobacco products by an underage person
+	\buncul.*oysters?\b  possession of unculled oysters
+	\bunder.*21\b  underage possession of alcohol
+	\bundersized?\b  possession of undersized prey
+		\btrout\b  possession of an undersized trout
+		\bblack drum\b  possession of an undersized black drum
+		\bfish\b  possession of an undersized fish
+	\bunlab(?:|led)\b  possession of unlabeled products with intent to sell
+	\bvicodi?e?a?n\b  unlawful possession of Vicodin
+		\b(?:w\/?int|intent)\b  unlawful possession of Vicodin with intent to sell
+	\bvi?y?vana?se\b  unlawful possession of Vyvanse
+		\b(?:w\/?int|inetnet)\b  unlawful possession of Vyvanse with intent to sell
+	\b(?:weapon|wpn|blackjacks?|knuckl?e?s)\b  unlawful possession of a weapon
+		\bconcealed\b  unlicensed carrying of a concealed weapon
+		\bproh(?:|ibited)\b  possession of a prohibited weapon
+		\bschool\b  possession of a weapon on school grounds
+		\bfelon\b  unlawful possession of a weapon by a convicted felon
+	\bw\/?o\s*oper(?:|ator\'?s?)\s*lic  operating a vehicle or equipment without an operator's license
+	\bxanax\b  unlawful possession of Xanax
+		\b(?:w\/int|intent)\b  unlawful possession of Xanax with intent to sell
+	\bzolpidem\b  unlawful possession of Zolpidem
+		\b(?:w\/int|intent)\b  unlawful possession of Zolpidem with intent to sell
+\bplates?\b  licence plate violations
+	\bdisplay(?:|ed|ing)\b  license plate display violations
+	\bobscur(?:|e|ed|ing)\b  license plate display violations
+	\bexpir(?:|e|ation|ed)  driving with expired license plates
+\bprotect(?:|ion|ive)\b  INSUFFICIENT
+	\border\b  arrested on the authority of a protective order
+		\bviolat(?:e|ion)\b  violation of an order of protection
+			\bstalking\b  violation of an order of protection by stalking
+			\bfirearms?\b  firearm violations subject to an order of protection
+		\bemergency\b  arrested on the authority of an emergency protective order
+\b(?:prohi?bited|proh)\b  INSUFFICIENT
+	\b(?:weapon|wpn)\b  possession of a prohibited weapon
+		\bcarry(?:|ing)\b  carrying a prohibited weapon
+	\btattoos?\b  giving a tattoo to a person under 18 years of age
+	\banimals?\b  possession of a prohibited animal
+		\bat\s*\blarge\b  possession of an animal at large
+	\bitem\b  INSUFFICIENT
+		\b(?:correctional|prison)\b  possession of a prohibited item in a correctional institution
+	\bsubst(?:|ance?)\b  possession of a prohibited substance
+		\bcorrect|prison  possession of a prohibited substance in a correctional facility or prison
+\bprostitut(?:e|ing|ion)\b  prostitution
+	\bcompel(?:|ling)\b  compelling prostitution
+		\bminor|<\s*18\b  compelling the prostitution of a minor
+	\bpromot(?:e|ion|ing)\b  promoting prostitution
+	\bsolicit(?:|ing)\b  soliciting for prostitution
+\bprovi?d(?:|ing|e|ed)\b  INSUFFICIENT
+	\bunderage\b  providing age-restricted items to an underage person
+\brac(?:e|ed|ing)\b  illegal racing
+	\bhighway\b  racing on a highway
+\b(?:ran|run(?:|ning))\s*a?\s*\bred\s*\blight\b  running a red light
+\b(?:ran|run(?:|ning))\s*a?\s*\bstop\s*-?\s*sign\b  running a stop sign
+\brape\b  rape
+\b(?:receiv(?:e|ing)|recei?pt(?:|ion)|rcvng|re?cv)\b  INSUFFICIENT
+	\bstol(?:en?)?\b  receipt of stolen goods
+		\b(?:drugs?|marij?h?uana|heroine|meth(?:|amphed?t?amines)|sched(?:|ule?))\b  receipt of stolen drugs
+		\b(?:cs|controlled substance)\b  receipt of a stolen controlled substance
+		\bfirearm\b  receipt of a stolen firearm
+			\btheft\b  theft or receipt of a stolen firearm
+\breckless(?:|ness?)\b  recklessness
+	\bunsafe backing\b  unsafe backing
+	\bopera?ti?o?n\b  reckless operation
+		\b(?:veh(?:icle)?|car|auto(?:mobile)?)\b  reckless operation of a vehicle
+	\bgeneral\b  general recklessness
+	\bhandl(?:e|ed|ing)\b  reckless handling
+		\bfirearms?\b  reckless handling of a firearm
+	\bimproper.*brakes\b  driving with improper brakes
+	\boperat(?:e|ion)\b  reckless operation of a vehicle or equipment
+		\bboat\b  reckless operation of a boat
+			\b(?:drunk|intoxicated)\b  intoxicated operation of a boat
+				\bor\b  reckless or intoxicated operation of a boat
+\brefus(?:e|al|ing)\b  INSUFFICIENT
+	\b(?:blood|breath)  refusing a blood or breath test
+\bregistration\b  INSUFFICIENT
+	\b(?:wrong|incorrect)\b  driving with incorrect registration
+	\bsolicit(?:ed|ation|or)\b  solicitation without a permit
+	\bfail.*display\b  failure to display registration
+\breports\s*\btaken\b  Remove
+\brequired?\b  INSUFFICIENT
+	\bdevice\b  lacking a required device
+		\bchild\s*\-\s*resistant\b  lacking a required child-resistant device
+	\bsecure\b  INSUFFICIENT
+		\bloads?\b  driving with an insecure load
+\bresident.*\bno tx d(|river\'?s)\s*-?\s*l(|ic(|ense))\b  driving without an in-state drivers license after 90 days of residency
+\bresist(?:|ed|ing)\b  resisting authorities
+	\barrest\b  resisting arrest
+		\bthreat\s*(?:of)?\s*force\b  resisting arrest with the threat of force
+		\bviolence\b  resisting arrest with violence
+		\buse\s*(?:of)?\s*force\b  resisting arrest with the threat of force
+\brestraint\b  unlawful restraint
+	\bchild\b  child restraint violations
+\bretaliation\b  retaliation
+\brevocation\b  INSUFFICIENT
+	\bbond\b  arrested due to revocation of bond
+	\bsuspended\s*\bsentence\b  arrested due to revocation of suspended sentence
+		\bprobation\b  arrested due to revocation of suspended sentence and probation
+\brobbery\b  robbery
+	\bthreats?\b  robbery by threats
+	\binjur(?:y|ies|e)\b  robbery resulting in injury
+\brunaway\b  arrested as a runaway
+	\bjuvenile\b  arrested as a runaway juvenile
+\bseason\b  INSUFFICIENT
+	\bgame|fish\b  unseasonal hunting or fishing
+		\bexceed\b  exceeding limit on game or fish in off-season
+	\bexceed.*limit\b  exceeding seasonal limit on game or fish
+	\bpoach(?:|ing)\b  poaching
+\b(?:seat\s*-?\s*belts?|seat-belt|safety\s*belts?)\b  seatbelt violations
+	\bdriver\b  driver-side seatbelt violations
+	\bpassengers?\b  passenger-side seatbelt violations
+		\bunder\s+18\b  driving with an unbuckled passenger 17 or younger
+\bsec.*exec.*doc.*decep(|tion|tive|tively|t)\b  securing the execution of a document by deception
+\bsecure\b  INSUFFICIENT
+	\bloads?\b  driving with an insecure load
+\bsex.*ab(?:|use)\b  sexual abuse
+	\bchi?ld\b  sexual abuse of a child
+\bsex.*by child\b  underage sexual activity
+\bsex.*offend(?:|er)\b  failure to comply with sex offender registration or re-registration rules or restrictions
+\bshoplifting\b  shoplifting
+\bshortcut\b  taking an unlawful shortcut
+	\b(?:prop(?:|erty)|pp)\b  taking an unlawful shortcut across private property
+\bsignals?\b  ignoring traffic signals
+	\blane\s*direction\b  ignoring lane direction traffic control signals
+\bsodomy\b  sodomy
+	\bforcible\b  forcible sodomy
+	\bchild\b  sodomy of a child
+\bsolicit(|ed|ation|ing)\b  unlawful solicitation
+	\bonline\b  unlawful online solicitation
+		\bminor\b  online solicitation of a minor
+			\bsex(|ual)\b  online solicitation of a minor for sexual conduct
+\bsolicit(?:ed|ation|or)\b  unlawful solicitation
+	\blicense\b  unlicensed solicitation
+	\bpermit\b  solicitation without a permit
+\bspeed(?:|ing)\b  speeding
+	\bschool\s+zone\b  speeding in a school zone
+	\btoo\s*slow\b  impeding traffic by driving too slowly
+\bstalking\b  stalking
+\bstand.*r(oa)?d\b  standing in the road
+	\bsolicit\s*ride\b  standing in the road and soliciting a ride
+\bstatement\b  INSUFFICIENT
+	\bfalse\b  making false statements
+		\bproperty\b  making a false statement for property
+\b(?:stolen?|steal(?:|ing))\b  stealing
+	\brece(?:ption|ive|ipt)\b  reception of stolen goods
+		\bcheck\b   reception of a stolen check
+	\bdealing\b  dealing in stolen property
+	\blost\b  INSUFFICIENT
+^\s*stop\s*-?\s*light\s*$  stop light violations
+\bstriking\b  INSUFFICIENT
+	\bveh(?:|icle)\b  striking a vehicle
+		\bunattended\b  striking an unattended vehicle
+	\bfixture\b  striking a fixture or highway landscaping
+\bsubstance\b  INSUFFICIENT
+	\bcontroll?ed\b  unlawful possession of a controlled substance
+		\bdeliver(?:y?|ing|ed)\b  unlawful delivery of a controlled substance
+	\b(?:prohi?bi?ted|proh)\b  possession of a prohibited substance
+		\bjail\b  possession of a prohibited substance in a jail
+		\bprison\b  possession of a prohibited substance in a prison
+		\bdetai?nment\b  possession of a prohibited substance in a detainment facility
+		\bcorrect(?:|ional)\b  possession of a prohibited substance in a correctional facility
+\b(?:non-?support|chi?ld support)\b  failure to pay child support
+\bsurety.*surr  surety to surrender
+\bsuspicious\s+incident\b  suspicious incident
+\bsw-\s  arrested during service of a search warrant
+\btag.*light\b  INSUFFICIENT
+	\bno\b  driving without a tag light
+\btail\s*-?\s*lights?\b  tail light violations
+\btamper(?:|ed|ing)\b  tampering
+	\bconsumer\b  tampering with a consumer product
+	\b(evi?de?nce?|eviden)\b  tampering with evidence
+		\bphysical\b  tampering with physical evidence
+	\bfabricat(?:ed|e|ing)\b  tampering with or fabricating evidence
+	\brecords?\b  tampering with records
+		\b(?:governmenta?l?|govt)\b  tampering with government records
+	\bnumbers?\b  tampering with numbers
+		\bidentification\b  tampering with identification numbers
+	\bveh(?:|icle)\b  tampering with a vehicle
+\bthe?ft?\b  theft
+	\b(vehicle|auto)\stheft\b  auto theft
+		\bmoto(?:rcycle)\b  motorcycle theft
+	\bshoplifting\b  shoplifting
+	\bfrom.*\b(veh(|icle)|auto|car|truck)\b  theft from a vehicle
+	\bcomplicity\b  complicity in theft
+	\bcheck\b  theft by check
+	\bck\b  theft by check
+	\bfirearm\b  theft of a firearm
+	\bservices\b  theft of services
+	\bcredit.*cards?\b  credit card theft
+	\bidentity\b  identity theft
+	\bserv(?:|ices?)\b  theft of services
+		\bgoods?\b  theft of goods or services
+	\b(?:f\/elderly|from elderly)\b  theft from an elderly person
+\bthreat(?:|en|ening|ened)\b  issuing a threat
+	\bextort(?:|ion)\b  extortion by threat
+	\bterroristic\b  issuing a terroristic threat
+		\b(?:public|servant)\b  issuing a terroristic threat against a public servant
+		\bfamily\b|house  issuing a terroristic threat to a family or household
+	\bbomb\b  issuing a bomb threat
+	\bpublic\b  issuing a threat in a public forum
+		\blanguage\b  using threatening language in a public forum
+			\bprofane\b  using profane or threatening language in a public forum
+				\bairway\b  using profane or threatening language over a public airway
+	\bletter\b  sending a threatening letter
+		\bcommunications?\b  sending threatening letters or communications
+\btobacco\b  INSUFFICIENT
+	\b(?:sale|sell(?:|ing))\b  unlawful sale of tobacco
+		\bdeliv(ery)?\b  unlawful sale or delivery of tobacco
+			\brestrictions\b  violation of tobacco sale or delivery restrictions
+		\bminor\b|(?<=\s)18(?=\W|$)|\bunderage\b  sale of tobacco to a minor
+\btrail\s*-?\s*lights?\b  driving without trail lights
+\btraffic\b  traffic violations
+	\bdl|driver\'?s?\s+lic(ense)?\b  traffic violations
+		\bsusp(end(ed)?)?  driving with a suspended driver's license
+	\bdevice\b  violation of a traffic device
+		\bpark(ing)? too? close\b  parking too close to a traffic device
+	\bimpeding\b  impeding traffic
+		\bslow(ly)?\b  impeding traffic by driving too slowly
+\btraffic.*cont?r?o?l?.*devi?c?e?\b  violation of a traffic control device
+\btraffic.*cont?r?o?l?.*li?ghts?\b  violation of a traffic control light
+^\s*traffic.*device\s*$  violation of a traffic device
+\btraffick(?:|ing)\b  unlawful trafficking
+	\bdevice\b  violation of a traffic device
+	\b(?:people|persons?)\b  trafficking of persons
+\btrespass(?:|ed|ing)\b  criminal trespassing
+	\bwarning\b  trespassing warning
+	\b(?:school|church)\b  criminal trespassing on school or church property
+	\b(?:RR|railroad)\b  criminal trespassing to a railroad
+		\btracks\b  criminal trespassing on railroad tracks
+\bunlicensed.*drive\b  driving without a license
+	\bpermit\b  driving with a permit but without a license
+\bunsafe\b  recklessness
+	\bunsafe backing\b  unsafe backing
+	\bunsafe tires\b  driving with unsafe tires
+	\bco?nditi?o?n?s?\b  responsibility for unsafe conditions
+		\b(too fast|unsafe speed)\b  driving too fast for conditions
+	\b(?:lane.*change|change.*lane)\b  unsafe lane change
+	\bequipment\b  using unsafe equipment
+	\bturn(s)?(ed)?\b  making an unsafe turn
+		\bno.*signal\b  turning without a signal
+	\bop(er)?(at)?(e)?(ing)?.*equip(ment)?\b  operating unsafe equipment
+		\bveh(icle)?\b  operating an unsafe vehicle or piece of equipment
+	\bspeed(ing)?\b  speeding
+	\b(?:veh(?:icle)?|car|auto(?:mobile)?)\b  driving an unsafe vehicle
+\bunsecured\b  INSUFFICIENT
+	\btag.*obscured\b  tag violations
+\buse\b  using something unlawfully
+	\bpersonal.*use.*dealer.*(tags?|plates?)\b  personal use of dealer plates
+	\b(?:unauth(?:|orized)|unathori?ze?d?)\b  unauthorized use of something
+		\bpropert?y?\b  unauthorized use of property
+		\bplates?\b  driving with unauthorized plates
+	\bschool\b  using something unlawfully in a school zone
+		\bcell.*phone\b  unlawful use of a cell phone in a school zone
+	\binstrument\b  unlawful use of an instrument
+		\bcriminal\b  unlawful use of a criminal instrument
+	\bproducts?\b  use of unlawful products
+		\bsmok(?:e|ing)\b  use of unlawful smoking products
+			\b(?:sell|possess|sale)\b  possession, use or sale of unlawful smoking products
+	\bveh(?:|icle)\b  unlawful use of a vehicle
+		\bunauth(?:|orized)\b  unauthorized use of a vehicle
+	\bidentification\b  unlawful use of identification
+		\bfraud\b  use of fraudulent identification
+	\blines\b  unlawful use of service lines
+		\b(?:tele)?phone\b  injuring or improperly using telephone lines
+	\bfirearm\b  unlawful use of a firearm
+		\bdisplay\b  unlawful use or display of a firearm
+			\bcommi.*felony\b  unlawful use or display of a firearm while committing a felony
+	\bsignals?\b  unlawful use of signals
+		\bTV|radio\b  unlawful use of television or radio broadcast signals
+\buumv\b  unauthorized use of a motor vehicle
+\buuv\b  unauthorized use of a vehicle
+\bvandalism\b  vandalism
+\bveh(icle)?.*lights?.*night\b  driving a vehicle at night without lights
+(?<!domestic )\bviol(?:|at(?:e|ed|ions?|ing))\b  INSUFFICIENT
+	\bfence violations?\b  fence violations
+	\bopen.*container\b  alcohol open-container violations
+	\b(auto(mobile)?|car|veh(icle)?)\b  automobile violations
+		\binspection\b  motor vehicle inspection violations
+		\bfin(a?nci?a?l)? resp(onsi?bi?li?ty)?\b  financial responsibility for an automobile violation
+		\breg(istration)?\b  vehicle registration violations
+	\bcu?rfe?w\b  curfew violations
+		\bpark\b  park curfew violations
+	\bdrug\b  drug-related offenses
+	\bexpired.*tag\b  driving with expired license plates
+	\bfail(ure).*control\b  failure to control a vehicle
+	\bfirearm\b  firearm violations
+		\b(?:order.*protection|protective.*order)\b  firearm violations subject to an order of protection
+	\bhunting\b  hunting violations
+		\bprovisions\b  unlawful hunting provisions
+	\blane\b  lane violations
+	\bliquor\b  liquor violations
+	\bpromise.*appear\b  violation of a promise to appear
+	\bprobation\b  violation of probation
+		\bfo?rge?ry\b  violation of probation by committal of forgery
+	\brestrictions?\b  violation of restrictions
+		\blicense\b  violation of license restrictions
+			\boccupational\b  violation of occupational license restrictions
+	\bordinance\b  ordinance violations
+		\bcity\b  city ordinance violations
+	\b(?:orders?|tpo)\b  violation of an order
+		\b(protect(?:|i(?:ve|on))|tpo)\b  violation of an order of protection
+			\bstalking\b  violation of an order of protection by stalking
+			\bfirearms?\b  firearm violations subject to an order of protection
+	\bbond\b  bond violation
+	\bprobation\b  violation of probation
+	\bparole\b  parole violation
+	\bparking\b  parking violations
+		\bhandicap(?:|ped)\b  unlawful parking in a handicapped parking place
+	\bpermit\b  permit violations
+	\bred\s*-?\s*light\b  red light violations
+	\bregistr?a?t?i?o?n?\b  registration violations
+		\bveh(?:|icle)\b  vehicle registration violations
+	\bspeed(ing)?\b  speeding
+	\bspeed\s*-?\s*distance\b  driving too closely behind another vehicle
+	\bsupport\b  support violations
+		\b(?:chi?ld|chil)\b  child support violations
+	\binspection\b  inspection violations
+		\bsticker\b  inspection sticker violations
+	\bseat\s*-?\s*belts?\b  seatbelt violations
+	\bsexual.*orient.*(?:bus|ent)  violation of sexually oriented enterprise
+	\bstop\s*-?\s*sign\b  stop sign violations
+	\btraffic\s*-?\s*signals?\b  traffic signal violations
+	\bturn\s*-?\s*signals?\b  turn signal violations
+	\b(driver\'?s? lice?n?c?e?|dl)\b  driver's license violations
+		\bviolat.*restrict  violating restrictions on a driver's license
+	\bproof.*insurance\b  driving without proof of insurance
+	\bpublic.*safety.*vehicle\b  public safety vehicle violations
+^(?:domestic)?\s*viole?n?c?e?\s*$  violence
+\bvoid\b  Remove
+\bwalking\b  walking in an unlawful place
+	\bhighway\b  walking on a highway
+\bwarrant\b  arrested on authority of a warrant
+	\bsearch\b  arrested during service of a search warrant
+	\bwarrant\s+required\b  INSUFFICIENT
+		\bfugitive.*other\s+state\b  fugitive from another state
+\b(weapons?|wpn)\b  weapon-related offenses
+	\b(carr(?:ied|ying|y)|cry)\b  unlawful carrying of a weapon
+	\bconceal(?:|ing|ed)\b  unlawful carrying of a concealed weapon
+	\bprohibited\b  possession of a prohibited weapon
+	\bdisorderly\b  disorderly conduct with a weapon
+		\bdeadly\b  disorderly conduct
+	\bpossess\b  unlawful possession of a weapon
+		\bfelon\b  unlawful possession of a weapon as a felon
+	\bdischarg(?:e|ing)\b  unlawfully discharging a weapon
+		\bair.*operated\b  unlawful discharge of an air-operated weapon
+		\broad\b  discharging a weapon on or across a road
+\bweaving\b  driving inattentively or weaving in the roadway
+\bwindow\s+tint  unlawfully tinted vehicle windows
+\bwindshield.*illegal sun\s*-?\s*screen\b  driving with a windshield with an illegal sunscreen
+\bwounding\b  wounding
+	\bmob\b  wounding
+\bwrongful\s*(?:e|i)ntr(?:y|us)\b  trespassing
