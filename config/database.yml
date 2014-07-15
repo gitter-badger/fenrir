@@ -55,7 +55,7 @@ test:
 production:
   adapter: postgresql
   encoding: UTF-8
-  database: fenrir_production
-  pool: 5
-  username: fenrir
-  password: fenrir
+  database: app-dev
+#  pool: 5
+#  username: fenrir
+#  password: fenrir
