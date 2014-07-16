@@ -11,11 +11,7 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require reset
- *= require_self
- //= require foundation_and_overrides
-
- *= require_tree .
- *= require foundation */
+ *= require_self*/
 
 body{
 	background-image:url('/serve_image/treefall');
