@@ -17,4 +17,9 @@
 //= require turbolinks
 //= require_tree .
 
+//$(function(){ $(document).foundation(); });
+
+<%= javascript_include_tag "application" %>
+<script type="text/javascript">$(function(){ $(document).foundation(); });</script>
+</div>
 $(function(){ $(document).foundation(); });

@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 1.2'
 
 # Yay CSS framework
 gem 'foundation-rails'
+#gem 'foundation'
 gem 'rails-boilerplate'
 
 group :doc do
@@ -58,5 +59,5 @@ group :assets do
 
   # Add these gems
   gem 'compass-rails'
-  gem 'zurb-foundation'
+  #gem 'zurb-foundation'
 end

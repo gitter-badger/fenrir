@@ -55,10 +55,7 @@ test:
 production:
   adapter: postgresql
   encoding: UTF-8
-  #database: fenrir_production
-  database: d3ktki9qgjt668
-  username: blcgzvaabwaegu
-  password: kZ6KKTkw7bT6n29_G594lEEz4k
+  database: fenrir_production
   pool: 5
-  #username: fenrir
-  #password: fenrir
+  username: fenrir
+  password: fenrir
