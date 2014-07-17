@@ -11,6 +11,10 @@ class PagesController < ApplicationController
 
 	end
 
+	def automated_feedback
+
+	end
+
 end
 
 

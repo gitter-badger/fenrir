@@ -4,6 +4,7 @@ Fenrir::Application.routes.draw do
   get '/loki' => 'pages#loki'
   get '/heatmap' => 'pages#heatmap'
   get '/test' => 'pages#test'
+  get '/automated_feedback' => 'pages#automated_feedback'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
