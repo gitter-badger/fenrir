@@ -14,10 +14,17 @@
 //= require jquery
 //= require foundation
 //= require jquery_ujs
-//= require turbolinks
 //= require_tree .
 
 //$(function(){ $(document).foundation(); });
 
 $(function(){ $(document).foundation(); });
-//= require jquery.infinitescroll
+
+$(document).ready(function() {
+  $('#example').dataTable();
+} );
+
+function handlerButton(id, f) {
+  f.update();
+return true;
+} 

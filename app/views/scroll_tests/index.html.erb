@@ -1,40 +1,61 @@
+<html>
 <head>
-  <title>Fenrir</title>
-  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
-  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
-  <%= csrf_meta_tags %>
-  <script src="#{Rails.root.to_s}/app/assets/javascripts/jquery.fixedheadertable.min.js"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8">
+  <link rel="shortcut icon" type="image/ico" href="http://www.datatables.net/favicon.ico">
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0">
+
+  <title>DataTables example - Zero configuration</title>
+  <link rel="stylesheet" type="text/css" href="#{Rails.root.to_s}/app/assets/stylesheets/jquery.dataTables.css">
+  <link rel="stylesheet" type="text/css" href="#{Rails.root.to_s}/app/assets/stylesheets/shCore.css">
+  <link rel="stylesheet" type="text/css" href="#{Rails.root.to_s}/app/assets/stylesheets/demo.css">
+  <style type="text/css" class="init">
+
+  </style>
+  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/javascripts/jquery.js"></script>
+  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/javascripts/jquery.dataTables.js"></script>
+  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/syntax/shCore.js"></script>
+  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/resources/demo.js"></script>
+  <script type="text/javascript" language="javascript" class="init">
+
+
+$(document).ready(function() {
+  $('#example').dataTable();
+} );
+
+function handlerButton(id, f) {
+  f.id.submit();
+return true;
+} 
+
+  </script>
 </head>
 
-<table id="myTable01">
+<body>
+  <div class="row" id="first">
+<table class="display" id="example">
   <thead>
     <tr>
+      <th>ID</th>
       <th>Title</th>
       <th>Author</th>
       <th>Body</th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
 
   <tbody>
     <% @scroll_tests.each do |scroll_test| %>
+      <%= form_for(scroll_test) do |f| %>
       <tr>
-        <td><%= scroll_test.title %></td>
-        <td><%= scroll_test.author %></td>
-        <td><%= scroll_test.body %></td>
-        <td><%= link_to 'Show', scroll_test %></td>
-        <td><%= link_to 'Edit', edit_scroll_test_path(scroll_test) %></td>
-        <td><%= link_to 'Destroy', scroll_test, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= scroll_test.id %></td>
+        <td class="field"><%= f.text_field :title, {:onkeyup=>"if (event.keyCode == 13) {handlerButton()}"}%></td>
+        <td class="field"><%= f.text_field :author, {:onkeyup=>"if (event.keyCode == 13) {handlerButton()}"}%></td>
+        <td class="field"><%= f.text_field :body, {:onkeyup=>"if (event.keyCode == 13) {handlerButton()}"}%></td>
       </tr>
+    <% end %>
     <% end %>
   </tbody>
 </table>
 
 <br>
-
-
-<%= link_to 'New Scroll test', new_scroll_test_path %>
-<%= paginate @scroll_tests %>
+</div>
+</body>

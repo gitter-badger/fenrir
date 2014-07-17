@@ -1,9 +1,7 @@
 # app/views/posts/_post.html.erb
-<tr class="post">
-  <td><%= post.title %></td>
-  <td><%= post.author %></td>
-  <td><%= post.body %></td>
-  <td><%= link_to 'Show', post %></td>
-  <td><%= link_to 'Edit', edit_post_path(post) %></td>
-  <td><%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-</tr>
+      <tr>
+        <td><%= edit_scroll_test_path(scroll_test.id)%></td>
+        <td><%= link_to "#{scroll_test.author}", edit_scroll_test_path(scroll_test)%></td>
+        <td><%= link_to "#{scroll_test.body}", edit_scroll_test_path(scroll_test.body)%></td>
+        <td><%= link_to 'Destroy', scroll_test, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
