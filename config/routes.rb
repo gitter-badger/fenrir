@@ -1,10 +1,13 @@
 Fenrir::Application.routes.draw do
+  resources :scroll_tests
+
   root 'welcome#index'
   get '/serve_image/:filename' => 'images#serve'
   get '/loki' => 'pages#loki'
   get '/heatmap' => 'pages#heatmap'
   get '/test' => 'pages#test'
   get '/automated_feedback' => 'pages#automated_feedback'
+  get '/scroll_tests' => 'scroll_tests#index.html.erb'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

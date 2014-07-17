@@ -1,0 +1,32 @@
+<h1>Listing scroll_tests</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Body</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @scroll_tests.each do |scroll_test| %>
+      <tr>
+        <td><%= scroll_test.title %></td>
+        <td><%= scroll_test.author %></td>
+        <td><%= scroll_test.body %></td>
+        <td><%= link_to 'Show', scroll_test %></td>
+        <td><%= link_to 'Edit', edit_scroll_test_path(scroll_test) %></td>
+        <td><%= link_to 'Destroy', scroll_test, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Scroll test', new_scroll_test_path %>
+<%= paginate @scroll_tests %>

@@ -20,3 +20,4 @@
 //$(function(){ $(document).foundation(); });
 
 $(function(){ $(document).foundation(); });
+//= require jquery.infinitescroll

@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @scroll_test.title %>
+</p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @scroll_test.author %>
+</p>
+
+<p>
+  <strong>Body:</strong>
+  <%= @scroll_test.body %>
+</p>
+
+<%= link_to 'Edit', edit_scroll_test_path(@scroll_test) %> |
+<%= link_to 'Back', scroll_tests_path %>
