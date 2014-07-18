@@ -20,11 +20,10 @@
 
 $(function(){ $(document).foundation(); });
 
-$(document).ready(function() {
-  $('#example').dataTable();
-} );
+$('#example').dataTable();
 
-function handlerButton(id, f) {
+
+function handlerButton(f) {
   f.update();
 return true;
 } 

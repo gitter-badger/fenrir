@@ -1,51 +1,29 @@
-<html>
-<head>
-  <meta charset="utf-8">
-  <link rel="shortcut icon" type="image/ico" href="http://www.datatables.net/favicon.ico">
-  <meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0">
-
-  <title>DataTables example - Zero configuration</title>
-  <link rel="stylesheet" type="text/css" href="#{Rails.root.to_s}/app/assets/stylesheets/jquery.dataTables.css">
-  <link rel="stylesheet" type="text/css" href="#{Rails.root.to_s}/app/assets/stylesheets/shCore.css">
-  <link rel="stylesheet" type="text/css" href="#{Rails.root.to_s}/app/assets/stylesheets/demo.css">
-  <style type="text/css" class="init">
-
-  </style>
-  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/javascripts/jquery.js"></script>
-  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/javascripts/jquery.dataTables.js"></script>
-  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/syntax/shCore.js"></script>
-  <script type="text/javascript" language="javascript" src="#{Rails.root.to_s}/app/assets/resources/demo.js"></script>
-  <script type="text/javascript" language="javascript" class="init">
-
-  </script>
-</head>
-
 <body>
-  <div class="row" id="first">
-<table class="display" id="example">
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Title</th>
-      <th>Author</th>
-      <th>Body</th>
-    </tr>
-  </thead>
+  <div class="row first">
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Body</th>
+        </tr>
+      </thead>
 
-  <tbody>
-    <% @scroll_tests.each do |scroll_test| %>
-      <%= form_for(scroll_test) do |f| %>
-      <tr>
-        <td><%= scroll_test.id %></td>
-        <td class="field"><%= f.text_field :title, {:onkeyup=>"if (event.keyCode == 13) {handlerButton()}"}%></td>
-        <td class="field"><%= f.text_field :author, {:onkeyup=>"if (event.keyCode == 13) {handlerButton()}"}%></td>
-        <td class="field"><%= f.text_field :body, {:onkeyup=>"if (event.keyCode == 13) {handlerButton()}"}%></td>
-      </tr>
-    <% end %>
-    <% end %>
-  </tbody>
-</table>
+      <tbody>
+        <% @scroll_tests.each do |scroll_test| %>
+          <%= form_for(scroll_test) do |f| %>
+          <tr>
+            <td><%= scroll_test.id %></td>
+            <td class="field"><%= f.text_field :title, {:onkeyup=>"if (event.keyCode == 13) {handlerButton(#{scroll_test.id},scroll_test)}"}%></td>
+            <td class="field"><%= f.text_field :author, {:onkeyup=>"if (event.keyCode == 13) {handlerButton(#{scroll_test.id},scroll_test)}"}%></td>
+            <td class="field"><%= f.text_field :body, {:onkeyup=>"if (event.keyCode == 13) {handlerButton(#{scroll_test.id},scroll_test)}"}%></td>
+          </tr>
+        <% end %>
+        <% end %>
+      </tbody>
+    </table>
 
-<br>
-</div>
+    <br>
+  </div>
 </body>
