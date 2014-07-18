@@ -1,4 +1,5 @@
 @import "foundation";
+
 /* Add imports of custom sass/scss files here */
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
@@ -11,7 +12,8 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require reset
- *= require_self*/
+ *= require_self
+ */
 
 body{
 	background-image:url('/serve_image/treefall');
