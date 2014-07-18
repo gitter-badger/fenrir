@@ -6,16 +6,20 @@
 
     <title><%= content_for?(:title) ? yield(:title) : "Fenrir" %></title>
 
-    <%= stylesheet_link_tag    "application" %>
+    
+
     <%= stylesheet_link_tag    "defaultTheme" %>
-    <%= stylesheet_link_tag    "jquery.dataTables"%>
     <%= stylesheet_link_tag    "shCore"%>
     <%= stylesheet_link_tag    "demo"%>
+    <%= stylesheet_link_tag    "foundation"%>
+    <%= stylesheet_link_tag    "dataTables.foundation" %>
+    <%= stylesheet_link_tag    "application" %>
     <%= javascript_include_tag "vendor/modernizr" %>
     <%= javascript_include_tag "jquery"%>
     <%= javascript_include_tag "jquery.dataTables"%>
     <%= javascript_include_tag "shCore"%>
     <%= javascript_include_tag "demo"%>
+    <%= javascript_include_tag "dataTables.foundation"%>
     <%= csrf_meta_tags %>
 
     <!--<meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0">-->

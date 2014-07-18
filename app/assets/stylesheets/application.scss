@@ -1,5 +1,3 @@
-@import "foundation";
-
 /* Add imports of custom sass/scss files here */
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
@@ -18,6 +16,7 @@
 body{
 	background-image:url('/serve_image/treefall');
 	background-size:cover;
+	width:100%;
 	}
 
 div{
